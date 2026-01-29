@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/io/jsonwebtoken/impl/TextCodec.members/TextCodec.members#51.0-1530787844000-java.trap.gz
+
+TRAPS
+classes/io/jsonwebtoken/impl/TextCodec.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz

@@ -1,0 +1,15 @@
+TRAP dependencies 1.2
+
+SOURCES
+
+INCLUDES
+
+OBJECTS
+
+INPUT_OBJECTS
+
+TRAPS
+Users/lousix/sec/CodeQL/JavaProject/WebGoat/src/main/java/org/owasp/webgoat/lessons/jwt/votes/Views.java.trap.gz
+classes/org/owasp/webgoat/lessons/jwt/votes/Views.members/Views.members#0.0-1698980255067-java.trap.gz
+classes/org/owasp/webgoat/lessons/jwt/votes/Views$GuestView.members/Views$GuestView.members#0.0-1698980255067-java.trap.gz
+classes/org/owasp/webgoat/lessons/jwt/votes/Views$UserView.members/Views$UserView.members#0.0-1698980255067-java.trap.gz

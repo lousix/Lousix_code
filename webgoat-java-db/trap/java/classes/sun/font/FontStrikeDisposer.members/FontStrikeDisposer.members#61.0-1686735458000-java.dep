@@ -1,0 +1,20 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/sun/font/FontStrikeDisposer.members/FontStrikeDisposer.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/sun/font/FontStrikeDisposer.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/sun/java2d/DisposerRecord.members.trap.gz
+classes/sun/java2d/Disposer$PollDisposable.members.trap.gz
+classes/sun/font/Font2D.members.trap.gz
+classes/sun/font/FontStrikeDesc.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/sun/font/FontStrike.members.trap.gz
+classes/java/lang/ref/Reference.members.trap.gz
+classes/java/util/concurrent/ConcurrentHashMap.members.trap.gz
+classes/java/util/AbstractMap.members.trap.gz
+classes/java/util/Map.members.trap.gz
+classes/java/util/concurrent/ConcurrentMap.members.trap.gz

@@ -1,0 +1,15 @@
+TRAP dependencies 1.2
+
+SOURCES
+
+INCLUDES
+
+OBJECTS
+
+INPUT_OBJECTS
+
+TRAPS
+Users/lousix/sec/CodeQL/JavaProject/WebGoat/src/main/java/org/owasp/webgoat/lessons/idor/IDORViewOwnProfileAltUrl.java.trap.gz
+classes/org/owasp/webgoat/lessons/idor/IDORViewOwnProfileAltUrl.members/IDORViewOwnProfileAltUrl.members#0.0-1698980255065-java.trap.gz
+classes/org/owasp/webgoat/lessons/idor/UserProfile.members/UserProfile.members#0.0-1698980255065-java.trap.gz
+modules/java.base.trap.gz

@@ -1,0 +1,21 @@
+TRAP dependencies 1.2
+
+TRAP
+Users/lousix/sec/CodeQL/JavaProject/WebGoat/src/main/java/org/owasp/webgoat/lessons/xxe/Comment.java.trap.gz
+
+TRAPS
+classes/jakarta/xml/bind/annotation/XmlRootElement.members.trap.gz
+classes/jakarta/xml/bind/annotation/XmlType.members.trap.gz
+classes/lombok/AllArgsConstructor.members.trap.gz
+classes/lombok/Getter.members.trap.gz
+classes/lombok/NoArgsConstructor.members.trap.gz
+classes/lombok/Setter.members.trap.gz
+classes/lombok/ToString.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/owasp/webgoat/lessons/xxe/Comment.members.trap.gz
+classes/java/lang/SuppressWarnings.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/lombok/Generated.members.trap.gz
+classes/java/lang/Override.members.trap.gz

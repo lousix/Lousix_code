@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/asciidoctor/ast/Footnote.members/Footnote.members#52.0-1685860890000-java.trap.gz
+
+TRAPS
+classes/org/asciidoctor/ast/Footnote.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Long.members.trap.gz

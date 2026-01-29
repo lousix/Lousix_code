@@ -1,0 +1,13 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/jdbc/core/StatementCallback.members/StatementCallback.members#61.0-1697073494000-java.trap.gz
+
+TRAPS
+classes/org/springframework/jdbc/core/StatementCallback.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/FunctionalInterface.members.trap.gz
+classes/java/sql/Statement.members.trap.gz
+classes/org/springframework/lang/Nullable.members.trap.gz
+classes/java/sql/SQLException.members.trap.gz
+classes/org/springframework/dao/DataAccessException.members.trap.gz

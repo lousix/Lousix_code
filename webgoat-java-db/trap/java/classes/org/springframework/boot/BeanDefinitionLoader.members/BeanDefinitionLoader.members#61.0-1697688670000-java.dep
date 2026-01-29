@@ -1,0 +1,14 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/boot/BeanDefinitionLoader.members/BeanDefinitionLoader.members#61.0-1697688670000-java.trap.gz
+
+TRAPS
+classes/org/springframework/boot/BeanDefinitionLoader.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/springframework/core/env/ConfigurableEnvironment.members.trap.gz
+classes/org/springframework/core/io/ResourceLoader.members.trap.gz
+classes/org/springframework/beans/factory/support/BeanNameGenerator.members.trap.gz
+classes/org/springframework/beans/factory/support/BeanDefinitionRegistry.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz

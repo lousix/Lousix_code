@@ -1,0 +1,24 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/owasp/webgoat/container/users/LessonTracker.members/LessonTracker.members#0.0-1698980255057-java.trap.gz
+
+TRAPS
+classes/org/owasp/webgoat/container/users/LessonTracker.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/jakarta/persistence/Entity.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/lombok/EqualsAndHashCode.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/lombok/EqualsAndHashCode$CacheStrategy.members.trap.gz
+classes/lombok/EqualsAndHashCode$AnyAnnotation.members.trap.gz
+classes/java/lang/SuppressWarnings.members.trap.gz
+classes/lombok/Generated.members.trap.gz
+classes/java/lang/Override.members.trap.gz
+classes/java/util/Map.members.trap.gz
+classes/org/owasp/webgoat/container/lessons/Assignment.members.trap.gz
+classes/java/lang/Boolean.members.trap.gz
+classes/java/util/Optional.members.trap.gz
+classes/jdk/internal/ValueBased.members.trap.gz
+classes/org/owasp/webgoat/container/lessons/Lesson.members.trap.gz

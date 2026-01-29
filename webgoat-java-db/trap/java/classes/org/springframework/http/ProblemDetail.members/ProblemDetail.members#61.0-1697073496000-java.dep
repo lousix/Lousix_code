@@ -1,0 +1,14 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/http/ProblemDetail.members/ProblemDetail.members#61.0-1697073496000-java.trap.gz
+
+TRAPS
+classes/org/springframework/http/ProblemDetail.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/springframework/http/HttpStatusCode.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/springframework/lang/Nullable.members.trap.gz
+classes/java/util/Map.members.trap.gz
+classes/java/net/URI.members.trap.gz
+classes/org/springframework/http/HttpStatus.members.trap.gz

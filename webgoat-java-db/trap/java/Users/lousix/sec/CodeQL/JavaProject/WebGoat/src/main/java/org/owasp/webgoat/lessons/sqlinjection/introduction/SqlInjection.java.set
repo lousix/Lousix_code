@@ -1,0 +1,13 @@
+TRAP dependencies 1.2
+
+SOURCES
+
+INCLUDES
+
+OBJECTS
+
+INPUT_OBJECTS
+
+TRAPS
+Users/lousix/sec/CodeQL/JavaProject/WebGoat/src/main/java/org/owasp/webgoat/lessons/sqlinjection/introduction/SqlInjection.java.trap.gz
+classes/org/owasp/webgoat/lessons/sqlinjection/introduction/SqlInjection.members/SqlInjection.members#0.0-1698980255072-java.trap.gz

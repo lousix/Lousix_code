@@ -1,0 +1,18 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/util/ConcurrentReferenceHashMap$Task.members/ConcurrentReferenceHashMap$Task.members#61.0-1697073474000-java.trap.gz
+
+TRAPS
+classes/org/springframework/util/ConcurrentReferenceHashMap$Task.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/springframework/util/ConcurrentReferenceHashMap.members.trap.gz
+classes/org/springframework/util/ConcurrentReferenceHashMap$Reference.members.trap.gz
+classes/org/springframework/util/ConcurrentReferenceHashMap$Entry.members.trap.gz
+classes/java/util/Map$Entry.members.trap.gz
+classes/java/util/Map.members.trap.gz
+classes/org/springframework/lang/Nullable.members.trap.gz
+classes/org/springframework/util/ConcurrentReferenceHashMap$Entries.members.trap.gz
+classes/org/springframework/util/ConcurrentReferenceHashMap$TaskOption.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz

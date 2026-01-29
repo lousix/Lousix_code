@@ -1,0 +1,20 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/security/config/annotation/web/configurers/ChannelSecurityConfigurer$RequiresChannelUrl.members/ChannelSecurityConfigurer$RequiresChannelUrl.members#61.0-1697442116000-java.trap.gz
+
+TRAPS
+classes/org/springframework/security/config/annotation/web/configurers/ChannelSecurityConfigurer$RequiresChannelUrl.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/springframework/security/config/annotation/web/configurers/ChannelSecurityConfigurer.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/springframework/security/config/annotation/web/configurers/ChannelSecurityConfigurer$ChannelRequestMatcherRegistry.members.trap.gz
+classes/org/springframework/security/config/annotation/web/configurers/AbstractConfigAttributeRequestMatcherRegistry.members.trap.gz
+classes/org/springframework/security/config/annotation/web/AbstractRequestMatcherRegistry.members.trap.gz
+classes/org/springframework/security/config/annotation/web/configurers/AbstractHttpConfigurer.members.trap.gz
+classes/org/springframework/security/config/annotation/SecurityConfigurerAdapter.members.trap.gz
+classes/org/springframework/security/config/annotation/SecurityConfigurer.members.trap.gz
+classes/org/springframework/security/web/util/matcher/RequestMatcher.members.trap.gz
+classes/java/util/List.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz

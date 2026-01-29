@@ -1,0 +1,20 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/owasp/webgoat/webwolf/requests/Requests$Tracert.members/Requests$Tracert.members#0.0-1698980255079-java.trap.gz
+
+TRAPS
+classes/org/owasp/webgoat/webwolf/requests/Requests$Tracert.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/owasp/webgoat/webwolf/requests/Requests.members.trap.gz
+classes/lombok/AllArgsConstructor.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/lombok/AllArgsConstructor$AnyAnnotation.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/lombok/AccessLevel.members.trap.gz
+classes/lombok/Getter.members.trap.gz
+classes/lombok/Getter$AnyAnnotation.members.trap.gz
+classes/java/lang/SuppressWarnings.members.trap.gz
+classes/lombok/Generated.members.trap.gz
+classes/java/time/Instant.members.trap.gz

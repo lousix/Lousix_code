@@ -1,0 +1,16 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/boot/autoconfigure/AutoConfigurationPackages$Registrar.members/AutoConfigurationPackages$Registrar.members#61.0-1697688704000-java.trap.gz
+
+TRAPS
+classes/org/springframework/boot/autoconfigure/AutoConfigurationPackages$Registrar.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/springframework/context/annotation/ImportBeanDefinitionRegistrar.members.trap.gz
+classes/org/springframework/boot/context/annotation/DeterminableImports.members.trap.gz
+classes/org/springframework/boot/autoconfigure/AutoConfigurationPackages.members.trap.gz
+classes/org/springframework/core/type/AnnotationMetadata.members.trap.gz
+classes/java/util/Set.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/org/springframework/beans/factory/support/BeanDefinitionRegistry.members.trap.gz

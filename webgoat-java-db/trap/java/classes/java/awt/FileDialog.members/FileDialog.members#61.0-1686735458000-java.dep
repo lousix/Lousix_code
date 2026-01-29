@@ -1,0 +1,15 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/java/awt/FileDialog.members/FileDialog.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/java/awt/FileDialog.members.trap.gz
+classes/java/awt/Dialog.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/io/FilenameFilter.members.trap.gz
+classes/java/io/File.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/java/awt/Frame.members.trap.gz

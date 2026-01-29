@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/thymeleaf/processor/xmldeclaration/IXMLDeclarationProcessor.members/IXMLDeclarationProcessor.members#52.0-1670321336000-java.trap.gz
+
+TRAPS
+classes/org/thymeleaf/processor/xmldeclaration/IXMLDeclarationProcessor.members.trap.gz
+classes/org/thymeleaf/processor/IProcessor.members.trap.gz
+classes/org/thymeleaf/context/ITemplateContext.members.trap.gz
+classes/org/thymeleaf/model/IXMLDeclaration.members.trap.gz
+classes/org/thymeleaf/processor/xmldeclaration/IXMLDeclarationStructureHandler.members.trap.gz

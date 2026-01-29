@@ -1,0 +1,18 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/owasp/webgoat/lessons/hijacksession/cas/HijackSessionAuthenticationProvider.members/HijackSessionAuthenticationProvider.members#0.0-1698980255064-java.trap.gz
+
+TRAPS
+classes/org/owasp/webgoat/lessons/hijacksession/cas/HijackSessionAuthenticationProvider.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/owasp/webgoat/lessons/hijacksession/cas/Authentication.members.trap.gz
+classes/org/owasp/webgoat/lessons/hijacksession/cas/AuthenticationProvider.members.trap.gz
+classes/java/lang/FunctionalInterface.members.trap.gz
+classes/java/security/Principal.members.trap.gz
+classes/org/springframework/stereotype/Component.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/springframework/web/context/annotation/ApplicationScope.members.trap.gz
+classes/org/springframework/context/annotation/ScopedProxyMode.members.trap.gz
+classes/java/lang/Override.members.trap.gz
+classes/java/util/function/Supplier.members.trap.gz

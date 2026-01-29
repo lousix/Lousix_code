@@ -1,0 +1,24 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/expression/EvaluationContext.members/EvaluationContext.members#61.0-1697073476000-java.trap.gz
+
+TRAPS
+classes/org/springframework/expression/EvaluationContext.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/springframework/lang/Nullable.members.trap.gz
+classes/org/springframework/expression/TypedValue.members.trap.gz
+classes/java/util/function/Supplier.members.trap.gz
+classes/java/lang/FunctionalInterface.members.trap.gz
+classes/org/springframework/expression/OperatorOverloader.members.trap.gz
+classes/org/springframework/expression/TypeComparator.members.trap.gz
+classes/org/springframework/expression/TypeConverter.members.trap.gz
+classes/org/springframework/expression/TypeLocator.members.trap.gz
+classes/org/springframework/expression/BeanResolver.members.trap.gz
+classes/java/util/List.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/org/springframework/expression/MethodResolver.members.trap.gz
+classes/org/springframework/expression/ConstructorResolver.members.trap.gz
+classes/org/springframework/expression/PropertyAccessor.members.trap.gz

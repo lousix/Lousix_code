@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/context/ApplicationEvent.members/ApplicationEvent.members#61.0-1697073480000-java.trap.gz
+
+TRAPS
+classes/org/springframework/context/ApplicationEvent.members.trap.gz
+classes/java/util/EventObject.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/time/Clock.members.trap.gz

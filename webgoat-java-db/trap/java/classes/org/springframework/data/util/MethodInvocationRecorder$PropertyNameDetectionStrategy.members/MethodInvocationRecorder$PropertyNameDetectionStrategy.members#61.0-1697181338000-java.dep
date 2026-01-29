@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/data/util/MethodInvocationRecorder$PropertyNameDetectionStrategy.members/MethodInvocationRecorder$PropertyNameDetectionStrategy.members#61.0-1697181338000-java.trap.gz
+
+TRAPS
+classes/org/springframework/data/util/MethodInvocationRecorder$PropertyNameDetectionStrategy.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/springframework/data/util/MethodInvocationRecorder.members.trap.gz
+classes/java/lang/reflect/Method.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/springframework/lang/Nullable.members.trap.gz

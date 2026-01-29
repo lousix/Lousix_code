@@ -1,0 +1,14 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/web/servlet/ModelAndView.members/ModelAndView.members#61.0-1697073510000-java.trap.gz
+
+TRAPS
+classes/org/springframework/web/servlet/ModelAndView.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/util/Map.members.trap.gz
+classes/org/springframework/lang/Nullable.members.trap.gz
+classes/org/springframework/http/HttpStatusCode.members.trap.gz
+classes/org/springframework/ui/ModelMap.members.trap.gz
+classes/org/springframework/web/servlet/View.members.trap.gz

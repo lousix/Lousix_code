@@ -1,0 +1,14 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/http/DefaultHttpStatusCode.members/DefaultHttpStatusCode.members#61.0-1697073496000-java.trap.gz
+
+TRAPS
+classes/org/springframework/http/DefaultHttpStatusCode.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/springframework/http/HttpStatusCode.members.trap.gz
+classes/java/lang/Comparable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/springframework/lang/Nullable.members.trap.gz
+classes/org/springframework/lang/NonNull.members.trap.gz

@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/thymeleaf/processor/comment/ICommentProcessor.members/ICommentProcessor.members#52.0-1670321336000-java.trap.gz
+
+TRAPS
+classes/org/thymeleaf/processor/comment/ICommentProcessor.members.trap.gz
+classes/org/thymeleaf/processor/IProcessor.members.trap.gz
+classes/org/thymeleaf/context/ITemplateContext.members.trap.gz
+classes/org/thymeleaf/model/IComment.members.trap.gz
+classes/org/thymeleaf/processor/comment/ICommentStructureHandler.members.trap.gz

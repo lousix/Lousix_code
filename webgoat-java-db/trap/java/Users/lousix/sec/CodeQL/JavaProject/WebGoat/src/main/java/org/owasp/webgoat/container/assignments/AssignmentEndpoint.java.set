@@ -1,0 +1,14 @@
+TRAP dependencies 1.2
+
+SOURCES
+
+INCLUDES
+
+OBJECTS
+
+INPUT_OBJECTS
+
+TRAPS
+Users/lousix/sec/CodeQL/JavaProject/WebGoat/src/main/java/org/owasp/webgoat/container/assignments/AssignmentEndpoint.java.trap.gz
+classes/org/springframework/beans/factory/annotation/Autowired.members/Autowired.members#61.0-1697073476000-java.trap.gz
+jars/usr/local/apache-maven-3.5.4/repository/org/springframework/spring-beans/6.0.13/spring-beans-6.0.13.jar.trap.gz

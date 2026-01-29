@@ -1,0 +1,22 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/thymeleaf/engine/StandaloneElementTag.members/StandaloneElementTag.members#52.0-1670321336000-java.trap.gz
+
+TRAPS
+classes/org/thymeleaf/engine/StandaloneElementTag.members.trap.gz
+classes/org/thymeleaf/engine/AbstractProcessableElementTag.members.trap.gz
+classes/org/thymeleaf/model/IStandaloneElementTag.members.trap.gz
+classes/org/thymeleaf/engine/IEngineTemplateEvent.members.trap.gz
+classes/org/thymeleaf/engine/ITemplateHandler.members.trap.gz
+classes/java/io/Writer.members.trap.gz
+classes/java/io/IOException.members.trap.gz
+classes/org/thymeleaf/model/IModelVisitor.members.trap.gz
+classes/org/thymeleaf/engine/AttributeName.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/thymeleaf/engine/AttributeDefinitions.members.trap.gz
+classes/org/thymeleaf/engine/AttributeDefinition.members.trap.gz
+classes/org/thymeleaf/model/AttributeValueQuotes.members.trap.gz
+classes/org/thymeleaf/templatemode/TemplateMode.members.trap.gz
+classes/org/thymeleaf/engine/ElementDefinition.members.trap.gz
+classes/org/thymeleaf/engine/Attributes.members.trap.gz

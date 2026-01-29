@@ -1,0 +1,8 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/flywaydb/core/internal/configuration/models/PropertyResolver.members/PropertyResolver.members#52.0-1680592640000-java.trap.gz
+
+TRAPS
+classes/org/flywaydb/core/internal/configuration/models/PropertyResolver.members.trap.gz
+classes/java/lang/Object.members.trap.gz

@@ -1,0 +1,13 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/java/awt/AWTEvent.members/AWTEvent.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/java/awt/AWTEvent.members.trap.gz
+classes/java/util/EventObject.members.trap.gz
+classes/java/awt/Event.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Deprecated.members.trap.gz
+classes/java/security/AccessControlContext.members.trap.gz

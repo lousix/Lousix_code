@@ -1,0 +1,19 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/web/servlet/i18n/SessionLocaleResolver.members/SessionLocaleResolver.members#61.0-1697073510000-java.trap.gz
+
+TRAPS
+classes/org/springframework/web/servlet/i18n/SessionLocaleResolver.members.trap.gz
+classes/org/springframework/web/servlet/i18n/AbstractLocaleContextResolver.members.trap.gz
+classes/jakarta/servlet/http/HttpServletRequest.members.trap.gz
+classes/java/util/TimeZone.members.trap.gz
+classes/java/lang/Deprecated.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/springframework/lang/Nullable.members.trap.gz
+classes/java/util/Locale.members.trap.gz
+classes/jakarta/servlet/http/HttpServletResponse.members.trap.gz
+classes/org/springframework/context/i18n/LocaleContext.members.trap.gz
+classes/java/util/function/Function.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/FunctionalInterface.members.trap.gz

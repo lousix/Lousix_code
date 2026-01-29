@@ -1,0 +1,27 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/jsoup/nodes/Node.members/Node.members#52.0-1682755074000-java.trap.gz
+
+TRAPS
+classes/org/jsoup/nodes/Node.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/javax/annotation/Nullable.members.trap.gz
+classes/java/lang/Appendable.members.trap.gz
+classes/org/jsoup/nodes/Document$OutputSettings.members.trap.gz
+classes/java/io/IOException.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/jsoup/nodes/Range.members.trap.gz
+classes/org/jsoup/select/NodeFilter.members.trap.gz
+classes/org/jsoup/helper/Consumer.members.trap.gz
+classes/java/util/function/Consumer.members.trap.gz
+classes/java/lang/FunctionalInterface.members.trap.gz
+classes/java/lang/Deprecated.members.trap.gz
+classes/org/jsoup/select/NodeVisitor.members.trap.gz
+classes/java/util/List.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/org/jsoup/nodes/Document.members.trap.gz
+classes/org/jsoup/nodes/Attributes.members.trap.gz

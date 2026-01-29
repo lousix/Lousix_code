@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/java/awt/JobAttributes$MultipleDocumentHandlingType.members/JobAttributes$MultipleDocumentHandlingType.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/java/awt/JobAttributes$MultipleDocumentHandlingType.members.trap.gz
+classes/java/awt/AttributeValue.members.trap.gz
+classes/java/awt/JobAttributes.members.trap.gz

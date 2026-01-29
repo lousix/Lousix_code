@@ -1,0 +1,8 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/owasp/webgoat/lessons/jwt/votes/Views.members/Views.members#0.0-1698980255067-java.trap.gz
+
+TRAPS
+classes/org/owasp/webgoat/lessons/jwt/votes/Views.members.trap.gz
+classes/java/lang/Object.members.trap.gz

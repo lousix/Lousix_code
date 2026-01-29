@@ -1,0 +1,8 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/aop/framework/AopInfrastructureBean.members/AopInfrastructureBean.members#61.0-1697073476000-java.trap.gz
+
+TRAPS
+classes/org/springframework/aop/framework/AopInfrastructureBean.members.trap.gz
+classes/java/lang/Object.members.trap.gz

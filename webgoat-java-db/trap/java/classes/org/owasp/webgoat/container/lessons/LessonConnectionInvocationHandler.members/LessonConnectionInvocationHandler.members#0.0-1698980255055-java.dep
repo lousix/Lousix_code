@@ -1,0 +1,15 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/owasp/webgoat/container/lessons/LessonConnectionInvocationHandler.members/LessonConnectionInvocationHandler.members#0.0-1698980255055-java.trap.gz
+
+TRAPS
+classes/org/owasp/webgoat/container/lessons/LessonConnectionInvocationHandler.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/reflect/InvocationHandler.members.trap.gz
+classes/java/lang/reflect/Method.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/java/lang/Override.members.trap.gz
+classes/java/lang/Throwable.members.trap.gz
+classes/java/sql/Connection.members.trap.gz

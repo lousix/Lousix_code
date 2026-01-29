@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/w3c/dom/DOMException.members/DOMException.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/org/w3c/dom/DOMException.members.trap.gz
+classes/java/lang/RuntimeException.members.trap.gz
+classes/java/lang/String.members.trap.gz

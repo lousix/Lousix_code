@@ -1,0 +1,20 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/javax/tools/SimpleJavaFileObject.members/SimpleJavaFileObject.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/javax/tools/SimpleJavaFileObject.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/javax/tools/JavaFileObject.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/javax/lang/model/element/Modifier.members.trap.gz
+classes/javax/lang/model/element/NestingKind.members.trap.gz
+classes/javax/tools/JavaFileObject$Kind.members.trap.gz
+classes/java/io/Writer.members.trap.gz
+classes/java/io/IOException.members.trap.gz
+classes/java/lang/CharSequence.members.trap.gz
+classes/java/io/Reader.members.trap.gz
+classes/java/io/OutputStream.members.trap.gz
+classes/java/io/InputStream.members.trap.gz
+classes/java/net/URI.members.trap.gz

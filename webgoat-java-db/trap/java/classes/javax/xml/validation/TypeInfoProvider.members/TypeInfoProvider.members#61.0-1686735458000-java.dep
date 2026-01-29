@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/javax/xml/validation/TypeInfoProvider.members/TypeInfoProvider.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/javax/xml/validation/TypeInfoProvider.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/w3c/dom/TypeInfo.members.trap.gz

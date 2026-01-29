@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/io/jsonwebtoken/CompressionException.members/CompressionException.members#51.0-1530787844000-java.trap.gz
+
+TRAPS
+classes/io/jsonwebtoken/CompressionException.members.trap.gz
+classes/io/jsonwebtoken/JwtException.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Throwable.members.trap.gz

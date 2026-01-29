@@ -1,0 +1,22 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/java/awt/dnd/DragSourceContext.members/DragSourceContext.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/java/awt/dnd/DragSourceContext.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/awt/dnd/DragSourceListener.members.trap.gz
+classes/java/awt/dnd/DragSourceMotionListener.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/java/awt/datatransfer/Transferable.members.trap.gz
+classes/java/awt/dnd/DragSourceDragEvent.members.trap.gz
+classes/java/awt/dnd/DragSourceDropEvent.members.trap.gz
+classes/java/awt/dnd/DragSourceEvent.members.trap.gz
+classes/java/util/TooManyListenersException.members.trap.gz
+classes/java/awt/Cursor.members.trap.gz
+classes/java/awt/dnd/DragGestureEvent.members.trap.gz
+classes/java/awt/Component.members.trap.gz
+classes/java/awt/dnd/DragSource.members.trap.gz
+classes/java/awt/Image.members.trap.gz
+classes/java/awt/Point.members.trap.gz

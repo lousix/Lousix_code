@@ -1,0 +1,13 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/javax/sql/CommonDataSource.members/CommonDataSource.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/javax/sql/CommonDataSource.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/sql/ShardingKeyBuilder.members.trap.gz
+classes/java/sql/SQLException.members.trap.gz
+classes/java/util/logging/Logger.members.trap.gz
+classes/java/sql/SQLFeatureNotSupportedException.members.trap.gz
+classes/java/io/PrintWriter.members.trap.gz

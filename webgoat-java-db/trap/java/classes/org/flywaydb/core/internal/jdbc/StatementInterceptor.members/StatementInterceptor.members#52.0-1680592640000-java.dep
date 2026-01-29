@@ -1,0 +1,27 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/flywaydb/core/internal/jdbc/StatementInterceptor.members/StatementInterceptor.members#52.0-1680592640000-java.trap.gz
+
+TRAPS
+classes/org/flywaydb/core/internal/jdbc/StatementInterceptor.members.trap.gz
+classes/org/flywaydb/core/extensibility/Plugin.members.trap.gz
+classes/org/flywaydb/core/internal/database/base/Table.members.trap.gz
+classes/org/flywaydb/core/internal/database/base/SchemaObject.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/flywaydb/core/extensibility/AppliedMigration.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Integer.members.trap.gz
+classes/java/util/Map.members.trap.gz
+classes/org/flywaydb/core/internal/sqlscript/SqlStatement.members.trap.gz
+classes/org/flywaydb/core/api/migration/JavaMigration.members.trap.gz
+classes/org/flywaydb/core/api/resource/LoadableResource.members.trap.gz
+classes/org/flywaydb/core/api/configuration/Configuration.members.trap.gz
+classes/org/flywaydb/core/internal/schemahistory/SchemaHistory.members.trap.gz
+classes/java/sql/Connection.members.trap.gz
+classes/java/util/List.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/org/flywaydb/core/api/callback/Callback.members.trap.gz
+classes/org/flywaydb/core/internal/database/base/Database.members.trap.gz
+classes/java/io/Closeable.members.trap.gz

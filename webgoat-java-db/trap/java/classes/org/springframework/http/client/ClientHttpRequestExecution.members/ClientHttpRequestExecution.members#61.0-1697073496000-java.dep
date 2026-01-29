@@ -1,0 +1,14 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/http/client/ClientHttpRequestExecution.members/ClientHttpRequestExecution.members#61.0-1697073496000-java.trap.gz
+
+TRAPS
+classes/org/springframework/http/client/ClientHttpRequestExecution.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/FunctionalInterface.members.trap.gz
+classes/org/springframework/http/HttpRequest.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/org/springframework/http/client/ClientHttpResponse.members.trap.gz
+classes/java/io/IOException.members.trap.gz

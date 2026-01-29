@@ -1,0 +1,14 @@
+TRAP dependencies 1.2
+
+SOURCES
+
+INCLUDES
+
+OBJECTS
+
+INPUT_OBJECTS
+
+TRAPS
+Users/lousix/sec/CodeQL/JavaProject/WebGoat/src/main/java/org/owasp/webgoat/container/controller/StartLesson.java.trap.gz
+classes/org/owasp/webgoat/container/controller/StartLesson.members/StartLesson.members#0.0-1698980255054-java.trap.gz
+modules/java.base.trap.gz

@@ -1,0 +1,16 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/thymeleaf/engine/ElementDefinition.members/ElementDefinition.members#52.0-1670321336000-java.trap.gz
+
+TRAPS
+classes/org/thymeleaf/engine/ElementDefinition.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/util/Set.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/org/thymeleaf/processor/element/IElementProcessor.members.trap.gz
+classes/org/thymeleaf/engine/ElementName.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz

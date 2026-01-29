@@ -1,0 +1,27 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/web/context/request/ServletRequestAttributes.members/ServletRequestAttributes.members#61.0-1697073496000-java.trap.gz
+
+TRAPS
+classes/org/springframework/web/context/request/ServletRequestAttributes.members.trap.gz
+classes/org/springframework/web/context/request/AbstractRequestAttributes.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Runnable.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/springframework/lang/Nullable.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/jakarta/servlet/http/HttpSession.members.trap.gz
+classes/jakarta/servlet/http/HttpServletResponse.members.trap.gz
+classes/jakarta/servlet/http/HttpServletRequest.members.trap.gz
+classes/java/lang/Class.members.trap.gz
+classes/java/lang/reflect/GenericDeclaration.members.trap.gz
+classes/java/lang/reflect/Type.members.trap.gz
+classes/java/lang/reflect/AnnotatedElement.members.trap.gz
+classes/java/lang/invoke/TypeDescriptor$OfField.members.trap.gz
+classes/java/lang/invoke/TypeDescriptor.members.trap.gz
+classes/java/lang/constant/Constable.members.trap.gz
+classes/java/util/Set.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz

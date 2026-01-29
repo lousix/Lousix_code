@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/javax/accessibility/Accessible.members/Accessible.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/javax/accessibility/Accessible.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/javax/accessibility/AccessibleContext.members.trap.gz

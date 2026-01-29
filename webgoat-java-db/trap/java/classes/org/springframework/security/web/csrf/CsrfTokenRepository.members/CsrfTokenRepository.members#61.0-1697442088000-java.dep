@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/security/web/csrf/CsrfTokenRepository.members/CsrfTokenRepository.members#61.0-1697442088000-java.trap.gz
+
+TRAPS
+classes/org/springframework/security/web/csrf/CsrfTokenRepository.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/jakarta/servlet/http/HttpServletRequest.members.trap.gz
+classes/jakarta/servlet/http/HttpServletResponse.members.trap.gz
+classes/org/springframework/security/web/csrf/DeferredCsrfToken.members.trap.gz
+classes/org/springframework/security/web/csrf/CsrfToken.members.trap.gz

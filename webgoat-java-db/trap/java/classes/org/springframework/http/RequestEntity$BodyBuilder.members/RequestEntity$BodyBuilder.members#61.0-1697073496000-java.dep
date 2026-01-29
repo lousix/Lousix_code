@@ -1,0 +1,23 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/http/RequestEntity$BodyBuilder.members/RequestEntity$BodyBuilder.members#61.0-1697073496000-java.trap.gz
+
+TRAPS
+classes/org/springframework/http/RequestEntity$BodyBuilder.members.trap.gz
+classes/org/springframework/http/RequestEntity$HeadersBuilder.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/springframework/http/RequestEntity.members.trap.gz
+classes/org/springframework/http/HttpEntity.members.trap.gz
+classes/java/lang/Void.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/java/time/Instant.members.trap.gz
+classes/java/time/ZonedDateTime.members.trap.gz
+classes/java/nio/charset/Charset.members.trap.gz
+classes/org/springframework/http/MediaType.members.trap.gz
+classes/org/springframework/http/HttpHeaders.members.trap.gz
+classes/java/util/function/Consumer.members.trap.gz
+classes/java/lang/FunctionalInterface.members.trap.gz
+classes/java/lang/reflect/Type.members.trap.gz

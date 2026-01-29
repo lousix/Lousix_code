@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/security/authorization/AuthorizationDecision.members/AuthorizationDecision.members#61.0-1697442086000-java.trap.gz
+
+TRAPS
+classes/org/springframework/security/authorization/AuthorizationDecision.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz

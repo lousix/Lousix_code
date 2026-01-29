@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/java/awt/FocusTraversalPolicy.members/FocusTraversalPolicy.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/java/awt/FocusTraversalPolicy.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/awt/Window.members.trap.gz
+classes/java/awt/Component.members.trap.gz
+classes/java/awt/Container.members.trap.gz

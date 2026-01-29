@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/java/awt/peer/FileDialogPeer.members/FileDialogPeer.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/java/awt/peer/FileDialogPeer.members.trap.gz
+classes/java/awt/peer/DialogPeer.members.trap.gz
+classes/java/io/FilenameFilter.members.trap.gz
+classes/java/lang/String.members.trap.gz

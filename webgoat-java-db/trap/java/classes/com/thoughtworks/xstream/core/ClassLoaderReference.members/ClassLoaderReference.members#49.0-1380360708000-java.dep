@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/com/thoughtworks/xstream/core/ClassLoaderReference.members/ClassLoaderReference.members#49.0-1380360708000-java.trap.gz
+
+TRAPS
+classes/com/thoughtworks/xstream/core/ClassLoaderReference.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/ClassLoader.members.trap.gz

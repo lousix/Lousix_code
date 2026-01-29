@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/flywaydb/core/api/Location.members/Location.members#52.0-1680592640000-java.trap.gz
+
+TRAPS
+classes/org/flywaydb/core/api/Location.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Comparable.members.trap.gz
+classes/java/util/regex/Pattern.members.trap.gz
+classes/java/lang/String.members.trap.gz

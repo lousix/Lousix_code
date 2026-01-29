@@ -1,0 +1,21 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/io/micrometer/observation/Observation$Context.members/Observation$Context.members#52.0-1696891762000-java.trap.gz
+
+TRAPS
+classes/io/micrometer/observation/Observation$Context.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/io/micrometer/observation/Observation$ContextView.members.trap.gz
+classes/io/micrometer/observation/Observation.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/io/micrometer/common/KeyValues.members.trap.gz
+classes/io/micrometer/common/lang/NonNull.members.trap.gz
+classes/io/micrometer/common/KeyValue.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/java/util/function/Function.members.trap.gz
+classes/java/lang/FunctionalInterface.members.trap.gz
+classes/io/micrometer/common/lang/Nullable.members.trap.gz
+classes/java/lang/Throwable.members.trap.gz
+classes/io/micrometer/observation/ObservationView.members.trap.gz

@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/context/i18n/LocaleContext.members/LocaleContext.members#61.0-1697073480000-java.trap.gz
+
+TRAPS
+classes/org/springframework/context/i18n/LocaleContext.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/util/Locale.members.trap.gz
+classes/org/springframework/lang/Nullable.members.trap.gz

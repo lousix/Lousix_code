@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/owasp/webgoat/container/session/LabelDebugger.members/LabelDebugger.members#0.0-1698980255057-java.trap.gz
+
+TRAPS
+classes/org/owasp/webgoat/container/session/LabelDebugger.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/io/Serializable.members.trap.gz

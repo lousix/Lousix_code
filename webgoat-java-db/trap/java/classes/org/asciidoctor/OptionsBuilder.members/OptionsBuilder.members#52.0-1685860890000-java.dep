@@ -1,0 +1,19 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/asciidoctor/OptionsBuilder.members/OptionsBuilder.members#52.0-1685860890000-java.trap.gz
+
+TRAPS
+classes/org/asciidoctor/OptionsBuilder.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/asciidoctor/Options.members.trap.gz
+classes/java/lang/Deprecated.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/util/Map.members.trap.gz
+classes/java/io/File.members.trap.gz
+classes/org/asciidoctor/SafeMode.members.trap.gz
+classes/java/io/OutputStream.members.trap.gz
+classes/org/asciidoctor/AttributesBuilder.members.trap.gz
+classes/org/asciidoctor/Attributes.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz

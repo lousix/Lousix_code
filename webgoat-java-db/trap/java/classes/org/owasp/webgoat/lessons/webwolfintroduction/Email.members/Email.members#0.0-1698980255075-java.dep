@@ -1,0 +1,18 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/owasp/webgoat/lessons/webwolfintroduction/Email.members/Email.members#0.0-1698980255075-java.trap.gz
+
+TRAPS
+classes/org/owasp/webgoat/lessons/webwolfintroduction/Email.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/lombok/Builder.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/lombok/AccessLevel.members.trap.gz
+classes/lombok/Data.members.trap.gz
+classes/java/lang/Override.members.trap.gz
+classes/java/lang/SuppressWarnings.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/lombok/Generated.members.trap.gz
+classes/org/owasp/webgoat/lessons/webwolfintroduction/Email$EmailBuilder.members.trap.gz

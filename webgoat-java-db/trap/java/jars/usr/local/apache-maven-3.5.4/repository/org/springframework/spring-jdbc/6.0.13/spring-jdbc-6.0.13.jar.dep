@@ -1,0 +1,6 @@
+TRAP dependencies 1.2
+
+TRAP
+jars/usr/local/apache-maven-3.5.4/repository/org/springframework/spring-jdbc/6.0.13/spring-jdbc-6.0.13.jar.trap.gz
+
+TRAPS

@@ -1,0 +1,23 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/jakarta/validation/ConstraintValidatorContext$ConstraintViolationBuilder$NodeBuilderDefinedContext.members/ConstraintValidatorContext$ConstraintViolationBuilder$NodeBuilderDefinedContext.members#52.0-1653559272000-java.trap.gz
+
+TRAPS
+classes/jakarta/validation/ConstraintValidatorContext$ConstraintViolationBuilder$NodeBuilderDefinedContext.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/jakarta/validation/ConstraintValidatorContext$ConstraintViolationBuilder.members.trap.gz
+classes/jakarta/validation/ConstraintValidatorContext.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Class.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/java/lang/reflect/GenericDeclaration.members.trap.gz
+classes/java/lang/reflect/Type.members.trap.gz
+classes/java/lang/reflect/AnnotatedElement.members.trap.gz
+classes/java/lang/invoke/TypeDescriptor$OfField.members.trap.gz
+classes/java/lang/invoke/TypeDescriptor.members.trap.gz
+classes/java/lang/constant/Constable.members.trap.gz
+classes/java/lang/Integer.members.trap.gz
+classes/jakarta/validation/ConstraintValidatorContext$ConstraintViolationBuilder$ContainerElementNodeBuilderCustomizableContext.members.trap.gz
+classes/jakarta/validation/ConstraintValidatorContext$ConstraintViolationBuilder$LeafNodeBuilderCustomizableContext.members.trap.gz
+classes/jakarta/validation/ConstraintValidatorContext$ConstraintViolationBuilder$NodeBuilderCustomizableContext.members.trap.gz

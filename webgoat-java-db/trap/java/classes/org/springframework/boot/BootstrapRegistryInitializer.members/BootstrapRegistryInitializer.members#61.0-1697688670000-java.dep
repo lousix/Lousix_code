@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/boot/BootstrapRegistryInitializer.members/BootstrapRegistryInitializer.members#61.0-1697688670000-java.trap.gz
+
+TRAPS
+classes/org/springframework/boot/BootstrapRegistryInitializer.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/FunctionalInterface.members.trap.gz
+classes/org/springframework/boot/BootstrapRegistry.members.trap.gz

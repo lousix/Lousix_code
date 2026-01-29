@@ -1,0 +1,22 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/security/web/access/expression/ExpressionBasedFilterInvocationSecurityMetadataSource.members/ExpressionBasedFilterInvocationSecurityMetadataSource.members#61.0-1697442088000-java.trap.gz
+
+TRAPS
+classes/org/springframework/security/web/access/expression/ExpressionBasedFilterInvocationSecurityMetadataSource.members.trap.gz
+classes/org/springframework/security/web/access/intercept/DefaultFilterInvocationSecurityMetadataSource.members.trap.gz
+classes/org/springframework/security/web/util/matcher/RequestMatcher.members.trap.gz
+classes/org/springframework/security/access/ConfigAttribute.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/util/LinkedHashMap.members.trap.gz
+classes/java/util/HashMap.members.trap.gz
+classes/java/util/AbstractMap.members.trap.gz
+classes/java/util/Map.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/org/springframework/security/web/FilterInvocation.members.trap.gz
+classes/org/springframework/security/access/expression/SecurityExpressionHandler.members.trap.gz
+classes/org/springframework/aop/framework/AopInfrastructureBean.members.trap.gz

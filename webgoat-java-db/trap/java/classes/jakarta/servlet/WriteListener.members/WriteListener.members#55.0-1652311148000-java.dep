@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/jakarta/servlet/WriteListener.members/WriteListener.members#55.0-1652311148000-java.trap.gz
+
+TRAPS
+classes/jakarta/servlet/WriteListener.members.trap.gz
+classes/java/util/EventListener.members.trap.gz
+classes/java/lang/Throwable.members.trap.gz
+classes/java/io/IOException.members.trap.gz

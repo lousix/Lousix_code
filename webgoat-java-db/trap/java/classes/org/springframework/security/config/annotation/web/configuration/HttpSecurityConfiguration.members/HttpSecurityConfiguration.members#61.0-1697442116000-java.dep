@@ -1,0 +1,23 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/security/config/annotation/web/configuration/HttpSecurityConfiguration.members/HttpSecurityConfiguration.members#61.0-1697442116000-java.trap.gz
+
+TRAPS
+classes/org/springframework/security/config/annotation/web/configuration/HttpSecurityConfiguration.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/springframework/context/annotation/Configuration.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/springframework/security/config/annotation/web/builders/HttpSecurity.members.trap.gz
+classes/org/springframework/context/annotation/Bean.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/org/springframework/context/annotation/Scope.members.trap.gz
+classes/org/springframework/context/annotation/ScopedProxyMode.members.trap.gz
+classes/java/lang/Exception.members.trap.gz
+classes/org/springframework/web/accept/ContentNegotiationStrategy.members.trap.gz
+classes/org/springframework/beans/factory/annotation/Autowired.members.trap.gz
+classes/org/springframework/security/core/context/SecurityContextHolderStrategy.members.trap.gz
+classes/org/springframework/context/ApplicationContext.members.trap.gz
+classes/org/springframework/security/config/annotation/authentication/configuration/AuthenticationConfiguration.members.trap.gz
+classes/org/springframework/security/config/annotation/ObjectPostProcessor.members.trap.gz

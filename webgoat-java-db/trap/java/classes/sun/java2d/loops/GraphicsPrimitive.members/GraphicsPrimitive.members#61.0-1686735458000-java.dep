@@ -1,0 +1,23 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/sun/java2d/loops/GraphicsPrimitive.members/GraphicsPrimitive.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/sun/java2d/loops/GraphicsPrimitive.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/sun/java2d/loops/CompositeType.members.trap.gz
+classes/sun/java2d/loops/SurfaceType.members.trap.gz
+classes/java/lang/reflect/Field.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/sun/java2d/loops/Blit.members.trap.gz
+classes/sun/java2d/SurfaceData.members.trap.gz
+classes/sun/java2d/pipe/Region.members.trap.gz
+classes/sun/java2d/loops/GraphicsPrimitive$GeneralUnaryOp.members.trap.gz
+classes/sun/java2d/loops/GraphicsPrimitive$GeneralBinaryOp.members.trap.gz
+classes/java/io/PrintStream.members.trap.gz
+classes/java/util/HashMap.members.trap.gz
+classes/java/util/AbstractMap.members.trap.gz
+classes/java/util/Map.members.trap.gz

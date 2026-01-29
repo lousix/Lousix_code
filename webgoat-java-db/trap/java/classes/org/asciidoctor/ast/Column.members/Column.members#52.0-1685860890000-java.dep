@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/asciidoctor/ast/Column.members/Column.members#52.0-1685860890000-java.trap.gz
+
+TRAPS
+classes/org/asciidoctor/ast/Column.members.trap.gz
+classes/org/asciidoctor/ast/ContentNode.members.trap.gz
+classes/org/asciidoctor/ast/Table$VerticalAlignment.members.trap.gz
+classes/org/asciidoctor/ast/Table$HorizontalAlignment.members.trap.gz
+classes/org/asciidoctor/ast/Table.members.trap.gz
+classes/java/lang/String.members.trap.gz

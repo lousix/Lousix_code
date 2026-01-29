@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/javax/lang/model/element/AnnotationMirror.members/AnnotationMirror.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/javax/lang/model/element/AnnotationMirror.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/util/Map.members.trap.gz
+classes/javax/lang/model/element/ExecutableElement.members.trap.gz
+classes/javax/lang/model/element/AnnotationValue.members.trap.gz
+classes/javax/lang/model/type/DeclaredType.members.trap.gz

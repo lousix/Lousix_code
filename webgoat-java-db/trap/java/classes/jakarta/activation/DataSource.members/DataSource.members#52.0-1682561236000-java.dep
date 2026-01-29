@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/jakarta/activation/DataSource.members/DataSource.members#52.0-1682561236000-java.trap.gz
+
+TRAPS
+classes/jakarta/activation/DataSource.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/io/OutputStream.members.trap.gz
+classes/java/io/IOException.members.trap.gz
+classes/java/io/InputStream.members.trap.gz

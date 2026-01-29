@@ -1,0 +1,15 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/owasp/webgoat/container/session/Course.members/Course.members#0.0-1698980255057-java.trap.gz
+
+TRAPS
+classes/org/owasp/webgoat/container/session/Course.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/lombok/extern/slf4j/Slf4j.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/owasp/webgoat/container/lessons/Lesson.members.trap.gz
+classes/java/util/List.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/org/owasp/webgoat/container/lessons/Category.members.trap.gz

@@ -1,0 +1,20 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/owasp/webgoat/webwolf/requests/LandingPage.members/LandingPage.members#0.0-1698980255079-java.trap.gz
+
+TRAPS
+classes/org/owasp/webgoat/webwolf/requests/LandingPage.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/lombok/extern/slf4j/Slf4j.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/springframework/stereotype/Controller.members.trap.gz
+classes/org/springframework/web/bind/annotation/RequestMapping.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/org/springframework/web/bind/annotation/RequestMethod.members.trap.gz
+classes/jakarta/servlet/http/HttpServletRequest.members.trap.gz
+classes/java/util/concurrent/Callable.members.trap.gz
+classes/java/lang/FunctionalInterface.members.trap.gz
+classes/org/springframework/http/ResponseEntity.members.trap.gz
+classes/org/springframework/http/HttpEntity.members.trap.gz

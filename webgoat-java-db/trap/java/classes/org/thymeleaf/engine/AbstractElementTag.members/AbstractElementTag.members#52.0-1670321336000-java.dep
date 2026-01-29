@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/thymeleaf/engine/AbstractElementTag.members/AbstractElementTag.members#52.0-1670321336000-java.trap.gz
+
+TRAPS
+classes/org/thymeleaf/engine/AbstractElementTag.members.trap.gz
+classes/org/thymeleaf/engine/AbstractTemplateEvent.members.trap.gz
+classes/org/thymeleaf/model/IElementTag.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/thymeleaf/engine/ElementDefinition.members.trap.gz
+classes/org/thymeleaf/templatemode/TemplateMode.members.trap.gz

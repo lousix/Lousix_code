@@ -1,0 +1,8 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/w3c/dom/CDATASection.members/CDATASection.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/org/w3c/dom/CDATASection.members.trap.gz
+classes/org/w3c/dom/Text.members.trap.gz

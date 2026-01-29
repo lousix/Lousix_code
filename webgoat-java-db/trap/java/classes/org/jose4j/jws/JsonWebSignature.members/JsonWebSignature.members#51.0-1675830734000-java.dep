@@ -1,0 +1,17 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/jose4j/jws/JsonWebSignature.members/JsonWebSignature.members#51.0-1675830734000-java.trap.gz
+
+TRAPS
+classes/org/jose4j/jws/JsonWebSignature.members.trap.gz
+classes/org/jose4j/jwx/JsonWebStructure.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/jose4j/keys/KeyPersuasion.members.trap.gz
+classes/org/jose4j/lang/InvalidAlgorithmException.members.trap.gz
+classes/org/jose4j/lang/JoseException.members.trap.gz
+classes/org/jose4j/jws/JsonWebSignatureAlgorithm.members.trap.gz
+classes/org/jose4j/jwa/CryptoPrimitive.members.trap.gz

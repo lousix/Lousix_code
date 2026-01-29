@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/boot/actuate/web/exchanges/HttpExchangeRepository.members/HttpExchangeRepository.members#61.0-1697688688000-java.trap.gz
+
+TRAPS
+classes/org/springframework/boot/actuate/web/exchanges/HttpExchangeRepository.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/springframework/boot/actuate/web/exchanges/HttpExchange.members.trap.gz
+classes/java/util/List.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz

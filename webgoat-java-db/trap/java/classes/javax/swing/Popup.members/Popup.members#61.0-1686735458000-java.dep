@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/javax/swing/Popup.members/Popup.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/javax/swing/Popup.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/awt/Component.members.trap.gz

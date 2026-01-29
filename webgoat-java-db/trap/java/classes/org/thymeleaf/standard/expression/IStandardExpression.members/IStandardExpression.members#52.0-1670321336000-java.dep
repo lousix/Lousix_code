@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/thymeleaf/standard/expression/IStandardExpression.members/IStandardExpression.members#52.0-1670321336000-java.trap.gz
+
+TRAPS
+classes/org/thymeleaf/standard/expression/IStandardExpression.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/thymeleaf/context/IExpressionContext.members.trap.gz
+classes/org/thymeleaf/standard/expression/StandardExpressionExecutionContext.members.trap.gz
+classes/java/lang/String.members.trap.gz

@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/security/config/annotation/authentication/configurers/ldap/LdapAuthenticationProviderConfigurer$ContextSourceBuilder.members/LdapAuthenticationProviderConfigurer$ContextSourceBuilder.members#61.0-1697442116000-java.trap.gz
+
+TRAPS
+classes/org/springframework/security/config/annotation/authentication/configurers/ldap/LdapAuthenticationProviderConfigurer$ContextSourceBuilder.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/springframework/security/config/annotation/authentication/configurers/ldap/LdapAuthenticationProviderConfigurer.members.trap.gz
+classes/org/springframework/security/config/annotation/SecurityConfigurerAdapter.members.trap.gz
+classes/org/springframework/security/config/annotation/SecurityConfigurer.members.trap.gz
+classes/java/lang/String.members.trap.gz

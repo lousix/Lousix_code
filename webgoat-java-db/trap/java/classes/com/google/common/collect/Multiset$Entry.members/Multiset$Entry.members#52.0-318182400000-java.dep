@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/com/google/common/collect/Multiset$Entry.members/Multiset$Entry.members#52.0-318182400000-java.trap.gz
+
+TRAPS
+classes/com/google/common/collect/Multiset$Entry.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/com/google/common/collect/Multiset.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/javax/annotation/CheckForNull.members.trap.gz
+classes/com/google/common/collect/ParametricNullness.members.trap.gz

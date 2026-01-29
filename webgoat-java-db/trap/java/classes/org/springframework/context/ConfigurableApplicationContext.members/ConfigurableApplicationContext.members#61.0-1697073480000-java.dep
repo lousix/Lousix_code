@@ -1,0 +1,24 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/context/ConfigurableApplicationContext.members/ConfigurableApplicationContext.members#61.0-1697073480000-java.trap.gz
+
+TRAPS
+classes/org/springframework/context/ConfigurableApplicationContext.members.trap.gz
+classes/org/springframework/context/ApplicationContext.members.trap.gz
+classes/org/springframework/context/Lifecycle.members.trap.gz
+classes/java/io/Closeable.members.trap.gz
+classes/org/springframework/beans/factory/config/ConfigurableListableBeanFactory.members.trap.gz
+classes/java/lang/IllegalStateException.members.trap.gz
+classes/org/springframework/beans/BeansException.members.trap.gz
+classes/org/springframework/core/io/ProtocolResolver.members.trap.gz
+classes/java/lang/ClassLoader.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/springframework/context/ApplicationListener.members.trap.gz
+classes/java/util/EventListener.members.trap.gz
+classes/java/lang/FunctionalInterface.members.trap.gz
+classes/org/springframework/beans/factory/config/BeanFactoryPostProcessor.members.trap.gz
+classes/org/springframework/core/metrics/ApplicationStartup.members.trap.gz
+classes/org/springframework/core/env/ConfigurableEnvironment.members.trap.gz
+classes/org/springframework/lang/Nullable.members.trap.gz
+classes/java/lang/String.members.trap.gz

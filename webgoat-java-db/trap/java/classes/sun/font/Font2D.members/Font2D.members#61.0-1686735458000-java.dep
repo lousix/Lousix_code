@@ -1,0 +1,25 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/sun/font/Font2D.members/Font2D.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/sun/font/Font2D.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/awt/Font.members.trap.gz
+classes/java/awt/geom/AffineTransform.members.trap.gz
+classes/java/util/Locale.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/java/awt/font/FontRenderContext.members.trap.gz
+classes/sun/font/FontStrikeDesc.members.trap.gz
+classes/sun/font/FontStrike.members.trap.gz
+classes/sun/font/CharToGlyphMapper.members.trap.gz
+classes/java/lang/ref/Reference.members.trap.gz
+classes/java/util/concurrent/ConcurrentHashMap.members.trap.gz
+classes/java/util/AbstractMap.members.trap.gz
+classes/java/util/Map.members.trap.gz
+classes/java/util/concurrent/ConcurrentMap.members.trap.gz
+classes/sun/font/FontFamily.members.trap.gz
+classes/sun/font/Font2DHandle.members.trap.gz

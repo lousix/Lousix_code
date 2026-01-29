@@ -1,0 +1,25 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/javax/xml/xpath/XPath.members/XPath.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/javax/xml/xpath/XPath.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/xml/sax/InputSource.members.trap.gz
+classes/javax/xml/xpath/XPathEvaluationResult.members.trap.gz
+classes/javax/xml/xpath/XPathExpressionException.members.trap.gz
+classes/java/lang/Class.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/java/lang/reflect/GenericDeclaration.members.trap.gz
+classes/java/lang/reflect/Type.members.trap.gz
+classes/java/lang/reflect/AnnotatedElement.members.trap.gz
+classes/java/lang/invoke/TypeDescriptor$OfField.members.trap.gz
+classes/java/lang/invoke/TypeDescriptor.members.trap.gz
+classes/java/lang/constant/Constable.members.trap.gz
+classes/javax/xml/namespace/QName.members.trap.gz
+classes/javax/xml/xpath/XPathExpression.members.trap.gz
+classes/javax/xml/namespace/NamespaceContext.members.trap.gz
+classes/javax/xml/xpath/XPathFunctionResolver.members.trap.gz
+classes/javax/xml/xpath/XPathVariableResolver.members.trap.gz

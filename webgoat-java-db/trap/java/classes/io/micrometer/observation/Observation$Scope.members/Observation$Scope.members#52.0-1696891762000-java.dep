@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/io/micrometer/observation/Observation$Scope.members/Observation$Scope.members#52.0-1696891762000-java.trap.gz
+
+TRAPS
+classes/io/micrometer/observation/Observation$Scope.members.trap.gz
+classes/java/lang/AutoCloseable.members.trap.gz
+classes/io/micrometer/observation/Observation.members.trap.gz
+classes/io/micrometer/common/lang/Nullable.members.trap.gz

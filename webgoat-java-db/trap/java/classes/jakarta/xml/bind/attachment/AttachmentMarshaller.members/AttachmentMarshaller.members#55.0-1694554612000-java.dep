@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/jakarta/xml/bind/attachment/AttachmentMarshaller.members/AttachmentMarshaller.members#55.0-1694554612000-java.trap.gz
+
+TRAPS
+classes/jakarta/xml/bind/attachment/AttachmentMarshaller.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/jakarta/activation/DataHandler.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz

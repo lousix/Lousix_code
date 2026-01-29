@@ -1,0 +1,22 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/security/config/annotation/authentication/configurers/ldap/LdapAuthenticationProviderConfigurer.members/LdapAuthenticationProviderConfigurer.members#61.0-1697442116000-java.trap.gz
+
+TRAPS
+classes/org/springframework/security/config/annotation/authentication/configurers/ldap/LdapAuthenticationProviderConfigurer.members.trap.gz
+classes/org/springframework/security/authentication/AuthenticationManager.members.trap.gz
+classes/org/springframework/security/config/annotation/SecurityConfigurerAdapter.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/springframework/security/config/annotation/SecurityConfigurer.members.trap.gz
+classes/java/lang/Exception.members.trap.gz
+classes/org/springframework/security/config/annotation/ObjectPostProcessor.members.trap.gz
+classes/org/springframework/security/config/annotation/SecurityBuilder.members.trap.gz
+classes/org/springframework/security/config/annotation/authentication/ProviderManagerBuilder.members.trap.gz
+classes/org/springframework/security/config/annotation/authentication/configurers/ldap/LdapAuthenticationProviderConfigurer$PasswordCompareConfigurer.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/org/springframework/security/crypto/password/PasswordEncoder.members.trap.gz
+classes/org/springframework/security/config/annotation/authentication/configurers/ldap/LdapAuthenticationProviderConfigurer$ContextSourceBuilder.members.trap.gz
+classes/org/springframework/security/core/authority/mapping/GrantedAuthoritiesMapper.members.trap.gz

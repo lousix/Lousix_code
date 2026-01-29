@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/jakarta/xml/bind/UnmarshallerHandler.members/UnmarshallerHandler.members#55.0-1694554612000-java.trap.gz
+
+TRAPS
+classes/jakarta/xml/bind/UnmarshallerHandler.members.trap.gz
+classes/org/xml/sax/ContentHandler.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/jakarta/xml/bind/JAXBException.members.trap.gz
+classes/java/lang/IllegalStateException.members.trap.gz

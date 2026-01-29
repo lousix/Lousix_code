@@ -1,0 +1,13 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/owasp/webgoat/container/asciidoc/UsernameMacro.members/UsernameMacro.members#0.0-1698980255053-java.trap.gz
+
+TRAPS
+classes/org/owasp/webgoat/container/asciidoc/UsernameMacro.members.trap.gz
+classes/org/asciidoctor/extension/InlineMacroProcessor.members.trap.gz
+classes/org/asciidoctor/ast/ContentNode.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/util/Map.members.trap.gz
+classes/java/lang/Override.members.trap.gz

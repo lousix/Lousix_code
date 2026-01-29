@@ -1,0 +1,15 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/java/awt/EventDispatchThread.members/EventDispatchThread.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/java/awt/EventDispatchThread.members.trap.gz
+classes/java/lang/Thread.members.trap.gz
+classes/java/awt/EventQueue.members.trap.gz
+classes/java/awt/AWTEvent.members.trap.gz
+classes/java/awt/EventFilter.members.trap.gz
+classes/java/awt/Conditional.members.trap.gz
+classes/java/awt/Component.members.trap.gz
+classes/java/lang/ThreadGroup.members.trap.gz
+classes/java/lang/String.members.trap.gz

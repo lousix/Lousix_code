@@ -1,0 +1,16 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/core/io/AbstractResource.members/AbstractResource.members#61.0-1697073474000-java.trap.gz
+
+TRAPS
+classes/org/springframework/core/io/AbstractResource.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/springframework/core/io/Resource.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/springframework/lang/Nullable.members.trap.gz
+classes/java/io/IOException.members.trap.gz
+classes/java/io/File.members.trap.gz
+classes/java/nio/channels/ReadableByteChannel.members.trap.gz
+classes/java/net/URI.members.trap.gz
+classes/java/net/URL.members.trap.gz

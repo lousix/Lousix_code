@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/beans/factory/NamedBean.members/NamedBean.members#61.0-1697073476000-java.trap.gz
+
+TRAPS
+classes/org/springframework/beans/factory/NamedBean.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz

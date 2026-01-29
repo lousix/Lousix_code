@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/jakarta/xml/bind/Unmarshaller$Listener.members/Unmarshaller$Listener.members#55.0-1694554612000-java.trap.gz
+
+TRAPS
+classes/jakarta/xml/bind/Unmarshaller$Listener.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/jakarta/xml/bind/Unmarshaller.members.trap.gz

@@ -1,0 +1,20 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/jakarta/activation/DataHandler.members/DataHandler.members#52.0-1682561236000-java.trap.gz
+
+TRAPS
+classes/jakarta/activation/DataHandler.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/jakarta/activation/DataContentHandlerFactory.members.trap.gz
+classes/jakarta/activation/CommandInfo.members.trap.gz
+classes/java/io/IOException.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/jakarta/activation/CommandMap.members.trap.gz
+classes/jakarta/activation/ActivationDataFlavor.members.trap.gz
+classes/java/io/OutputStream.members.trap.gz
+classes/java/io/InputStream.members.trap.gz
+classes/jakarta/activation/DataSource.members.trap.gz
+classes/java/net/URL.members.trap.gz

@@ -1,0 +1,24 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/owasp/webgoat/container/LessonDataSource.members/LessonDataSource.members#0.0-1698980255052-java.trap.gz
+
+TRAPS
+classes/org/owasp/webgoat/container/LessonDataSource.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/javax/sql/DataSource.members.trap.gz
+classes/java/lang/Class.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/java/lang/reflect/GenericDeclaration.members.trap.gz
+classes/java/lang/reflect/Type.members.trap.gz
+classes/java/lang/reflect/AnnotatedElement.members.trap.gz
+classes/java/lang/invoke/TypeDescriptor$OfField.members.trap.gz
+classes/java/lang/invoke/TypeDescriptor.members.trap.gz
+classes/java/lang/constant/Constable.members.trap.gz
+classes/java/lang/Override.members.trap.gz
+classes/java/sql/SQLException.members.trap.gz
+classes/java/util/logging/Logger.members.trap.gz
+classes/java/sql/SQLFeatureNotSupportedException.members.trap.gz
+classes/java/io/PrintWriter.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/sql/Connection.members.trap.gz

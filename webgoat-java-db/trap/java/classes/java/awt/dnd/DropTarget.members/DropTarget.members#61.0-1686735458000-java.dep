@@ -1,0 +1,20 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/java/awt/dnd/DropTarget.members/DropTarget.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/java/awt/dnd/DropTarget.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/awt/dnd/DropTargetListener.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/java/awt/Point.members.trap.gz
+classes/java/awt/Component.members.trap.gz
+classes/java/awt/dnd/DropTarget$DropTargetAutoScroller.members.trap.gz
+classes/java/awt/dnd/DropTargetContext.members.trap.gz
+classes/java/awt/datatransfer/FlavorMap.members.trap.gz
+classes/java/awt/dnd/DropTargetDropEvent.members.trap.gz
+classes/java/awt/dnd/DropTargetEvent.members.trap.gz
+classes/java/awt/dnd/DropTargetDragEvent.members.trap.gz
+classes/java/util/TooManyListenersException.members.trap.gz
+classes/java/awt/HeadlessException.members.trap.gz

@@ -1,0 +1,18 @@
+TRAP dependencies 1.2
+
+SOURCES
+
+INCLUDES
+
+OBJECTS
+
+INPUT_OBJECTS
+
+TRAPS
+Users/lousix/sec/CodeQL/JavaProject/WebGoat/src/main/java/org/owasp/webgoat/container/session/WebSession.java.trap.gz
+classes/org/springframework/security/core/context/SecurityContextHolder.members/SecurityContextHolder.members#61.0-1697442086000-java.trap.gz
+classes/org/springframework/security/core/Authentication.members/Authentication.members#61.0-1697442086000-java.trap.gz
+classes/org/springframework/security/core/context/SecurityContext.members/SecurityContext.members#61.0-1697442086000-java.trap.gz
+classes/org/springframework/security/core/context/SecurityContextHolderStrategy.members/SecurityContextHolderStrategy.members#61.0-1697442086000-java.trap.gz
+modules/java.base.trap.gz
+jars/usr/local/apache-maven-3.5.4/repository/org/springframework/security/spring-security-core/6.1.5/spring-security-core-6.1.5.jar.trap.gz

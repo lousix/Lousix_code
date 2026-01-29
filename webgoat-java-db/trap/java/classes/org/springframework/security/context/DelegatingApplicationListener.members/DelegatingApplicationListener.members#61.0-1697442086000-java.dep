@@ -1,0 +1,16 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/security/context/DelegatingApplicationListener.members/DelegatingApplicationListener.members#61.0-1697442086000-java.trap.gz
+
+TRAPS
+classes/org/springframework/security/context/DelegatingApplicationListener.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/springframework/context/ApplicationEvent.members.trap.gz
+classes/org/springframework/context/ApplicationListener.members.trap.gz
+classes/java/util/EventListener.members.trap.gz
+classes/java/lang/FunctionalInterface.members.trap.gz
+classes/java/util/function/Consumer.members.trap.gz
+classes/org/springframework/context/PayloadApplicationEvent.members.trap.gz
+classes/org/springframework/core/ResolvableTypeProvider.members.trap.gz
+classes/org/springframework/context/event/SmartApplicationListener.members.trap.gz

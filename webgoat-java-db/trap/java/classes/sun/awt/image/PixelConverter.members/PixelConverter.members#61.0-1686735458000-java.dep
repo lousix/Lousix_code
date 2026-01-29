@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/sun/awt/image/PixelConverter.members/PixelConverter.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/sun/awt/image/PixelConverter.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/awt/image/ColorModel.members.trap.gz

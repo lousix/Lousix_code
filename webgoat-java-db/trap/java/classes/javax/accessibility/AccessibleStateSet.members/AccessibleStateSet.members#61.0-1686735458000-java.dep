@@ -1,0 +1,19 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/javax/accessibility/AccessibleStateSet.members/AccessibleStateSet.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/javax/accessibility/AccessibleStateSet.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/javax/accessibility/AccessibleState.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/java/util/Vector.members.trap.gz
+classes/java/util/AbstractList.members.trap.gz
+classes/java/util/AbstractCollection.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/java/util/List.members.trap.gz
+classes/java/util/RandomAccess.members.trap.gz

@@ -1,0 +1,14 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/util/function/ThrowingSupplier.members/ThrowingSupplier.members#61.0-1697073474000-java.trap.gz
+
+TRAPS
+classes/org/springframework/util/function/ThrowingSupplier.members.trap.gz
+classes/java/util/function/Supplier.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/FunctionalInterface.members.trap.gz
+classes/java/util/function/BiFunction.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Exception.members.trap.gz
+classes/java/lang/RuntimeException.members.trap.gz

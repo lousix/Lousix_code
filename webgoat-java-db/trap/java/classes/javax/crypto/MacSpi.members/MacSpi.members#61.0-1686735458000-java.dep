@@ -1,0 +1,16 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/javax/crypto/MacSpi.members/MacSpi.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/javax/crypto/MacSpi.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/CloneNotSupportedException.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/java/nio/ByteBuffer.members.trap.gz
+classes/java/security/Key.members.trap.gz
+classes/java/security/spec/AlgorithmParameterSpec.members.trap.gz
+classes/java/security/InvalidKeyException.members.trap.gz
+classes/java/security/InvalidAlgorithmParameterException.members.trap.gz

@@ -1,0 +1,13 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/java/awt/TextArea.members/TextArea.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/java/awt/TextArea.members.trap.gz
+classes/java/awt/TextComponent.members.trap.gz
+classes/javax/accessibility/AccessibleContext.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/awt/Dimension.members.trap.gz
+classes/java/lang/Deprecated.members.trap.gz
+classes/java/awt/HeadlessException.members.trap.gz

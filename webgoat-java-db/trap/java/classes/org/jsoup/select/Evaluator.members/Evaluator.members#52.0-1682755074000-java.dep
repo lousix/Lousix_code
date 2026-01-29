@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/jsoup/select/Evaluator.members/Evaluator.members#52.0-1682755074000-java.trap.gz
+
+TRAPS
+classes/org/jsoup/select/Evaluator.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/jsoup/nodes/Element.members.trap.gz

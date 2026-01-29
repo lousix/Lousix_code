@@ -1,0 +1,26 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/security/config/annotation/web/configurers/JeeConfigurer.members/JeeConfigurer.members#61.0-1697442116000-java.trap.gz
+
+TRAPS
+classes/org/springframework/security/config/annotation/web/configurers/JeeConfigurer.members.trap.gz
+classes/org/springframework/security/config/annotation/web/configurers/AbstractHttpConfigurer.members.trap.gz
+classes/org/springframework/security/web/DefaultSecurityFilterChain.members.trap.gz
+classes/org/springframework/security/config/annotation/SecurityConfigurerAdapter.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/springframework/security/config/annotation/SecurityConfigurer.members.trap.gz
+classes/java/lang/Exception.members.trap.gz
+classes/org/springframework/security/config/annotation/ObjectPostProcessor.members.trap.gz
+classes/org/springframework/security/config/annotation/SecurityBuilder.members.trap.gz
+classes/org/springframework/security/config/annotation/web/HttpSecurityBuilder.members.trap.gz
+classes/org/springframework/security/core/context/SecurityContextHolderStrategy.members.trap.gz
+classes/org/springframework/security/web/authentication/preauth/j2ee/J2eePreAuthenticatedProcessingFilter.members.trap.gz
+classes/org/springframework/security/web/authentication/preauth/PreAuthenticatedAuthenticationToken.members.trap.gz
+classes/org/springframework/security/core/userdetails/AuthenticationUserDetailsService.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/util/Set.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz

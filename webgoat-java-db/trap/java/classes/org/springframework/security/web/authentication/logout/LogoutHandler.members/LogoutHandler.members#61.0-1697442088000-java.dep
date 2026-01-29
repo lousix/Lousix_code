@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/security/web/authentication/logout/LogoutHandler.members/LogoutHandler.members#61.0-1697442088000-java.trap.gz
+
+TRAPS
+classes/org/springframework/security/web/authentication/logout/LogoutHandler.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/jakarta/servlet/http/HttpServletRequest.members.trap.gz
+classes/jakarta/servlet/http/HttpServletResponse.members.trap.gz
+classes/org/springframework/security/core/Authentication.members.trap.gz

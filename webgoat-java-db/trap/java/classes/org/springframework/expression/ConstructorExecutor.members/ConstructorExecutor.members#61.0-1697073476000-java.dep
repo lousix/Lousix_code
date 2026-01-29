@@ -1,0 +1,13 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/expression/ConstructorExecutor.members/ConstructorExecutor.members#61.0-1697073476000-java.trap.gz
+
+TRAPS
+classes/org/springframework/expression/ConstructorExecutor.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/springframework/expression/EvaluationContext.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/org/springframework/expression/TypedValue.members.trap.gz
+classes/org/springframework/expression/AccessException.members.trap.gz

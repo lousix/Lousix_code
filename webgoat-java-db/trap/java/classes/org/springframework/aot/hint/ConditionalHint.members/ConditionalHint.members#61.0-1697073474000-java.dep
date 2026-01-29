@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/aot/hint/ConditionalHint.members/ConditionalHint.members#61.0-1697073474000-java.trap.gz
+
+TRAPS
+classes/org/springframework/aot/hint/ConditionalHint.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/ClassLoader.members.trap.gz
+classes/org/springframework/aot/hint/TypeReference.members.trap.gz
+classes/org/springframework/lang/Nullable.members.trap.gz

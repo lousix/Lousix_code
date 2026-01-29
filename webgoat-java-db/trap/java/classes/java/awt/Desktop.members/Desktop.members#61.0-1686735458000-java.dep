@@ -1,0 +1,21 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/java/awt/Desktop.members/Desktop.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/java/awt/Desktop.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/io/File.members.trap.gz
+classes/javax/swing/JMenuBar.members.trap.gz
+classes/java/awt/desktop/QuitStrategy.members.trap.gz
+classes/java/awt/desktop/QuitHandler.members.trap.gz
+classes/java/awt/desktop/OpenURIHandler.members.trap.gz
+classes/java/awt/desktop/PrintFilesHandler.members.trap.gz
+classes/java/awt/desktop/OpenFilesHandler.members.trap.gz
+classes/java/awt/desktop/PreferencesHandler.members.trap.gz
+classes/java/awt/desktop/AboutHandler.members.trap.gz
+classes/java/awt/desktop/SystemEventListener.members.trap.gz
+classes/java/net/URI.members.trap.gz
+classes/java/io/IOException.members.trap.gz
+classes/java/awt/Desktop$Action.members.trap.gz

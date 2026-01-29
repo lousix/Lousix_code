@@ -1,0 +1,18 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/owasp/webgoat/lessons/missingac/DisplayUser.members/DisplayUser.members#0.0-1698980255068-java.trap.gz
+
+TRAPS
+classes/org/owasp/webgoat/lessons/missingac/DisplayUser.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/lombok/Getter.members.trap.gz
+classes/lombok/AccessLevel.members.trap.gz
+classes/lombok/Getter$AnyAnnotation.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/SuppressWarnings.members.trap.gz
+classes/lombok/Generated.members.trap.gz
+classes/java/lang/Exception.members.trap.gz
+classes/org/owasp/webgoat/lessons/missingac/User.members.trap.gz

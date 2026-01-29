@@ -1,0 +1,19 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/flywaydb/core/api/output/CleanResult.members/CleanResult.members#52.0-1680592640000-java.trap.gz
+
+TRAPS
+classes/org/flywaydb/core/api/output/CleanResult.members.trap.gz
+classes/org/flywaydb/core/api/output/OperationResultBase.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/util/ArrayList.members.trap.gz
+classes/java/util/AbstractList.members.trap.gz
+classes/java/util/AbstractCollection.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/java/util/List.members.trap.gz
+classes/java/util/RandomAccess.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz

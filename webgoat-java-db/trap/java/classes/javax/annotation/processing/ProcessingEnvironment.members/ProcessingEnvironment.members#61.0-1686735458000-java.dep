@@ -1,0 +1,16 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/javax/annotation/processing/ProcessingEnvironment.members/ProcessingEnvironment.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/javax/annotation/processing/ProcessingEnvironment.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/util/Locale.members.trap.gz
+classes/javax/lang/model/SourceVersion.members.trap.gz
+classes/javax/lang/model/util/Types.members.trap.gz
+classes/javax/lang/model/util/Elements.members.trap.gz
+classes/javax/annotation/processing/Filer.members.trap.gz
+classes/javax/annotation/processing/Messager.members.trap.gz
+classes/java/util/Map.members.trap.gz
+classes/java/lang/String.members.trap.gz

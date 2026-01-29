@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/security/core/userdetails/UserDetailsService.members/UserDetailsService.members#61.0-1697442086000-java.trap.gz
+
+TRAPS
+classes/org/springframework/security/core/userdetails/UserDetailsService.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/springframework/security/core/userdetails/UserDetails.members.trap.gz
+classes/org/springframework/security/core/userdetails/UsernameNotFoundException.members.trap.gz

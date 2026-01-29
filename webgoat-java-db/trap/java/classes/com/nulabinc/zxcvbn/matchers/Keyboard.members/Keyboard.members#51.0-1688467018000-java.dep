@@ -1,0 +1,15 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/com/nulabinc/zxcvbn/matchers/Keyboard.members/Keyboard.members#51.0-1688467018000-java.trap.gz
+
+TRAPS
+classes/com/nulabinc/zxcvbn/matchers/Keyboard.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/util/Map.members.trap.gz
+classes/java/lang/Character.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/util/List.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/com/nulabinc/zxcvbn/matchers/Keyboard$AdjacentGraphBuilder.members.trap.gz

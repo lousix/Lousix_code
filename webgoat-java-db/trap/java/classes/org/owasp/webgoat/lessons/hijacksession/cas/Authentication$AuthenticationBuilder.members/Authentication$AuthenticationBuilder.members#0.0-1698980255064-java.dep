@@ -1,0 +1,15 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/owasp/webgoat/lessons/hijacksession/cas/Authentication$AuthenticationBuilder.members/Authentication$AuthenticationBuilder.members#0.0-1698980255064-java.trap.gz
+
+TRAPS
+classes/org/owasp/webgoat/lessons/hijacksession/cas/Authentication$AuthenticationBuilder.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/owasp/webgoat/lessons/hijacksession/cas/Authentication.members.trap.gz
+classes/java/lang/SuppressWarnings.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/lombok/Generated.members.trap.gz
+classes/java/lang/Override.members.trap.gz

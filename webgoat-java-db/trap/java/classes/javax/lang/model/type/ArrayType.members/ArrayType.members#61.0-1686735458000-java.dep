@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/javax/lang/model/type/ArrayType.members/ArrayType.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/javax/lang/model/type/ArrayType.members.trap.gz
+classes/javax/lang/model/type/ReferenceType.members.trap.gz
+classes/javax/lang/model/type/TypeMirror.members.trap.gz

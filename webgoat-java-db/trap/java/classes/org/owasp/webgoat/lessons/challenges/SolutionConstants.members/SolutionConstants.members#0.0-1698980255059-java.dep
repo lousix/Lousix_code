@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/owasp/webgoat/lessons/challenges/SolutionConstants.members/SolutionConstants.members#0.0-1698980255059-java.trap.gz
+
+TRAPS
+classes/org/owasp/webgoat/lessons/challenges/SolutionConstants.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz

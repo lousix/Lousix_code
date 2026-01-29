@@ -1,0 +1,15 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/core/env/ConfigurablePropertyResolver.members/ConfigurablePropertyResolver.members#61.0-1697073474000-java.trap.gz
+
+TRAPS
+classes/org/springframework/core/env/ConfigurablePropertyResolver.members.trap.gz
+classes/org/springframework/core/env/PropertyResolver.members.trap.gz
+classes/org/springframework/core/env/MissingRequiredPropertiesException.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/org/springframework/lang/Nullable.members.trap.gz
+classes/org/springframework/core/convert/support/ConfigurableConversionService.members.trap.gz

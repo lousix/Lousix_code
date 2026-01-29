@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/flywaydb/core/internal/sqlscript/SqlStatement.members/SqlStatement.members#52.0-1680592640000-java.trap.gz
+
+TRAPS
+classes/org/flywaydb/core/internal/sqlscript/SqlStatement.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/flywaydb/core/internal/jdbc/JdbcTemplate.members.trap.gz
+classes/org/flywaydb/core/internal/jdbc/Results.members.trap.gz
+classes/java/lang/String.members.trap.gz

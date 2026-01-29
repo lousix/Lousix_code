@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/owasp/webgoat/lessons/httpbasics/HttpBasics.members/HttpBasics.members#0.0-1698980255064-java.trap.gz
+
+TRAPS
+classes/org/owasp/webgoat/lessons/httpbasics/HttpBasics.members.trap.gz
+classes/org/owasp/webgoat/container/lessons/Lesson.members.trap.gz
+classes/org/springframework/stereotype/Component.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Override.members.trap.gz
+classes/org/owasp/webgoat/container/lessons/Category.members.trap.gz

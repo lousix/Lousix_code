@@ -1,0 +1,22 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/javax/swing/JLayeredPane.members/JLayeredPane.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/javax/swing/JLayeredPane.members.trap.gz
+classes/javax/swing/JComponent.members.trap.gz
+classes/javax/accessibility/Accessible.members.trap.gz
+classes/java/beans/JavaBean.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/javax/accessibility/AccessibleContext.members.trap.gz
+classes/java/beans/BeanProperty.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/java/lang/Integer.members.trap.gz
+classes/java/util/Hashtable.members.trap.gz
+classes/java/util/Dictionary.members.trap.gz
+classes/java/util/Map.members.trap.gz
+classes/java/awt/Component.members.trap.gz
+classes/java/awt/Graphics.members.trap.gz

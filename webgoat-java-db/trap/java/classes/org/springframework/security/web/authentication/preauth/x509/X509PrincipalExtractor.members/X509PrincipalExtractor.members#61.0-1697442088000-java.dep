@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/security/web/authentication/preauth/x509/X509PrincipalExtractor.members/X509PrincipalExtractor.members#61.0-1697442088000-java.trap.gz
+
+TRAPS
+classes/org/springframework/security/web/authentication/preauth/x509/X509PrincipalExtractor.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/security/cert/X509Certificate.members.trap.gz

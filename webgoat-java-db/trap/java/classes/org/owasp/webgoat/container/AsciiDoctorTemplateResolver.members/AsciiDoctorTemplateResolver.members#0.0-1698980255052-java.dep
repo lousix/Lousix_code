@@ -1,0 +1,17 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/owasp/webgoat/container/AsciiDoctorTemplateResolver.members/AsciiDoctorTemplateResolver.members#0.0-1698980255052-java.trap.gz
+
+TRAPS
+classes/org/owasp/webgoat/container/AsciiDoctorTemplateResolver.members.trap.gz
+classes/org/thymeleaf/templateresolver/FileTemplateResolver.members.trap.gz
+classes/lombok/extern/slf4j/Slf4j.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/thymeleaf/IEngineConfiguration.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/util/Map.members.trap.gz
+classes/org/thymeleaf/templateresource/ITemplateResource.members.trap.gz
+classes/java/lang/Override.members.trap.gz
+classes/org/owasp/webgoat/container/i18n/Language.members.trap.gz
+classes/org/springframework/core/io/ResourceLoader.members.trap.gz

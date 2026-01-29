@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/jakarta/xml/bind/annotation/XmlType$DEFAULT.members/XmlType$DEFAULT.members#55.0-1694554612000-java.trap.gz
+
+TRAPS
+classes/jakarta/xml/bind/annotation/XmlType$DEFAULT.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/jakarta/xml/bind/annotation/XmlType.members.trap.gz

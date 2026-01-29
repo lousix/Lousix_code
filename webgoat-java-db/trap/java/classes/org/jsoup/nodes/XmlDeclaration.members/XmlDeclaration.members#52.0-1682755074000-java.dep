@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/jsoup/nodes/XmlDeclaration.members/XmlDeclaration.members#52.0-1682755074000-java.trap.gz
+
+TRAPS
+classes/org/jsoup/nodes/XmlDeclaration.members.trap.gz
+classes/org/jsoup/nodes/LeafNode.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Appendable.members.trap.gz
+classes/org/jsoup/nodes/Document$OutputSettings.members.trap.gz
+classes/java/io/IOException.members.trap.gz

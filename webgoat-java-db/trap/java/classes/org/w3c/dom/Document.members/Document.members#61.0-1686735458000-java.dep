@@ -1,0 +1,22 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/w3c/dom/Document.members/Document.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/org/w3c/dom/Document.members.trap.gz
+classes/org/w3c/dom/Node.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/w3c/dom/DOMException.members.trap.gz
+classes/org/w3c/dom/DOMConfiguration.members.trap.gz
+classes/org/w3c/dom/Element.members.trap.gz
+classes/org/w3c/dom/NodeList.members.trap.gz
+classes/org/w3c/dom/Attr.members.trap.gz
+classes/org/w3c/dom/EntityReference.members.trap.gz
+classes/org/w3c/dom/ProcessingInstruction.members.trap.gz
+classes/org/w3c/dom/CDATASection.members.trap.gz
+classes/org/w3c/dom/Comment.members.trap.gz
+classes/org/w3c/dom/Text.members.trap.gz
+classes/org/w3c/dom/DocumentFragment.members.trap.gz
+classes/org/w3c/dom/DOMImplementation.members.trap.gz
+classes/org/w3c/dom/DocumentType.members.trap.gz

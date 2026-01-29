@@ -1,0 +1,6 @@
+TRAP dependencies 1.2
+
+TRAP
+jars/usr/local/apache-maven-3.5.4/repository/com/google/errorprone/error_prone_annotations/2.21.1/error_prone_annotations-2.21.1.jar.trap.gz
+
+TRAPS

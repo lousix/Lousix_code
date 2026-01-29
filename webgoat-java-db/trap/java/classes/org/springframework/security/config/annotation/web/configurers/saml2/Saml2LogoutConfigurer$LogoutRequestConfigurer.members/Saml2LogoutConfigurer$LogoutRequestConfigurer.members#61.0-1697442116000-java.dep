@@ -1,0 +1,14 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/security/config/annotation/web/configurers/saml2/Saml2LogoutConfigurer$LogoutRequestConfigurer.members/Saml2LogoutConfigurer$LogoutRequestConfigurer.members#61.0-1697442116000-java.trap.gz
+
+TRAPS
+classes/org/springframework/security/config/annotation/web/configurers/saml2/Saml2LogoutConfigurer$LogoutRequestConfigurer.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/springframework/security/config/annotation/web/configurers/saml2/Saml2LogoutConfigurer.members.trap.gz
+classes/org/springframework/security/config/annotation/web/configurers/AbstractHttpConfigurer.members.trap.gz
+classes/org/springframework/security/config/annotation/SecurityConfigurerAdapter.members.trap.gz
+classes/org/springframework/security/config/annotation/SecurityConfigurer.members.trap.gz
+classes/java/lang/Deprecated.members.trap.gz
+classes/java/lang/String.members.trap.gz

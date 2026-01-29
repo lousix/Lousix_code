@@ -1,0 +1,8 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/thymeleaf/model/IOpenElementTag.members/IOpenElementTag.members#52.0-1670321336000-java.trap.gz
+
+TRAPS
+classes/org/thymeleaf/model/IOpenElementTag.members.trap.gz
+classes/org/thymeleaf/model/IProcessableElementTag.members.trap.gz

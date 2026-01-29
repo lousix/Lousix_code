@@ -1,0 +1,16 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/java/sql/SQLException.members/SQLException.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/java/sql/SQLException.members.trap.gz
+classes/java/lang/Exception.members.trap.gz
+classes/java/lang/Throwable.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/util/Spliterator.members.trap.gz
+classes/java/util/function/Consumer.members.trap.gz
+classes/java/lang/FunctionalInterface.members.trap.gz
+classes/java/util/Iterator.members.trap.gz
+classes/java/lang/String.members.trap.gz

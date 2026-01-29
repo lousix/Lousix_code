@@ -1,0 +1,13 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/sun/awt/image/SurfaceManager.members/SurfaceManager.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/sun/awt/image/SurfaceManager.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/awt/Image.members.trap.gz
+classes/java/awt/GraphicsConfiguration.members.trap.gz
+classes/java/awt/ImageCapabilities.members.trap.gz
+classes/sun/java2d/SurfaceData.members.trap.gz
+classes/sun/awt/image/SurfaceManager$ImageAccessor.members.trap.gz

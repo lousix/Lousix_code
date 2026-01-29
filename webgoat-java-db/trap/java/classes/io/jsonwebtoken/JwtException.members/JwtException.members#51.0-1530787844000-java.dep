@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/io/jsonwebtoken/JwtException.members/JwtException.members#51.0-1530787844000-java.trap.gz
+
+TRAPS
+classes/io/jsonwebtoken/JwtException.members.trap.gz
+classes/java/lang/RuntimeException.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Throwable.members.trap.gz

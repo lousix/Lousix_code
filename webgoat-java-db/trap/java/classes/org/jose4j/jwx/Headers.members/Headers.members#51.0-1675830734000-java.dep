@@ -1,0 +1,15 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/jose4j/jwx/Headers.members/Headers.members#51.0-1675830734000-java.trap.gz
+
+TRAPS
+classes/org/jose4j/jwx/Headers.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/jose4j/lang/JoseException.members.trap.gz
+classes/org/jose4j/jwk/PublicJsonWebKey.members.trap.gz
+classes/org/jose4j/jwk/JsonWebKey.members.trap.gz
+classes/java/lang/Deprecated.members.trap.gz
+classes/java/lang/Long.members.trap.gz
+classes/org/jose4j/base64url/Base64Url.members.trap.gz

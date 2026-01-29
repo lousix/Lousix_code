@@ -1,0 +1,16 @@
+TRAP dependencies 1.2
+
+SOURCES
+
+INCLUDES
+
+OBJECTS
+
+INPUT_OBJECTS
+
+TRAPS
+Users/lousix/sec/CodeQL/JavaProject/WebGoat/src/main/java/org/owasp/webgoat/lessons/hijacksession/cas/Authentication.java.trap.gz
+classes/lombok/ToString.members/ToString.members#50.0-1695153928000-java.trap.gz
+classes/org/owasp/webgoat/lessons/hijacksession/cas/Authentication.members/Authentication.members#0.0-1698980255064-java.trap.gz
+classes/org/owasp/webgoat/lessons/hijacksession/cas/Authentication$AuthenticationBuilder.members/Authentication$AuthenticationBuilder.members#0.0-1698980255064-java.trap.gz
+jars/usr/local/apache-maven-3.5.4/repository/org/projectlombok/lombok/1.18.30/lombok-1.18.30.jar.trap.gz

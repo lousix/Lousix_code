@@ -1,0 +1,235 @@
+{
+  "project_name": "jshERP-boot",
+  "project_path": "/Users/lousix/sec/ctf/AAA/2023/xhlj2024/jshERP/jshERP-boot",
+  "scan_time": "2026-01-29T10:00:00Z",
+  "total_files": 306,
+
+  "languages": [
+    {
+      "language": "Java",
+      "file_count": 306,
+      "extension": ".java",
+      "frameworks": ["Spring Boot 2.0.0", "MyBatis-Plus 3.0.7.1", "Swagger 2.7.0", "Redis"]
+    }
+  ],
+
+  "config_files": [
+    {
+      "file": "pom.xml",
+      "type": "Maven",
+      "exists": true
+    },
+    {
+      "file": "application.properties",
+      "type": "Spring Boot Config",
+      "exists": true
+    }
+  ],
+
+  "high_risk_files": [
+    {
+      "path": "src/main/java/com/jsh/erp/ErpApplication.java",
+      "risk": "entry",
+      "reason": "应用入口，Spring Boot启动类"
+    },
+    {
+      "path": "src/main/java/com/jsh/erp/filter/LogCostFilter.java",
+      "risk": "auth",
+      "reason": "认证过滤器，处理登录状态检查"
+    },
+    {
+      "path": "src/main/java/com/jsh/erp/controller/UserController.java",
+      "risk": "auth",
+      "reason": "用户认证管理，包含登录、登出、密码修改等"
+    },
+    {
+      "path": "src/main/java/com/jsh/erp/controller/PluginController.java",
+      "risk": "file_upload",
+      "reason": "插件管理，包含文件上传安装功能"
+    },
+    {
+      "path": "src/main/java/com/jsh/erp/controller/MaterialController.java",
+      "risk": "business",
+      "reason": "商品管理控制器"
+    },
+    {
+      "path": "src/main/java/com/jsh/erp/controller/FunctionController.java",
+      "risk": "business",
+      "reason": "功能菜单管理控制器"
+    }
+  ],
+
+  "modules": [
+    {
+      "name": "controller",
+      "path": "src/main/java/com/jsh/erp/controller",
+      "description": "HTTP请求控制器层，包含26个控制器",
+      "risk_level": "High",
+      "risk_points": ["SQL注入", "认证绕过", "文件上传漏洞", "权限绕过"],
+      "files": [
+        "UserController.java",
+        "PluginController.java",
+        "MaterialController.java",
+        "FunctionController.java",
+        "DepotHeadController.java",
+        "AccountController.java",
+        "TenantController.java",
+        "RoleController.java"
+      ]
+    },
+    {
+      "name": "service",
+      "path": "src/main/java/com/jsh/erp/service",
+      "description": "业务逻辑层，包含用户、角色、租户、商品等业务逻辑",
+      "risk_level": "Medium",
+      "risk_points": ["业务逻辑漏洞", "权限校验缺失"],
+      "sub_modules": [
+        "user",
+        "role",
+        "tenant",
+        "material",
+        "depot",
+        "account",
+        "redis"
+      ]
+    },
+    {
+      "name": "datasource",
+      "path": "src/main/java/com/jsh/erp/datasource",
+      "description": "数据访问层，包含实体类、Mapper接口和VO对象",
+      "risk_level": "Medium",
+      "risk_points": ["SQL注入", "数据泄露"],
+      "sub_modules": [
+        "entities",
+        "mappers",
+        "vo"
+      ]
+    },
+    {
+      "name": "filter",
+      "path": "src/main/java/com/jsh/erp/filter",
+      "description": "过滤器层，包含认证过滤",
+      "risk_level": "High",
+      "risk_points": ["认证绕过", "会话固定"],
+      "files": [
+        "LogCostFilter.java"
+      ]
+    },
+    {
+      "name": "config",
+      "path": "src/main/java/com/jsh/erp/config",
+      "description": "配置类，包含插件配置、Swagger配置、租户配置等",
+      "risk_level": "Medium",
+      "risk_points": ["配置错误"],
+      "files": [
+        "PluginBeanConfig.java",
+        "Swagger2Config.java",
+        "TenantConfig.java"
+      ]
+    },
+    {
+      "name": "utils",
+      "path": "src/main/java/com/jsh/erp/utils",
+      "description": "工具类，包含加密、文件处理、JSON处理等",
+      "risk_level": "Low",
+      "risk_points": ["加密算法不当", "文件路径遍历"],
+      "files": [
+        "Tools.java",
+        "FileUtils.java",
+        "JsonUtils.java",
+        "StringUtil.java",
+        "RandImageUtil.java"
+      ]
+    }
+  ],
+
+  "excluded_paths": [
+    "target",
+    ".git",
+    ".idea",
+    "test",
+    "logs.home_IS_UNDEFINED",
+    "dist"
+  ],
+
+  "recommended_scan_order": [
+    {
+      "priority": 1,
+      "reason": "认证过滤和入口",
+      "files": [
+        "src/main/java/com/jsh/erp/ErpApplication.java",
+        "src/main/java/com/jsh/erp/filter/LogCostFilter.java"
+      ]
+    },
+    {
+      "priority": 2,
+      "reason": "用户认证管理",
+      "files": [
+        "src/main/java/com/jsh/erp/controller/UserController.java",
+        "src/main/java/com/jsh/erp/service/user/UserService.java"
+      ]
+    },
+    {
+      "priority": 3,
+      "reason": "插件和文件上传",
+      "files": [
+        "src/main/java/com/jsh/erp/controller/PluginController.java"
+      ]
+    },
+    {
+      "priority": 4,
+      "reason": "业务控制器",
+      "files": [
+        "src/main/java/com/jsh/erp/controller/MaterialController.java",
+        "src/main/java/com/jsh/erp/controller/FunctionController.java",
+        "src/main/java/com/jsh/erp/controller/TenantController.java",
+        "src/main/java/com/jsh/erp/controller/RoleController.java"
+      ]
+    },
+    {
+      "priority": 5,
+      "reason": "数据访问层",
+      "files": [
+        "src/main/resources/mapper_xml/*.xml",
+        "src/main/java/com/jsh/erp/datasource/mappers/*.java"
+      ]
+    }
+  ],
+
+  "security_info": {
+    "database": {
+      "type": "MySQL",
+      "url": "jdbc:mysql://127.0.0.1:3306/test",
+      "driver": "com.mysql.jdbc.Driver"
+    },
+    "server": {
+      "port": 9999,
+      "context_path": "/jshERP-boot",
+      "session_timeout": 36000
+    },
+    "redis": {
+      "host": "127.0.0.1",
+      "port": 6379
+    },
+    "dependencies": [
+      "Spring Boot 2.0.0",
+      "MyBatis-Plus 3.0.7.1",
+      "Fastjson 1.2.83",
+      "MySQL Connector 5.1.30",
+      "Redis",
+      "Swagger 2.7.0"
+    ]
+  },
+
+  "vulnerability_categories": [
+    "SQL注入",
+    "认证绕过",
+    "文件上传漏洞",
+    "权限越权",
+    "XSS跨站脚本",
+    "CSRF跨站请求伪造",
+    "Fastjson反序列化",
+    "会话固定",
+    "路径遍历"
+  ]
+}

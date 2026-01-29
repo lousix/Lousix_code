@@ -1,0 +1,21 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/java/awt/MenuComponent.members/MenuComponent.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/java/awt/MenuComponent.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/javax/accessibility/AccessibleStateSet.members.trap.gz
+classes/javax/accessibility/AccessibleContext.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/awt/AWTEvent.members.trap.gz
+classes/java/awt/Event.members.trap.gz
+classes/java/lang/Deprecated.members.trap.gz
+classes/java/awt/Font.members.trap.gz
+classes/java/awt/MenuContainer.members.trap.gz
+classes/sun/awt/ComponentFactory.members.trap.gz
+classes/java/awt/HeadlessException.members.trap.gz
+classes/java/security/AccessControlContext.members.trap.gz
+classes/java/awt/peer/MenuComponentPeer.members.trap.gz

@@ -1,0 +1,13 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/javax/xml/stream/XMLEventWriter.members/XMLEventWriter.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/javax/xml/stream/XMLEventWriter.members.trap.gz
+classes/javax/xml/stream/util/XMLEventConsumer.members.trap.gz
+classes/javax/xml/namespace/NamespaceContext.members.trap.gz
+classes/javax/xml/stream/XMLStreamException.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/javax/xml/stream/XMLEventReader.members.trap.gz
+classes/javax/xml/stream/events/XMLEvent.members.trap.gz

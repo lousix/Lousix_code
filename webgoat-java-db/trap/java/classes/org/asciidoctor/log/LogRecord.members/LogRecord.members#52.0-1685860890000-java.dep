@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/asciidoctor/log/LogRecord.members/LogRecord.members#52.0-1685860890000-java.trap.gz
+
+TRAPS
+classes/org/asciidoctor/log/LogRecord.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/asciidoctor/ast/Cursor.members.trap.gz
+classes/org/asciidoctor/log/Severity.members.trap.gz

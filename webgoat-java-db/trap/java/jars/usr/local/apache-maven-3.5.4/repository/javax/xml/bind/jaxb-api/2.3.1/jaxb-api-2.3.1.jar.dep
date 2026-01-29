@@ -1,0 +1,6 @@
+TRAP dependencies 1.2
+
+TRAP
+jars/usr/local/apache-maven-3.5.4/repository/javax/xml/bind/jaxb-api/2.3.1/jaxb-api-2.3.1.jar.trap.gz
+
+TRAPS

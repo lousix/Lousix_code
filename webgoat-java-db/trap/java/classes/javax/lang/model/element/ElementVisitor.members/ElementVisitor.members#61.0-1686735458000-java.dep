@@ -1,0 +1,16 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/javax/lang/model/element/ElementVisitor.members/ElementVisitor.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/javax/lang/model/element/ElementVisitor.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/javax/lang/model/element/RecordComponentElement.members.trap.gz
+classes/javax/lang/model/element/ModuleElement.members.trap.gz
+classes/javax/lang/model/element/Element.members.trap.gz
+classes/javax/lang/model/element/TypeParameterElement.members.trap.gz
+classes/javax/lang/model/element/ExecutableElement.members.trap.gz
+classes/javax/lang/model/element/VariableElement.members.trap.gz
+classes/javax/lang/model/element/TypeElement.members.trap.gz
+classes/javax/lang/model/element/PackageElement.members.trap.gz

@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/java/awt/PointerInfo.members/PointerInfo.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/java/awt/PointerInfo.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/awt/Point.members.trap.gz
+classes/java/awt/GraphicsDevice.members.trap.gz

@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/thymeleaf/dialect/IDialect.members/IDialect.members#52.0-1670321336000-java.trap.gz
+
+TRAPS
+classes/org/thymeleaf/dialect/IDialect.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz

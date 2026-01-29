@@ -1,0 +1,15 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/web/accept/ContentNegotiationStrategy.members/ContentNegotiationStrategy.members#61.0-1697073496000-java.trap.gz
+
+TRAPS
+classes/org/springframework/web/accept/ContentNegotiationStrategy.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/FunctionalInterface.members.trap.gz
+classes/org/springframework/web/context/request/NativeWebRequest.members.trap.gz
+classes/java/util/List.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/org/springframework/http/MediaType.members.trap.gz
+classes/org/springframework/web/HttpMediaTypeNotAcceptableException.members.trap.gz

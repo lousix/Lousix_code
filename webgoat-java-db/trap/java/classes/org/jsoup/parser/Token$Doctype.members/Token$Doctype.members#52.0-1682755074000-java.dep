@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/jsoup/parser/Token$Doctype.members/Token$Doctype.members#52.0-1682755074000-java.trap.gz
+
+TRAPS
+classes/org/jsoup/parser/Token$Doctype.members.trap.gz
+classes/org/jsoup/parser/Token.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/StringBuilder.members.trap.gz

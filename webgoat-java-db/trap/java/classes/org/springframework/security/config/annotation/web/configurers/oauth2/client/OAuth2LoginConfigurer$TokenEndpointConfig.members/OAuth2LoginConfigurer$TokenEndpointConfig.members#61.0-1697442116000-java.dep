@@ -1,0 +1,15 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/security/config/annotation/web/configurers/oauth2/client/OAuth2LoginConfigurer$TokenEndpointConfig.members/OAuth2LoginConfigurer$TokenEndpointConfig.members#61.0-1697442116000-java.trap.gz
+
+TRAPS
+classes/org/springframework/security/config/annotation/web/configurers/oauth2/client/OAuth2LoginConfigurer$TokenEndpointConfig.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/springframework/security/config/annotation/web/configurers/oauth2/client/OAuth2LoginConfigurer.members.trap.gz
+classes/org/springframework/security/config/annotation/web/configurers/AbstractAuthenticationFilterConfigurer.members.trap.gz
+classes/org/springframework/security/config/annotation/web/configurers/AbstractHttpConfigurer.members.trap.gz
+classes/org/springframework/security/config/annotation/SecurityConfigurerAdapter.members.trap.gz
+classes/org/springframework/security/config/annotation/SecurityConfigurer.members.trap.gz
+classes/java/lang/Deprecated.members.trap.gz
+classes/java/lang/String.members.trap.gz

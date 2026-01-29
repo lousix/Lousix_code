@@ -1,0 +1,24 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/jose4j/jwx/JsonWebStructure.members/JsonWebStructure.members#51.0-1675830734000-java.trap.gz
+
+TRAPS
+classes/org/jose4j/jwx/JsonWebStructure.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/jose4j/jca/ProviderContext.members.trap.gz
+classes/org/jose4j/lang/JoseException.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/org/jose4j/jwa/AlgorithmConstraints.members.trap.gz
+classes/java/security/Key.members.trap.gz
+classes/java/security/cert/X509Certificate.members.trap.gz
+classes/java/util/List.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/org/jose4j/jwk/PublicJsonWebKey.members.trap.gz
+classes/org/jose4j/jwx/Headers.members.trap.gz
+classes/org/jose4j/jwa/Algorithm.members.trap.gz
+classes/org/jose4j/lang/InvalidAlgorithmException.members.trap.gz
+classes/org/jose4j/base64url/Base64Url.members.trap.gz

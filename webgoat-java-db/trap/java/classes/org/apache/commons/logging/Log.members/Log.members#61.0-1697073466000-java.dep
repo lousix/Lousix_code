@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/apache/commons/logging/Log.members/Log.members#61.0-1697073466000-java.trap.gz
+
+TRAPS
+classes/org/apache/commons/logging/Log.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Throwable.members.trap.gz

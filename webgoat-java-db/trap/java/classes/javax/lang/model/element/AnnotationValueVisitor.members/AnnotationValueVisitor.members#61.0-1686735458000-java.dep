@@ -1,0 +1,16 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/javax/lang/model/element/AnnotationValueVisitor.members/AnnotationValueVisitor.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/javax/lang/model/element/AnnotationValueVisitor.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/javax/lang/model/element/AnnotationValue.members.trap.gz
+classes/java/util/List.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/javax/lang/model/element/AnnotationMirror.members.trap.gz
+classes/javax/lang/model/element/VariableElement.members.trap.gz
+classes/javax/lang/model/type/TypeMirror.members.trap.gz
+classes/java/lang/String.members.trap.gz

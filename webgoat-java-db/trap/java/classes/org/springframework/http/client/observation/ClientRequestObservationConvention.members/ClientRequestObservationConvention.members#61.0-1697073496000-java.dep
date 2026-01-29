@@ -1,0 +1,13 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/http/client/observation/ClientRequestObservationConvention.members/ClientRequestObservationConvention.members#61.0-1697073496000-java.trap.gz
+
+TRAPS
+classes/org/springframework/http/client/observation/ClientRequestObservationConvention.members.trap.gz
+classes/org/springframework/http/client/observation/ClientRequestObservationContext.members.trap.gz
+classes/io/micrometer/observation/ObservationConvention.members.trap.gz
+classes/io/micrometer/observation/KeyValuesConvention.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/io/micrometer/observation/Observation$Context.members.trap.gz
+classes/io/micrometer/common/KeyValues.members.trap.gz

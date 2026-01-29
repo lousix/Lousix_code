@@ -1,0 +1,14 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/thymeleaf/model/IModel.members/IModel.members#52.0-1670321336000-java.trap.gz
+
+TRAPS
+classes/org/thymeleaf/model/IModel.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/io/Writer.members.trap.gz
+classes/java/io/IOException.members.trap.gz
+classes/org/thymeleaf/model/IModelVisitor.members.trap.gz
+classes/org/thymeleaf/model/ITemplateEvent.members.trap.gz
+classes/org/thymeleaf/templatemode/TemplateMode.members.trap.gz
+classes/org/thymeleaf/IEngineConfiguration.members.trap.gz

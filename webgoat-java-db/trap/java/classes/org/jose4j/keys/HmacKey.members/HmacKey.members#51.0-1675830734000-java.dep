@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/jose4j/keys/HmacKey.members/HmacKey.members#51.0-1675830734000-java.trap.gz
+
+TRAPS
+classes/org/jose4j/keys/HmacKey.members.trap.gz
+classes/javax/crypto/spec/SecretKeySpec.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/java/lang/String.members.trap.gz

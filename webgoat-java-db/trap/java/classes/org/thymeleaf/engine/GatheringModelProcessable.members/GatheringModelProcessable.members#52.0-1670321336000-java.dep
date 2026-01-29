@@ -1,0 +1,15 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/thymeleaf/engine/GatheringModelProcessable.members/GatheringModelProcessable.members#52.0-1670321336000-java.trap.gz
+
+TRAPS
+classes/org/thymeleaf/engine/GatheringModelProcessable.members.trap.gz
+classes/org/thymeleaf/engine/AbstractGatheringModelProcessable.members.trap.gz
+classes/org/thymeleaf/IEngineConfiguration.members.trap.gz
+classes/org/thymeleaf/engine/ProcessorTemplateHandler.members.trap.gz
+classes/org/thymeleaf/context/IEngineContext.members.trap.gz
+classes/org/thymeleaf/engine/TemplateModelController.members.trap.gz
+classes/org/thymeleaf/engine/TemplateFlowController.members.trap.gz
+classes/org/thymeleaf/engine/TemplateModelController$SkipBody.members.trap.gz
+classes/org/thymeleaf/engine/ProcessorExecutionVars.members.trap.gz

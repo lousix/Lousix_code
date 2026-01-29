@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/thymeleaf/processor/element/MatchingAttributeName.members/MatchingAttributeName.members#52.0-1670321336000-java.trap.gz
+
+TRAPS
+classes/org/thymeleaf/processor/element/MatchingAttributeName.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/thymeleaf/engine/AttributeName.members.trap.gz
+classes/org/thymeleaf/templatemode/TemplateMode.members.trap.gz

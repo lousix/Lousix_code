@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/expression/ExpressionParser.members/ExpressionParser.members#61.0-1697073476000-java.trap.gz
+
+TRAPS
+classes/org/springframework/expression/ExpressionParser.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/springframework/expression/ParserContext.members.trap.gz
+classes/org/springframework/expression/Expression.members.trap.gz
+classes/org/springframework/expression/ParseException.members.trap.gz

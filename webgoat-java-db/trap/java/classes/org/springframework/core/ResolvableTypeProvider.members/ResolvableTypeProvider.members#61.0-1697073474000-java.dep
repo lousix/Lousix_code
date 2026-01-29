@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/core/ResolvableTypeProvider.members/ResolvableTypeProvider.members#61.0-1697073474000-java.trap.gz
+
+TRAPS
+classes/org/springframework/core/ResolvableTypeProvider.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/springframework/core/ResolvableType.members.trap.gz
+classes/org/springframework/lang/Nullable.members.trap.gz

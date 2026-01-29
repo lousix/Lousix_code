@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/thymeleaf/processor/element/IElementProcessor.members/IElementProcessor.members#52.0-1670321336000-java.trap.gz
+
+TRAPS
+classes/org/thymeleaf/processor/element/IElementProcessor.members.trap.gz
+classes/org/thymeleaf/processor/IProcessor.members.trap.gz
+classes/org/thymeleaf/processor/element/MatchingAttributeName.members.trap.gz
+classes/org/thymeleaf/processor/element/MatchingElementName.members.trap.gz

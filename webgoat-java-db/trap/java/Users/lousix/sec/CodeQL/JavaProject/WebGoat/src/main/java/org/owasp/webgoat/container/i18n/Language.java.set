@@ -1,0 +1,18 @@
+TRAP dependencies 1.2
+
+SOURCES
+
+INCLUDES
+
+OBJECTS
+
+INPUT_OBJECTS
+
+TRAPS
+Users/lousix/sec/CodeQL/JavaProject/WebGoat/src/main/java/org/owasp/webgoat/container/i18n/Language.java.trap.gz
+classes/org/springframework/web/context/request/RequestContextHolder.members/RequestContextHolder.members#61.0-1697073496000-java.trap.gz
+classes/org/springframework/web/context/request/ServletRequestAttributes.members/ServletRequestAttributes.members#61.0-1697073496000-java.trap.gz
+classes/org/springframework/web/context/request/RequestAttributes.members/RequestAttributes.members#61.0-1697073496000-java.trap.gz
+classes/org/springframework/web/context/request/AbstractRequestAttributes.members/AbstractRequestAttributes.members#61.0-1697073496000-java.trap.gz
+modules/java.base.trap.gz
+jars/usr/local/apache-maven-3.5.4/repository/org/springframework/spring-web/6.0.13/spring-web-6.0.13.jar.trap.gz

@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/io/jsonwebtoken/Clock.members/Clock.members#51.0-1530787844000-java.trap.gz
+
+TRAPS
+classes/io/jsonwebtoken/Clock.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/util/Date.members.trap.gz

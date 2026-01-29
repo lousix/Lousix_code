@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/thymeleaf/templateresource/StringTemplateResource.members/StringTemplateResource.members#52.0-1670321338000-java.trap.gz
+
+TRAPS
+classes/org/thymeleaf/templateresource/StringTemplateResource.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/thymeleaf/templateresource/ITemplateResource.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/io/Reader.members.trap.gz
+classes/java/io/IOException.members.trap.gz

@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/security/web/firewall/RequestRejectedException.members/RequestRejectedException.members#61.0-1697442088000-java.trap.gz
+
+TRAPS
+classes/org/springframework/security/web/firewall/RequestRejectedException.members.trap.gz
+classes/java/lang/RuntimeException.members.trap.gz
+classes/java/lang/String.members.trap.gz

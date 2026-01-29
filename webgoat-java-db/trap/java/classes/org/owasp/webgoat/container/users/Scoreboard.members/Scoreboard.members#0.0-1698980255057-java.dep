@@ -1,0 +1,26 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/owasp/webgoat/container/users/Scoreboard.members/Scoreboard.members#0.0-1698980255057-java.trap.gz
+
+TRAPS
+classes/org/owasp/webgoat/container/users/Scoreboard.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/lombok/AllArgsConstructor.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/lombok/AllArgsConstructor$AnyAnnotation.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/lombok/AccessLevel.members.trap.gz
+classes/org/springframework/web/bind/annotation/RestController.members.trap.gz
+classes/org/owasp/webgoat/container/users/UserTrackerRepository.members.trap.gz
+classes/org/owasp/webgoat/container/users/UserRepository.members.trap.gz
+classes/org/owasp/webgoat/container/session/Course.members.trap.gz
+classes/org/owasp/webgoat/container/i18n/PluginMessages.members.trap.gz
+classes/java/lang/SuppressWarnings.members.trap.gz
+classes/lombok/Generated.members.trap.gz
+classes/java/util/List.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/org/owasp/webgoat/container/users/Scoreboard$Ranking.members.trap.gz
+classes/org/springframework/web/bind/annotation/GetMapping.members.trap.gz

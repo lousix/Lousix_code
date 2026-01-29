@@ -1,0 +1,25 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/security/config/annotation/web/configurers/ExpressionUrlAuthorizationConfigurer$AuthorizedUrl.members/ExpressionUrlAuthorizationConfigurer$AuthorizedUrl.members#61.0-1697442116000-java.trap.gz
+
+TRAPS
+classes/org/springframework/security/config/annotation/web/configurers/ExpressionUrlAuthorizationConfigurer$AuthorizedUrl.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/springframework/security/config/annotation/web/configurers/ExpressionUrlAuthorizationConfigurer.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/springframework/security/config/annotation/web/configurers/ExpressionUrlAuthorizationConfigurer$ExpressionInterceptUrlRegistry.members.trap.gz
+classes/org/springframework/security/config/annotation/web/configurers/AbstractInterceptUrlConfigurer$AbstractInterceptUrlRegistry.members.trap.gz
+classes/org/springframework/security/config/annotation/web/configurers/AbstractConfigAttributeRequestMatcherRegistry.members.trap.gz
+classes/org/springframework/security/config/annotation/web/AbstractRequestMatcherRegistry.members.trap.gz
+classes/org/springframework/security/config/annotation/web/configurers/AbstractInterceptUrlConfigurer.members.trap.gz
+classes/org/springframework/security/config/annotation/web/configurers/AbstractHttpConfigurer.members.trap.gz
+classes/org/springframework/security/config/annotation/SecurityConfigurerAdapter.members.trap.gz
+classes/org/springframework/security/config/annotation/SecurityConfigurer.members.trap.gz
+classes/java/lang/Deprecated.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/java/util/List.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/org/springframework/security/web/util/matcher/RequestMatcher.members.trap.gz

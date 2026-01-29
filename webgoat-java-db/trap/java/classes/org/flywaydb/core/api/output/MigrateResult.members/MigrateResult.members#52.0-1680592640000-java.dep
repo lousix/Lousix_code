@@ -1,0 +1,14 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/flywaydb/core/api/output/MigrateResult.members/MigrateResult.members#52.0-1680592640000-java.trap.gz
+
+TRAPS
+classes/org/flywaydb/core/api/output/MigrateResult.members.trap.gz
+classes/org/flywaydb/core/api/output/OperationResultBase.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/flywaydb/core/api/output/MigrateOutput.members.trap.gz
+classes/java/util/List.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/java/lang/Object.members.trap.gz

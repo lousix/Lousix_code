@@ -1,0 +1,27 @@
+TRAP dependencies 1.2
+
+SOURCES
+
+INCLUDES
+
+OBJECTS
+
+INPUT_OBJECTS
+
+TRAPS
+Users/lousix/sec/CodeQL/JavaProject/WebGoat/src/main/java/org/owasp/webgoat/webwolf/requests/Requests.java.trap.gz
+classes/org/springframework/boot/actuate/web/exchanges/HttpExchange.members/HttpExchange.members#61.0-1697688688000-java.trap.gz
+classes/org/owasp/webgoat/webwolf/requests/Requests.members/Requests.members#0.0-1698980255079-java.trap.gz
+classes/org/owasp/webgoat/webwolf/requests/WebWolfTraceRepository.members/WebWolfTraceRepository.members#0.0-1698980255080-java.trap.gz
+classes/org/owasp/webgoat/webwolf/requests/Requests$Tracert.members/Requests$Tracert.members#0.0-1698980255079-java.trap.gz
+classes/org/springframework/boot/actuate/web/exchanges/HttpExchange$Request.members/HttpExchange$Request.members#61.0-1697688688000-java.trap.gz
+classes/org/springframework/boot/actuate/web/exchanges/RecordableHttpRequest.members/RecordableHttpRequest.members#61.0-1697688688000-java.trap.gz
+classes/org/springframework/boot/actuate/web/exchanges/HttpExchange$Started.members/HttpExchange$Started.members#61.0-1697688688000-java.trap.gz
+classes/org/springframework/boot/actuate/web/exchanges/HttpExchange$Session.members/HttpExchange$Session.members#61.0-1697688688000-java.trap.gz
+classes/org/springframework/boot/actuate/web/exchanges/HttpExchange$Principal.members/HttpExchange$Principal.members#61.0-1697688688000-java.trap.gz
+classes/org/springframework/boot/actuate/web/exchanges/HttpExchange$Response.members/HttpExchange$Response.members#61.0-1697688688000-java.trap.gz
+classes/org/springframework/boot/actuate/web/exchanges/HttpExchangeRepository.members/HttpExchangeRepository.members#61.0-1697688688000-java.trap.gz
+classes/org/springframework/boot/actuate/web/exchanges/RecordableHttpResponse.members/RecordableHttpResponse.members#61.0-1697688688000-java.trap.gz
+classes/org/springframework/boot/actuate/web/exchanges/Include.members/Include.members#61.0-1697688688000-java.trap.gz
+modules/java.base.trap.gz
+jars/usr/local/apache-maven-3.5.4/repository/org/springframework/boot/spring-boot-actuator/3.1.5/spring-boot-actuator-3.1.5.jar.trap.gz

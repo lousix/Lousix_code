@@ -1,0 +1,330 @@
+{
+  "total_paths": 4,
+  "by_severity": {
+    "Critical": 1,
+    "High": 3
+  },
+  "paths": [
+    {
+      "path_id": "PATH-001",
+      "sink_id": "SINK-002",
+      "vulnerability_type": "sql_injection",
+      "severity": "Critical",
+      "confidence": 0.95,
+      "source": {
+        "file": "com.jsh.erp.controller.ResourceController",
+        "line": 47,
+        "function": "getList",
+        "code": "public String getList(@PathVariable(\"apiName\") String apiName, ...)",
+        "source_type": "http_request_parameter",
+        "parameter": "request parameters including filter"
+      },
+      "sink": {
+        "file": "com.jsh.erp.utils.QueryUtils",
+        "line": 93,
+        "function": "filter",
+        "code": "builder.append(value.getString(vidx));",
+        "sink_type": "dynamic_sql_build"
+      },
+      "data_flow": [
+        {
+          "step": 1,
+          "file": "com.jsh.erp.controller.ResourceController",
+          "line": 54,
+          "description": "从HTTP请求中提取参数",
+          "code": "Map<String, String> parameterMap = ParamUtils.requestToMap(request);"
+        },
+        {
+          "step": 2,
+          "file": "com.jsh.erp.service.CommonQueryManager",
+          "line": 49,
+          "description": "通过CommonQueryManager传递参数",
+          "code": "return container.getCommonQuery(apiName).select(parameterMap);"
+        },
+        {
+          "step": 3,
+          "file": "com.jsh.erp.service.user.UserComponent",
+          "line": 36,
+          "description": "调用QueryUtils.filter处理过滤条件",
+          "code": "String filter = QueryUtils.filter(map);"
+        },
+        {
+          "step": 4,
+          "file": "com.jsh.erp.utils.QueryUtils",
+          "line": 95,
+          "description": "解析JSON过滤参数",
+          "code": "JSONArray array = JSON.parseArray(map.get(Constants.FILTER));"
+        },
+        {
+          "step": 5,
+          "file": "com.jsh.erp.utils.QueryUtils",
+          "line": 114-131,
+          "description": "直接拼接用户输入到SQL语句中",
+          "code": "builder.append(\"`\").append(key).append(\"`\");\nbuilder.append(\" IN \");\nbuilder.append(\"(\");\nfor (int vidx = 0; vidx < value.size(); ++vidx) {\n    builder.append(value.getString(vidx));\n}"
+        }
+      ],
+      "cross_file_calls": [
+        {
+          "from_file": "com.jsh.erp.controller.ResourceController",
+          "from_line": 64,
+          "to_file": "com.jsh.erp.service.CommonQueryManager",
+          "to_function": "select"
+        },
+        {
+          "from_file": "com.jsh.erp.service.CommonQueryManager",
+          "from_line": 49,
+          "to_file": "com.jsh.erp.service.user.UserComponent",
+          "to_function": "select"
+        }
+      ],
+      "sanitization": false,
+      "validation": false,
+      "exploit_example": "filter参数可被注入：\n{\n  \"filter\": \"[{\\\"name\\\":\\\"id\\\",\\\"value\\\":[\\\"1\\\",\\\"1') OR '1'='1\\\"]}]\"\n}\n这将生成SQL：... WHERE (`id` IN (1,1') OR '1'='1))"
+    },
+    {
+      "path_id": "PATH-002",
+      "sink_id": "SINK-007",
+      "vulnerability_type": "sql_injection",
+      "severity": "High",
+      "confidence": 0.90,
+      "source": {
+        "file": "com.jsh.erp.controller.ResourceController",
+        "line": 47,
+        "function": "getList",
+        "code": "public String getList(@PathVariable(\"apiName\") String apiName, ...)",
+        "source_type": "http_request_parameter",
+        "parameter": "request parameters including order"
+      },
+      "sink": {
+        "file": "com.jsh.erp.utils.OrderUtils",
+        "line": 24,
+        "function": "getOrderString",
+        "code": "return column + \" \" + splits[1];",
+        "sink_type": "string_concatenation"
+      },
+      "data_flow": [
+        {
+          "step": 1,
+          "file": "com.jsh.erp.controller.ResourceController",
+          "line": 54,
+          "description": "从HTTP请求中提取参数",
+          "code": "Map<String, String> parameterMap = ParamUtils.requestToMap(request);"
+        },
+        {
+          "step": 2,
+          "file": "com.jsh.erp.service.CommonQueryManager",
+          "line": 49,
+          "description": "通过CommonQueryManager传递参数",
+          "code": "return container.getCommonQuery(apiName).select(parameterMap);"
+        },
+        {
+          "step": 3,
+          "file": "com.jsh.erp.service.user.UserComponent",
+          "line": 35,
+          "description": "调用QueryUtils.order处理排序参数",
+          "code": "String order = QueryUtils.order(map);"
+        },
+        {
+          "step": 4,
+          "file": "com.jsh.erp.utils.QueryUtils",
+          "line": 75,
+          "description": "调用OrderUtils.getOrderString",
+          "code": "String orderString = OrderUtils.getOrderString(map.get(Constants.ORDER));"
+        },
+        {
+          "step": 5,
+          "file": "com.jsh.erp.utils.OrderUtils",
+          "line": 16-26,
+          "description": "直接拼接用户输入到ORDER BY子句",
+          "code": "String column = ColumnPropertyUtil.propertyToColumn(splits[0]);\n...\nreturn column + \" \" + splits[1];"
+        }
+      ],
+      "cross_file_calls": [
+        {
+          "from_file": "com.jsh.erp.controller.ResourceController",
+          "from_line": 64,
+          "to_file": "com.jsh.erp.service.CommonQueryManager",
+          "to_function": "select"
+        },
+        {
+          "from_file": "com.jsh.erp.service.CommonQueryManager",
+          "from_line": 49,
+          "to_file": "com.jsh.erp.service.user.UserComponent",
+          "to_function": "select"
+        }
+      ],
+      "sanitization": false,
+      "validation": false,
+      "exploit_example": "order参数可被注入：\norder=id; DROP TABLE jsh_user; --\n这将生成SQL：... ORDER BY id; DROP TABLE jsh_user; --"
+    },
+    {
+      "path_id": "PATH-003",
+      "sink_id": "SINK-008",
+      "vulnerability_type": "sql_injection",
+      "severity": "High",
+      "confidence": 0.90,
+      "source": {
+        "file": "com.jsh.erp.controller.ResourceController",
+        "line": 47,
+        "function": "getList",
+        "code": "public String getList(@PathVariable(\"apiName\") String apiName, ...)",
+        "source_type": "http_request_parameter",
+        "parameter": "request parameters including order"
+      },
+      "sink": {
+        "file": "com.jsh.erp.utils.OrderUtils",
+        "line": 37,
+        "function": "getJoinTablesOrderString",
+        "code": "return \"convert(\" + tableName + \".\" + ColumnPropertyUtil.propertyToColumn(splits[0]) + \" using gbk) \" + splits[1];",
+        "sink_type": "string_concatenation"
+      },
+      "data_flow": [
+        {
+          "step": 1,
+          "file": "com.jsh.erp.controller.ResourceController",
+          "line": 54,
+          "description": "从HTTP请求中提取参数",
+          "code": "Map<String, String> parameterMap = ParamUtils.requestToMap(request);"
+        },
+        {
+          "step": 2,
+          "file": "com.jsh.erp.service.CommonQueryManager",
+          "line": 49,
+          "description": "通过CommonQueryManager传递参数",
+          "code": "return container.getCommonQuery(apiName).select(parameterMap);"
+        },
+        {
+          "step": 3,
+          "file": "com.jsh.erp.service.msg.MsgComponent",
+          "line": 35,
+          "description": "调用QueryUtils.order处理排序参数",
+          "code": "String order = QueryUtils.order(map);"
+        },
+        {
+          "step": 4,
+          "file": "com.jsh.erp.utils.QueryUtils",
+          "line": 75,
+          "description": "调用OrderUtils.getOrderString",
+          "code": "String orderString = OrderUtils.getOrderString(map.get(Constants.ORDER));"
+        },
+        {
+          "step": 5,
+          "file": "com.jsh.erp.utils.OrderUtils",
+          "line": 33-40,
+          "description": "直接拼接用户输入到ORDER BY子句",
+          "code": "String[] splits = orders.split(Constants.SPLIT);\nif (splits.length == 2) {\n    return \"convert(\" + tableName + \".\" + ColumnPropertyUtil.propertyToColumn(splits[0]) + \" using gbk) \" + splits[1];\n}"
+        }
+      ],
+      "cross_file_calls": [
+        {
+          "from_file": "com.jsh.erp.controller.ResourceController",
+          "from_line": 64,
+          "to_file": "com.jsh.erp.service.CommonQueryManager",
+          "to_function": "select"
+        },
+        {
+          "from_file": "com.jsh.erp.service.CommonQueryManager",
+          "from_line": 49,
+          "to_file": "com.jsh.erp.service.msg.MsgComponent",
+          "to_function": "select"
+        }
+      ],
+      "sanitization": false,
+      "validation": false,
+      "exploit_example": "order参数可被注入：\norder=id; DROP TABLE jsh_msg; --\n这将生成SQL：... ORDER BY convert(jsh_msg.id using gbk) id; DROP TABLE jsh_msg; --"
+    },
+    {
+      "path_id": "PATH-004",
+      "sink_id": "SINK-014",
+      "vulnerability_type": "sql_injection",
+      "severity": "High",
+      "confidence": 0.90,
+      "source": {
+        "file": "com.jsh.erp.controller.ResourceController",
+        "line": 47,
+        "function": "getList",
+        "code": "public String getList(@PathVariable(\"apiName\") String apiName, ...)",
+        "source_type": "http_request_parameter",
+        "parameter": "request parameters including filter"
+      },
+      "sink": {
+        "file": "com.jsh.erp.service.user.UserComponent",
+        "line": 36,
+        "function": "getUserList",
+        "code": "String filter = QueryUtils.filter(map);",
+        "sink_type": "parameter_passing"
+      },
+      "data_flow": [
+        {
+          "step": 1,
+          "file": "com.jsh.erp.controller.ResourceController",
+          "line": 54,
+          "description": "从HTTP请求中提取参数",
+          "code": "Map<String, String> parameterMap = ParamUtils.requestToMap(request);"
+        },
+        {
+          "step": 2,
+          "file": "com.jsh.erp.service.CommonQueryManager",
+          "line": 49,
+          "description": "通过CommonQueryManager传递参数",
+          "code": "return container.getCommonQuery(apiName).select(parameterMap);"
+        },
+        {
+          "step": 3,
+          "file": "com.jsh.erp.service.user.UserComponent",
+          "line": 36,
+          "description": "调用QueryUtils.filter处理过滤条件",
+          "code": "String filter = QueryUtils.filter(map);"
+        },
+        {
+          "step": 4,
+          "file": "com.jsh.erp.service.user.UserService",
+          "line": 106,
+          "description": "传递参数到Mapper层",
+          "code": "list=userMapperEx.selectByConditionUser(userName, loginName, offset, rows);"
+        },
+        {
+          "step": 5,
+          "file": "com.jsh.erp.datasource.mappers.UserMapperEx",
+          "line": 13-43,
+          "description": "在MyBatis XML中执行查询",
+          "code": "select tb.*,\n...\nFROM jsh_user user\n...\nwhere 1=1\nand user.status !='1'\n<if test=\"userName != null\">\n    <bind name=\"bindUserName\" value=\"'%'+userName+'%'\"/>\n    and user.username like #{bindUserName}\n</if>\n..."
+        }
+      ],
+      "cross_file_calls": [
+        {
+          "from_file": "com.jsh.erp.controller.ResourceController",
+          "from_line": 64,
+          "to_file": "com.jsh.erp.service.CommonQueryManager",
+          "to_function": "select"
+        },
+        {
+          "from_file": "com.jsh.erp.service.CommonQueryManager",
+          "from_line": 49,
+          "to_file": "com.jsh.erp.service.user.UserComponent",
+          "to_function": "select"
+        }
+      ],
+      "sanitization": true,
+      "validation": false,
+      "sanitization_method": "MyBatis bind标签",
+      "notes": "虽然调用了QueryUtils.filter，但实际查询使用的是MyBatis参数化查询，bind标签提供了部分保护"
+    }
+  ],
+  "summary": {
+    "total_vulnerabilities": 4,
+    "critical_paths": 1,
+    "high_paths": 3,
+    "main_attack_vectors": [
+      "filter参数注入 - 直接拼接SQL IN子句",
+      "order参数注入 - 直接拼接ORDER BY子句",
+      "动态接口解析 - 通过apiName参数控制查询组件"
+    ],
+    "recommendations": [
+      "对filter参数进行严格的输入验证和参数化查询",
+      "使用白名单验证order参数，避免直接拼接",
+      "对所有用户输入进行适当的转义或参数化处理",
+      "实现更严格的接口访问控制，避免通过apiName任意调用组件"
+    ]
+  }
+}

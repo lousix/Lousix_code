@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/java/awt/AttributeValue.members/AttributeValue.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/java/awt/AttributeValue.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz

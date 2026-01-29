@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/jose4j/lang/UnresolvableKeyException.members/UnresolvableKeyException.members#51.0-1675830734000-java.trap.gz
+
+TRAPS
+classes/org/jose4j/lang/UnresolvableKeyException.members.trap.gz
+classes/org/jose4j/lang/JoseException.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Throwable.members.trap.gz

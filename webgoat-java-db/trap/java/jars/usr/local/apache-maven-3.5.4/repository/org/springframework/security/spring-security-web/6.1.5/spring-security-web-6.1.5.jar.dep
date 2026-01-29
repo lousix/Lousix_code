@@ -1,0 +1,6 @@
+TRAP dependencies 1.2
+
+TRAP
+jars/usr/local/apache-maven-3.5.4/repository/org/springframework/security/spring-security-web/6.1.5/spring-security-web-6.1.5.jar.trap.gz
+
+TRAPS

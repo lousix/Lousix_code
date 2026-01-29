@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/com/nulabinc/zxcvbn/Context.members/Context.members#51.0-1688467018000-java.trap.gz
+
+TRAPS
+classes/com/nulabinc/zxcvbn/Context.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/util/Map.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/com/nulabinc/zxcvbn/matchers/Keyboard.members.trap.gz
+classes/com/nulabinc/zxcvbn/matchers/Dictionary.members.trap.gz

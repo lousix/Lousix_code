@@ -1,0 +1,13 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/flywaydb/core/internal/sqlscript/SqlScriptMetadata.members/SqlScriptMetadata.members#52.0-1680592640000-java.trap.gz
+
+TRAPS
+classes/org/flywaydb/core/internal/sqlscript/SqlScriptMetadata.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/flywaydb/core/api/ResourceProvider.members.trap.gz
+classes/org/flywaydb/core/api/resource/LoadableResource.members.trap.gz
+classes/org/flywaydb/core/internal/parser/Parser.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Boolean.members.trap.gz

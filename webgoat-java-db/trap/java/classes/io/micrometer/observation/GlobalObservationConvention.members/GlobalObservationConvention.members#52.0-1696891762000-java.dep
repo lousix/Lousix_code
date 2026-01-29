@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/io/micrometer/observation/GlobalObservationConvention.members/GlobalObservationConvention.members#52.0-1696891762000-java.trap.gz
+
+TRAPS
+classes/io/micrometer/observation/GlobalObservationConvention.members.trap.gz
+classes/io/micrometer/observation/ObservationConvention.members.trap.gz
+classes/io/micrometer/observation/KeyValuesConvention.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/io/micrometer/observation/Observation$Context.members.trap.gz
+classes/io/micrometer/common/KeyValues.members.trap.gz

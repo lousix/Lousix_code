@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/javax/swing/ComponentInputMap.members/ComponentInputMap.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/javax/swing/ComponentInputMap.members.trap.gz
+classes/javax/swing/InputMap.members.trap.gz
+classes/javax/swing/KeyStroke.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/javax/swing/JComponent.members.trap.gz

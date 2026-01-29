@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/jakarta/validation/ClockProvider.members/ClockProvider.members#52.0-1653559272000-java.trap.gz
+
+TRAPS
+classes/jakarta/validation/ClockProvider.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/time/Clock.members.trap.gz

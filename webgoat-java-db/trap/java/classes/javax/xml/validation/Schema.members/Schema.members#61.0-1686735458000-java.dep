@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/javax/xml/validation/Schema.members/Schema.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/javax/xml/validation/Schema.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/javax/xml/validation/ValidatorHandler.members.trap.gz
+classes/javax/xml/validation/Validator.members.trap.gz

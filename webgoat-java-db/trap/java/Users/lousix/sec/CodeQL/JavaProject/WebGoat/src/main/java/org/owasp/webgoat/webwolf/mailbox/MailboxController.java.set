@@ -1,0 +1,25 @@
+TRAP dependencies 1.2
+
+SOURCES
+
+INCLUDES
+
+OBJECTS
+
+INPUT_OBJECTS
+
+TRAPS
+Users/lousix/sec/CodeQL/JavaProject/WebGoat/src/main/java/org/owasp/webgoat/webwolf/mailbox/MailboxController.java.trap.gz
+classes/lombok/RequiredArgsConstructor.members/RequiredArgsConstructor.members#50.0-1695153928000-java.trap.gz
+classes/org/springframework/web/bind/annotation/DeleteMapping.members/DeleteMapping.members#61.0-1697073496000-java.trap.gz
+classes/org/springframework/web/bind/annotation/ResponseStatus.members/ResponseStatus.members#61.0-1697073496000-java.trap.gz
+classes/org/owasp/webgoat/webwolf/mailbox/MailboxRepository.members/MailboxRepository.members#0.0-1698980255079-java.trap.gz
+classes/org/owasp/webgoat/webwolf/mailbox/MailboxController.members/MailboxController.members#0.0-1698980255079-java.trap.gz
+classes/org/owasp/webgoat/webwolf/mailbox/Email.members/Email.members#0.0-1698980255079-java.trap.gz
+classes/lombok/RequiredArgsConstructor$AnyAnnotation.members/RequiredArgsConstructor$AnyAnnotation.members#50.0-1695153928000-java.trap.gz
+classes/org/owasp/webgoat/webwolf/mailbox/Email$EmailBuilder.members/Email$EmailBuilder.members#0.0-1698980255079-java.trap.gz
+modules/java.base.trap.gz
+jars/usr/local/apache-maven-3.5.4/repository/org/springframework/data/spring-data-commons/3.1.5/spring-data-commons-3.1.5.jar.trap.gz
+jars/usr/local/apache-maven-3.5.4/repository/org/projectlombok/lombok/1.18.30/lombok-1.18.30.jar.trap.gz
+jars/usr/local/apache-maven-3.5.4/repository/org/springframework/spring-web/6.0.13/spring-web-6.0.13.jar.trap.gz
+jars/usr/local/apache-maven-3.5.4/repository/org/springframework/data/spring-data-jpa/3.1.5/spring-data-jpa-3.1.5.jar.trap.gz

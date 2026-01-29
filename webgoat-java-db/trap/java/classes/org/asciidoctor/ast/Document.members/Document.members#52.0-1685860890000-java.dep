@@ -1,0 +1,19 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/asciidoctor/ast/Document.members/Document.members#52.0-1685860890000-java.trap.gz
+
+TRAPS
+classes/org/asciidoctor/ast/Document.members.trap.gz
+classes/org/asciidoctor/ast/StructuralNode.members.trap.gz
+classes/org/asciidoctor/ast/RevisionInfo.members.trap.gz
+classes/org/asciidoctor/ast/Catalog.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/util/Map.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Deprecated.members.trap.gz
+classes/java/util/List.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/org/asciidoctor/ast/Author.members.trap.gz
+classes/org/asciidoctor/ast/Title.members.trap.gz

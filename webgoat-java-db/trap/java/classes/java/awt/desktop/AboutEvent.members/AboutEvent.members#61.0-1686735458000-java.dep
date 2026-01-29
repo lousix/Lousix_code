@@ -1,0 +1,8 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/java/awt/desktop/AboutEvent.members/AboutEvent.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/java/awt/desktop/AboutEvent.members.trap.gz
+classes/java/awt/desktop/AppEvent.members.trap.gz

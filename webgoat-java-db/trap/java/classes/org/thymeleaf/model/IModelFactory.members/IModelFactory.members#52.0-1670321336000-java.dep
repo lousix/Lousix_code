@@ -1,0 +1,26 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/thymeleaf/model/IModelFactory.members/IModelFactory.members#52.0-1670321336000-java.trap.gz
+
+TRAPS
+classes/org/thymeleaf/model/IModelFactory.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/thymeleaf/model/IProcessableElementTag.members.trap.gz
+classes/org/thymeleaf/engine/AttributeName.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/thymeleaf/model/AttributeValueQuotes.members.trap.gz
+classes/org/thymeleaf/model/ICloseElementTag.members.trap.gz
+classes/java/util/Map.members.trap.gz
+classes/org/thymeleaf/model/IOpenElementTag.members.trap.gz
+classes/org/thymeleaf/model/IStandaloneElementTag.members.trap.gz
+classes/org/thymeleaf/model/IXMLDeclaration.members.trap.gz
+classes/java/lang/CharSequence.members.trap.gz
+classes/org/thymeleaf/model/IText.members.trap.gz
+classes/org/thymeleaf/model/IProcessingInstruction.members.trap.gz
+classes/org/thymeleaf/model/IDocType.members.trap.gz
+classes/org/thymeleaf/model/IComment.members.trap.gz
+classes/org/thymeleaf/model/ICDATASection.members.trap.gz
+classes/org/thymeleaf/engine/TemplateData.members.trap.gz
+classes/org/thymeleaf/model/IModel.members.trap.gz
+classes/org/thymeleaf/model/ITemplateEvent.members.trap.gz

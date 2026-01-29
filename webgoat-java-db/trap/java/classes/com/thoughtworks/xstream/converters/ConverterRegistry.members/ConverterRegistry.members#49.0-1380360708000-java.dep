@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/com/thoughtworks/xstream/converters/ConverterRegistry.members/ConverterRegistry.members#49.0-1380360708000-java.trap.gz
+
+TRAPS
+classes/com/thoughtworks/xstream/converters/ConverterRegistry.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/com/thoughtworks/xstream/converters/Converter.members.trap.gz

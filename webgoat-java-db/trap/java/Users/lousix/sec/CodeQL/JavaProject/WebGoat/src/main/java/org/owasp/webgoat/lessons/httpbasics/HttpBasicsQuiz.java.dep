@@ -1,0 +1,26 @@
+TRAP dependencies 1.2
+
+TRAP
+Users/lousix/sec/CodeQL/JavaProject/WebGoat/src/main/java/org/owasp/webgoat/lessons/httpbasics/HttpBasicsQuiz.java.trap.gz
+
+TRAPS
+classes/org/owasp/webgoat/container/assignments/AssignmentEndpoint.members.trap.gz
+classes/org/owasp/webgoat/container/assignments/AssignmentHints.members.trap.gz
+classes/org/owasp/webgoat/container/assignments/AssignmentPath.members.trap.gz
+classes/org/owasp/webgoat/container/assignments/AttackResult.members.trap.gz
+classes/org/springframework/web/bind/annotation/PostMapping.members.trap.gz
+classes/org/springframework/web/bind/annotation/RequestParam.members.trap.gz
+classes/org/springframework/web/bind/annotation/ResponseBody.members.trap.gz
+classes/org/springframework/web/bind/annotation/RestController.members.trap.gz
+classes/org/owasp/webgoat/lessons/httpbasics/HttpBasicsQuiz.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/org/owasp/webgoat/container/assignments/AttackResult$AttackResultBuilder.members.trap.gz
+classes/java/lang/annotation/Annotation.members.trap.gz
+classes/java/lang/annotation/Retention.members.trap.gz
+classes/java/lang/annotation/RetentionPolicy.members.trap.gz
+classes/java/lang/annotation/Target.members.trap.gz
+classes/java/lang/annotation/ElementType.members.trap.gz
+classes/org/springframework/web/bind/annotation/RequestMethod.members.trap.gz

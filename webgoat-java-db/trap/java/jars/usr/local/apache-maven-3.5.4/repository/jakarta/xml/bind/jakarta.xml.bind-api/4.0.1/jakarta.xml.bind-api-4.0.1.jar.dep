@@ -1,0 +1,6 @@
+TRAP dependencies 1.2
+
+TRAP
+jars/usr/local/apache-maven-3.5.4/repository/jakarta/xml/bind/jakarta.xml.bind-api/4.0.1/jakarta.xml.bind-api-4.0.1.jar.trap.gz
+
+TRAPS

@@ -1,0 +1,13 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/thymeleaf/templateresolver/ITemplateResolver.members/ITemplateResolver.members#52.0-1670321336000-java.trap.gz
+
+TRAPS
+classes/org/thymeleaf/templateresolver/ITemplateResolver.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/thymeleaf/IEngineConfiguration.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/util/Map.members.trap.gz
+classes/org/thymeleaf/templateresolver/TemplateResolution.members.trap.gz
+classes/java/lang/Integer.members.trap.gz

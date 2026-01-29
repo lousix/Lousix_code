@@ -1,0 +1,15 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/javax/lang/model/element/ModuleElement$DirectiveVisitor.members/ModuleElement$DirectiveVisitor.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/javax/lang/model/element/ModuleElement$DirectiveVisitor.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/javax/lang/model/element/ModuleElement.members.trap.gz
+classes/javax/lang/model/element/ModuleElement$Directive.members.trap.gz
+classes/javax/lang/model/element/ModuleElement$ProvidesDirective.members.trap.gz
+classes/javax/lang/model/element/ModuleElement$UsesDirective.members.trap.gz
+classes/javax/lang/model/element/ModuleElement$OpensDirective.members.trap.gz
+classes/javax/lang/model/element/ModuleElement$ExportsDirective.members.trap.gz
+classes/javax/lang/model/element/ModuleElement$RequiresDirective.members.trap.gz

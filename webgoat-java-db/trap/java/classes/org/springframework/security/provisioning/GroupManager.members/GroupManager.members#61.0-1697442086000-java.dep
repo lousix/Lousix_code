@@ -1,0 +1,13 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/security/provisioning/GroupManager.members/GroupManager.members#61.0-1697442086000-java.trap.gz
+
+TRAPS
+classes/org/springframework/security/provisioning/GroupManager.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/springframework/security/core/GrantedAuthority.members.trap.gz
+classes/java/util/List.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz

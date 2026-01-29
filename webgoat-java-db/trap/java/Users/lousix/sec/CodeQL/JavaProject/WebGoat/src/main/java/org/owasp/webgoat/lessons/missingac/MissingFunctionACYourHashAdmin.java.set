@@ -1,0 +1,14 @@
+TRAP dependencies 1.2
+
+SOURCES
+
+INCLUDES
+
+OBJECTS
+
+INPUT_OBJECTS
+
+TRAPS
+Users/lousix/sec/CodeQL/JavaProject/WebGoat/src/main/java/org/owasp/webgoat/lessons/missingac/MissingFunctionACYourHashAdmin.java.trap.gz
+classes/org/owasp/webgoat/lessons/missingac/MissingFunctionACYourHashAdmin.members/MissingFunctionACYourHashAdmin.members#0.0-1698980255068-java.trap.gz
+classes/org/owasp/webgoat/lessons/missingac/DisplayUser.members/DisplayUser.members#0.0-1698980255068-java.trap.gz

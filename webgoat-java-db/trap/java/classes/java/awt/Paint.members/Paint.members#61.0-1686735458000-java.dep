@@ -1,0 +1,14 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/java/awt/Paint.members/Paint.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/java/awt/Paint.members.trap.gz
+classes/java/awt/Transparency.members.trap.gz
+classes/java/awt/image/ColorModel.members.trap.gz
+classes/java/awt/Rectangle.members.trap.gz
+classes/java/awt/geom/Rectangle2D.members.trap.gz
+classes/java/awt/geom/AffineTransform.members.trap.gz
+classes/java/awt/RenderingHints.members.trap.gz
+classes/java/awt/PaintContext.members.trap.gz

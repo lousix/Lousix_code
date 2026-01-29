@@ -1,0 +1,13 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/jakarta/activation/CommandInfo.members/CommandInfo.members#52.0-1682561236000-java.trap.gz
+
+TRAPS
+classes/jakarta/activation/CommandInfo.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/jakarta/activation/DataHandler.members.trap.gz
+classes/java/lang/ClassLoader.members.trap.gz
+classes/java/io/IOException.members.trap.gz
+classes/java/lang/ClassNotFoundException.members.trap.gz
+classes/java/lang/String.members.trap.gz

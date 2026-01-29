@@ -1,0 +1,13 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/security/config/annotation/web/configurers/AbstractConfigAttributeRequestMatcherRegistry$UrlMapping.members/AbstractConfigAttributeRequestMatcherRegistry$UrlMapping.members#61.0-1697442116000-java.trap.gz
+
+TRAPS
+classes/org/springframework/security/config/annotation/web/configurers/AbstractConfigAttributeRequestMatcherRegistry$UrlMapping.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/springframework/security/config/annotation/web/configurers/AbstractConfigAttributeRequestMatcherRegistry.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/org/springframework/security/access/ConfigAttribute.members.trap.gz
+classes/org/springframework/security/web/util/matcher/RequestMatcher.members.trap.gz

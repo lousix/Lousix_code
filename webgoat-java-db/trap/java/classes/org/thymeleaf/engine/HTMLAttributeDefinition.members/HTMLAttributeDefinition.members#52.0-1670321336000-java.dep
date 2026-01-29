@@ -1,0 +1,14 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/thymeleaf/engine/HTMLAttributeDefinition.members/HTMLAttributeDefinition.members#52.0-1670321336000-java.trap.gz
+
+TRAPS
+classes/org/thymeleaf/engine/HTMLAttributeDefinition.members.trap.gz
+classes/org/thymeleaf/engine/AttributeDefinition.members.trap.gz
+classes/org/thymeleaf/engine/HTMLAttributeName.members.trap.gz
+classes/org/thymeleaf/processor/element/IElementProcessor.members.trap.gz
+classes/java/util/Set.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/java/lang/Object.members.trap.gz

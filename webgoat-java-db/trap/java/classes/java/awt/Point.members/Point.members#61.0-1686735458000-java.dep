@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/java/awt/Point.members/Point.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/java/awt/Point.members.trap.gz
+classes/java/awt/geom/Point2D.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/beans/Transient.members.trap.gz

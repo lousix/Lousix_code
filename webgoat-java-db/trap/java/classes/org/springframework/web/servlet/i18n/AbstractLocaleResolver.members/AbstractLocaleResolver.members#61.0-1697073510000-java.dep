@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/web/servlet/i18n/AbstractLocaleResolver.members/AbstractLocaleResolver.members#61.0-1697073510000-java.trap.gz
+
+TRAPS
+classes/org/springframework/web/servlet/i18n/AbstractLocaleResolver.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/springframework/web/servlet/LocaleResolver.members.trap.gz
+classes/java/util/Locale.members.trap.gz
+classes/org/springframework/lang/Nullable.members.trap.gz

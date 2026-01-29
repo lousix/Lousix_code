@@ -1,0 +1,14 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/jakarta/activation/CommandMap.members/CommandMap.members#52.0-1682561236000-java.trap.gz
+
+TRAPS
+classes/jakarta/activation/CommandMap.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/jakarta/activation/DataSource.members.trap.gz
+classes/jakarta/activation/DataContentHandler.members.trap.gz
+classes/jakarta/activation/CommandInfo.members.trap.gz

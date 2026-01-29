@@ -1,0 +1,18 @@
+TRAP dependencies 1.2
+
+SOURCES
+
+INCLUDES
+
+OBJECTS
+
+INPUT_OBJECTS
+
+TRAPS
+Users/lousix/sec/CodeQL/JavaProject/WebGoat/src/main/java/org/owasp/webgoat/lessons/challenges/challenge1/Assignment1.java.trap.gz
+classes/org/owasp/webgoat/lessons/challenges/Flags.members/Flags.members#0.0-1698980255059-java.trap.gz
+classes/org/owasp/webgoat/lessons/challenges/challenge1/Assignment1.members/Assignment1.members#0.0-1698980255059-java.trap.gz
+classes/org/owasp/webgoat/lessons/challenges/challenge1/ImageServlet.members/ImageServlet.members#0.0-1698980255060-java.trap.gz
+classes/org/owasp/webgoat/lessons/challenges/Flag.members/Flag.members#0.0-1698980255059-java.trap.gz
+classes/java/lang/Record.members/Record.members#61.0-1686735458000-java.trap.gz
+modules/java.base.trap.gz

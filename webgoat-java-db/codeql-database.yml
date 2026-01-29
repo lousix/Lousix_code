@@ -1,0 +1,46 @@
+---
+sourceLocationPrefix: /Users/lousix/sec/CodeQL/JavaProject/WebGoat
+baselineLinesOfCode: 18106
+unicodeNewlines: false
+columnKind: utf16
+primaryLanguage: java
+inProgress:
+  primaryLanguage: java
+  installedExtractors:
+    go:
+     - /Users/lousix/sec/CodeQL/codeql/go
+    python:
+     - /Users/lousix/sec/CodeQL/codeql/python
+    rust:
+     - /Users/lousix/sec/CodeQL/codeql/rust
+    java:
+     - /Users/lousix/sec/CodeQL/codeql/java
+    html:
+     - /Users/lousix/sec/CodeQL/codeql/html
+    xml:
+     - /Users/lousix/sec/CodeQL/codeql/xml
+    properties:
+     - /Users/lousix/sec/CodeQL/codeql/properties
+    cpp:
+     - /Users/lousix/sec/CodeQL/codeql/cpp
+    swift:
+     - /Users/lousix/sec/CodeQL/codeql/swift
+    csv:
+     - /Users/lousix/sec/CodeQL/codeql/csv
+    actions:
+     - /Users/lousix/sec/CodeQL/codeql/actions
+    yaml:
+     - /Users/lousix/sec/CodeQL/codeql/yaml
+    csharp:
+     - /Users/lousix/sec/CodeQL/codeql/csharp
+    javascript:
+     - /Users/lousix/sec/CodeQL/codeql/javascript
+    ruby:
+     - /Users/lousix/sec/CodeQL/codeql/ruby
+creationMetadata:
+  sha: 5a4974f3c2c2bc3d1991f3488c7101e6e6967b62
+  cliVersion: 2.23.8
+  creationTime: 2026-01-29T07:51:46.244643Z
+overlayBaseDatabase: false
+overlayDatabase: false
+finalised: false

@@ -1,0 +1,16 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/thymeleaf/cache/ICacheManager.members/ICacheManager.members#52.0-1670321336000-java.trap.gz
+
+TRAPS
+classes/org/thymeleaf/cache/ICacheManager.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/util/List.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/thymeleaf/cache/ICache.members.trap.gz
+classes/org/thymeleaf/cache/ExpressionCacheKey.members.trap.gz
+classes/org/thymeleaf/cache/TemplateCacheKey.members.trap.gz
+classes/org/thymeleaf/engine/TemplateModel.members.trap.gz

@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/javax/swing/event/MenuDragMouseListener.members/MenuDragMouseListener.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/javax/swing/event/MenuDragMouseListener.members.trap.gz
+classes/java/util/EventListener.members.trap.gz
+classes/javax/swing/event/MenuDragMouseEvent.members.trap.gz

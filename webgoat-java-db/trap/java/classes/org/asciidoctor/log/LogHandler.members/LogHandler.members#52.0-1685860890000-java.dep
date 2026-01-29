@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/asciidoctor/log/LogHandler.members/LogHandler.members#52.0-1685860890000-java.trap.gz
+
+TRAPS
+classes/org/asciidoctor/log/LogHandler.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/asciidoctor/log/LogRecord.members.trap.gz

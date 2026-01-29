@@ -1,0 +1,20 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/io/micrometer/observation/ObservationRegistry$ObservationConfig.members/ObservationRegistry$ObservationConfig.members#52.0-1696891762000-java.trap.gz
+
+TRAPS
+classes/io/micrometer/observation/ObservationRegistry$ObservationConfig.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/io/micrometer/observation/ObservationRegistry.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/io/micrometer/observation/ObservationConvention.members.trap.gz
+classes/io/micrometer/observation/KeyValuesConvention.members.trap.gz
+classes/io/micrometer/observation/ObservationFilter.members.trap.gz
+classes/io/micrometer/observation/ObservationHandler.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/io/micrometer/observation/Observation$Context.members.trap.gz
+classes/io/micrometer/common/lang/Nullable.members.trap.gz
+classes/io/micrometer/observation/GlobalObservationConvention.members.trap.gz
+classes/io/micrometer/observation/ObservationPredicate.members.trap.gz

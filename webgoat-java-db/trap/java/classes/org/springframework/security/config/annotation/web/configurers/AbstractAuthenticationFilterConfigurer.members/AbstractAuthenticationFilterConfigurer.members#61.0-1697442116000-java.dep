@@ -1,0 +1,26 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/security/config/annotation/web/configurers/AbstractAuthenticationFilterConfigurer.members/AbstractAuthenticationFilterConfigurer.members#61.0-1697442116000-java.trap.gz
+
+TRAPS
+classes/org/springframework/security/config/annotation/web/configurers/AbstractAuthenticationFilterConfigurer.members.trap.gz
+classes/org/springframework/security/config/annotation/web/configurers/AbstractHttpConfigurer.members.trap.gz
+classes/org/springframework/security/web/DefaultSecurityFilterChain.members.trap.gz
+classes/org/springframework/security/config/annotation/SecurityConfigurerAdapter.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/springframework/security/config/annotation/SecurityConfigurer.members.trap.gz
+classes/java/lang/Exception.members.trap.gz
+classes/org/springframework/security/config/annotation/ObjectPostProcessor.members.trap.gz
+classes/org/springframework/security/config/annotation/SecurityBuilder.members.trap.gz
+classes/org/springframework/security/config/annotation/web/HttpSecurityBuilder.members.trap.gz
+classes/org/springframework/security/core/context/SecurityContextHolderStrategy.members.trap.gz
+classes/org/springframework/security/web/authentication/AbstractAuthenticationProcessingFilter.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/springframework/security/web/AuthenticationEntryPoint.members.trap.gz
+classes/org/springframework/security/web/util/matcher/RequestMatcher.members.trap.gz
+classes/org/springframework/security/web/authentication/AuthenticationFailureHandler.members.trap.gz
+classes/org/springframework/security/web/authentication/AuthenticationSuccessHandler.members.trap.gz
+classes/jakarta/servlet/http/HttpServletRequest.members.trap.gz
+classes/org/springframework/security/authentication/AuthenticationDetailsSource.members.trap.gz
+classes/org/springframework/security/web/context/SecurityContextRepository.members.trap.gz

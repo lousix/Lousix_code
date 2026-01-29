@@ -1,0 +1,14 @@
+TRAP dependencies 1.2
+
+SOURCES
+
+INCLUDES
+
+OBJECTS
+
+INPUT_OBJECTS
+
+TRAPS
+Users/lousix/sec/CodeQL/JavaProject/WebGoat/src/main/java/org/owasp/webgoat/container/users/UserTrackerRepository.java.trap.gz
+jars/usr/local/apache-maven-3.5.4/repository/org/springframework/data/spring-data-jpa/3.1.5/spring-data-jpa-3.1.5.jar.trap.gz
+jars/usr/local/apache-maven-3.5.4/repository/org/springframework/data/spring-data-commons/3.1.5/spring-data-commons-3.1.5.jar.trap.gz

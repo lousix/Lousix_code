@@ -1,0 +1,19 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/jsoup/nodes/FormElement.members/FormElement.members#52.0-1682755074000-java.trap.gz
+
+TRAPS
+classes/org/jsoup/nodes/FormElement.members.trap.gz
+classes/org/jsoup/nodes/Element.members.trap.gz
+classes/java/util/List.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/jsoup/Connection$KeyVal.members.trap.gz
+classes/org/jsoup/Connection.members.trap.gz
+classes/org/jsoup/nodes/Node.members.trap.gz
+classes/org/jsoup/select/Elements.members.trap.gz
+classes/org/jsoup/parser/Tag.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/jsoup/nodes/Attributes.members.trap.gz

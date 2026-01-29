@@ -1,0 +1,13 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/sun/font/FontStrikeDesc.members/FontStrikeDesc.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/sun/font/FontStrikeDesc.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/awt/geom/AffineTransform.members.trap.gz
+classes/sun/font/Font2D.members.trap.gz
+classes/java/awt/Font.members.trap.gz
+classes/java/awt/font/FontRenderContext.members.trap.gz

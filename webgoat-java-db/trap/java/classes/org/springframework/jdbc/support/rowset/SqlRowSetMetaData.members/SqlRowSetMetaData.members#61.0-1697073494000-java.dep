@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/jdbc/support/rowset/SqlRowSetMetaData.members/SqlRowSetMetaData.members#61.0-1697073494000-java.trap.gz
+
+TRAPS
+classes/org/springframework/jdbc/support/rowset/SqlRowSetMetaData.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/springframework/jdbc/InvalidResultSetAccessException.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz

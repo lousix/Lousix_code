@@ -1,0 +1,6 @@
+TRAP dependencies 1.2
+
+TRAP
+jars/usr/local/apache-maven-3.5.4/repository/org/flywaydb/flyway-core/9.16.3/flyway-core-9.16.3.jar.trap.gz
+
+TRAPS

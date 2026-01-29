@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/java/beans/VetoableChangeListener.members/VetoableChangeListener.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/java/beans/VetoableChangeListener.members.trap.gz
+classes/java/util/EventListener.members.trap.gz
+classes/java/beans/PropertyChangeEvent.members.trap.gz
+classes/java/beans/PropertyVetoException.members.trap.gz

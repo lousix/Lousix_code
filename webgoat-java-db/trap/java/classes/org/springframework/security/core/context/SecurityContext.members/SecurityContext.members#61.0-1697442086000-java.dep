@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/security/core/context/SecurityContext.members/SecurityContext.members#61.0-1697442086000-java.trap.gz
+
+TRAPS
+classes/org/springframework/security/core/context/SecurityContext.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/org/springframework/security/core/Authentication.members.trap.gz

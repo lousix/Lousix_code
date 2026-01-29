@@ -1,0 +1,17 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/javax/xml/validation/Validator.members/Validator.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/javax/xml/validation/Validator.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/xml/sax/SAXNotRecognizedException.members.trap.gz
+classes/org/xml/sax/SAXNotSupportedException.members.trap.gz
+classes/org/w3c/dom/ls/LSResourceResolver.members.trap.gz
+classes/org/xml/sax/ErrorHandler.members.trap.gz
+classes/javax/xml/transform/Source.members.trap.gz
+classes/javax/xml/transform/Result.members.trap.gz
+classes/org/xml/sax/SAXException.members.trap.gz
+classes/java/io/IOException.members.trap.gz

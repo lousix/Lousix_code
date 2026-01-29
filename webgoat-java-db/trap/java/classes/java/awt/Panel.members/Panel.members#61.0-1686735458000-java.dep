@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/java/awt/Panel.members/Panel.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/java/awt/Panel.members.trap.gz
+classes/java/awt/Container.members.trap.gz
+classes/javax/accessibility/Accessible.members.trap.gz
+classes/javax/accessibility/AccessibleContext.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/awt/LayoutManager.members.trap.gz

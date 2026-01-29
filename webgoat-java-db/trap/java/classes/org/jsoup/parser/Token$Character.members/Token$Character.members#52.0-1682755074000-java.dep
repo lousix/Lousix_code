@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/jsoup/parser/Token$Character.members/Token$Character.members#52.0-1682755074000-java.trap.gz
+
+TRAPS
+classes/org/jsoup/parser/Token$Character.members.trap.gz
+classes/org/jsoup/parser/Token.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/lang/String.members.trap.gz

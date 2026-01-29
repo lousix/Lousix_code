@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/jdbc/CannotGetJdbcConnectionException.members/CannotGetJdbcConnectionException.members#61.0-1697073494000-java.trap.gz
+
+TRAPS
+classes/org/springframework/jdbc/CannotGetJdbcConnectionException.members.trap.gz
+classes/org/springframework/dao/DataAccessResourceFailureException.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/IllegalStateException.members.trap.gz
+classes/java/sql/SQLException.members.trap.gz
+classes/org/springframework/lang/Nullable.members.trap.gz

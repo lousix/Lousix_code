@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/lombok/Lombok.members/Lombok.members#50.0-1695153928000-java.trap.gz
+
+TRAPS
+classes/lombok/Lombok.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Throwable.members.trap.gz
+classes/java/lang/RuntimeException.members.trap.gz

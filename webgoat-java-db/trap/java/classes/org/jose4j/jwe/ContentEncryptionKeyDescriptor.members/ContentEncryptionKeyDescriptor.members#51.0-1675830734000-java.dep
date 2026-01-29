@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/jose4j/jwe/ContentEncryptionKeyDescriptor.members/ContentEncryptionKeyDescriptor.members#51.0-1675830734000-java.trap.gz
+
+TRAPS
+classes/org/jose4j/jwe/ContentEncryptionKeyDescriptor.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz

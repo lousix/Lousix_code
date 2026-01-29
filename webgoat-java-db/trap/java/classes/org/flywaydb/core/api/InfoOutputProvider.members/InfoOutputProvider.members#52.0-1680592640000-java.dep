@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/flywaydb/core/api/InfoOutputProvider.members/InfoOutputProvider.members#52.0-1680592640000-java.trap.gz
+
+TRAPS
+classes/org/flywaydb/core/api/InfoOutputProvider.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/flywaydb/core/api/output/InfoResult.members.trap.gz

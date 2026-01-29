@@ -1,0 +1,23 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/flywaydb/core/extensibility/AppliedMigration.members/AppliedMigration.members#52.0-1680592640000-java.trap.gz
+
+TRAPS
+classes/org/flywaydb/core/extensibility/AppliedMigration.members.trap.gz
+classes/org/flywaydb/core/extensibility/Plugin.members.trap.gz
+classes/org/flywaydb/core/internal/info/AppliedMigrationAttributes.members.trap.gz
+classes/org/flywaydb/core/internal/util/Pair.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Comparable.members.trap.gz
+classes/java/util/List.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/org/flywaydb/core/internal/info/MigrationInfoContext.members.trap.gz
+classes/org/flywaydb/core/api/resolver/ResolvedMigration.members.trap.gz
+classes/org/flywaydb/core/api/MigrationState.members.trap.gz
+classes/org/flywaydb/core/api/MigrationVersion.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Integer.members.trap.gz
+classes/java/util/Date.members.trap.gz
+classes/org/flywaydb/core/extensibility/MigrationType.members.trap.gz

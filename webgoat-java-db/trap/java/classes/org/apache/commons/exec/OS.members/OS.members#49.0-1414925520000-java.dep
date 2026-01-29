@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/apache/commons/exec/OS.members/OS.members#49.0-1414925520000-java.trap.gz
+
+TRAPS
+classes/org/apache/commons/exec/OS.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz

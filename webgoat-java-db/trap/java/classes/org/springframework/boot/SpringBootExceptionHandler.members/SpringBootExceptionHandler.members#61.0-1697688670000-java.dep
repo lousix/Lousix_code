@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/boot/SpringBootExceptionHandler.members/SpringBootExceptionHandler.members#61.0-1697688670000-java.trap.gz
+
+TRAPS
+classes/org/springframework/boot/SpringBootExceptionHandler.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Thread$UncaughtExceptionHandler.members.trap.gz
+classes/java/lang/Thread.members.trap.gz
+classes/java/lang/Throwable.members.trap.gz

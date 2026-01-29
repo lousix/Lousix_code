@@ -1,0 +1,18 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/asciidoctor/AttributesBuilder.members/AttributesBuilder.members#52.0-1685860890000-java.trap.gz
+
+TRAPS
+classes/org/asciidoctor/AttributesBuilder.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/asciidoctor/Attributes.members.trap.gz
+classes/java/lang/Deprecated.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/util/Map.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/org/asciidoctor/CompatMode.members.trap.gz
+classes/java/net/URI.members.trap.gz
+classes/java/util/Date.members.trap.gz
+classes/org/asciidoctor/Placement.members.trap.gz

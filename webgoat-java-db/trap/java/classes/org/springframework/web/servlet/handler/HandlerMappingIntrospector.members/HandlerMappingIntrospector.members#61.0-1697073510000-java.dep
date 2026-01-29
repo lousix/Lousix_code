@@ -1,0 +1,21 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/web/servlet/handler/HandlerMappingIntrospector.members/HandlerMappingIntrospector.members#61.0-1697073510000-java.trap.gz
+
+TRAPS
+classes/org/springframework/web/servlet/handler/HandlerMappingIntrospector.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/springframework/web/cors/CorsConfigurationSource.members.trap.gz
+classes/org/springframework/context/ApplicationContextAware.members.trap.gz
+classes/org/springframework/beans/factory/InitializingBean.members.trap.gz
+classes/jakarta/servlet/http/HttpServletRequest.members.trap.gz
+classes/org/springframework/web/cors/CorsConfiguration.members.trap.gz
+classes/org/springframework/lang/Nullable.members.trap.gz
+classes/org/springframework/web/servlet/handler/MatchableHandlerMapping.members.trap.gz
+classes/java/lang/Exception.members.trap.gz
+classes/java/util/List.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/org/springframework/web/servlet/HandlerMapping.members.trap.gz
+classes/org/springframework/context/ApplicationContext.members.trap.gz

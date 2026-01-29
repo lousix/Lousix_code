@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/expression/TypeConverter.members/TypeConverter.members#61.0-1697073476000-java.trap.gz
+
+TRAPS
+classes/org/springframework/expression/TypeConverter.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/springframework/core/convert/TypeDescriptor.members.trap.gz
+classes/org/springframework/lang/Nullable.members.trap.gz

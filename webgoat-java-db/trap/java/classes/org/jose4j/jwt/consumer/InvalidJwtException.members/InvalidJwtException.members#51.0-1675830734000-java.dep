@@ -1,0 +1,16 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/jose4j/jwt/consumer/InvalidJwtException.members/InvalidJwtException.members#51.0-1675830734000-java.trap.gz
+
+TRAPS
+classes/org/jose4j/jwt/consumer/InvalidJwtException.members.trap.gz
+classes/java/lang/Exception.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/jose4j/jwt/consumer/JwtContext.members.trap.gz
+classes/java/util/List.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/jose4j/jwt/consumer/ErrorCodeValidator$Error.members.trap.gz
+classes/java/lang/Throwable.members.trap.gz

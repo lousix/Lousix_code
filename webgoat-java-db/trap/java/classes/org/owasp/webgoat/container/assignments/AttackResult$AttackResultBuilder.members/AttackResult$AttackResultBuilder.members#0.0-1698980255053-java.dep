@@ -1,0 +1,14 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/owasp/webgoat/container/assignments/AttackResult$AttackResultBuilder.members/AttackResult$AttackResultBuilder.members#0.0-1698980255053-java.trap.gz
+
+TRAPS
+classes/org/owasp/webgoat/container/assignments/AttackResult$AttackResultBuilder.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/owasp/webgoat/container/assignments/AttackResult.members.trap.gz
+classes/org/owasp/webgoat/container/assignments/AssignmentEndpoint.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/owasp/webgoat/container/i18n/PluginMessages.members.trap.gz

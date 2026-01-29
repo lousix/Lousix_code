@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/java/awt/dnd/DropTargetListener.members/DropTargetListener.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/java/awt/dnd/DropTargetListener.members.trap.gz
+classes/java/util/EventListener.members.trap.gz
+classes/java/awt/dnd/DropTargetDropEvent.members.trap.gz
+classes/java/awt/dnd/DropTargetEvent.members.trap.gz
+classes/java/awt/dnd/DropTargetDragEvent.members.trap.gz

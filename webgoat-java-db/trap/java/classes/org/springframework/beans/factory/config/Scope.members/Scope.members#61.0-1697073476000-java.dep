@@ -1,0 +1,13 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/beans/factory/config/Scope.members/Scope.members#61.0-1697073476000-java.trap.gz
+
+TRAPS
+classes/org/springframework/beans/factory/config/Scope.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/springframework/lang/Nullable.members.trap.gz
+classes/java/lang/Runnable.members.trap.gz
+classes/org/springframework/beans/factory/ObjectFactory.members.trap.gz
+classes/java/lang/FunctionalInterface.members.trap.gz

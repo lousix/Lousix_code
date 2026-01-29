@@ -1,0 +1,15 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/beans/factory/support/BeanDefinitionRegistry.members/BeanDefinitionRegistry.members#61.0-1697073476000-java.trap.gz
+
+TRAPS
+classes/org/springframework/beans/factory/support/BeanDefinitionRegistry.members.trap.gz
+classes/org/springframework/core/AliasRegistry.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/org/springframework/beans/factory/config/BeanDefinition.members.trap.gz
+classes/org/springframework/beans/factory/NoSuchBeanDefinitionException.members.trap.gz
+classes/org/springframework/beans/factory/BeanDefinitionStoreException.members.trap.gz

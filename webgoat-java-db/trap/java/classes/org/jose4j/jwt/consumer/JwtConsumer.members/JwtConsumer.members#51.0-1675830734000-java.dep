@@ -1,0 +1,22 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/jose4j/jwt/consumer/JwtConsumer.members/JwtConsumer.members#51.0-1675830734000-java.trap.gz
+
+TRAPS
+classes/org/jose4j/jwt/consumer/JwtConsumer.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/jose4j/jwt/consumer/JwtContext.members.trap.gz
+classes/org/jose4j/jwt/consumer/InvalidJwtException.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/jose4j/jwt/JwtClaims.members.trap.gz
+classes/org/jose4j/jwt/consumer/JweCustomizer.members.trap.gz
+classes/org/jose4j/jwt/consumer/JwsCustomizer.members.trap.gz
+classes/org/jose4j/jca/ProviderContext.members.trap.gz
+classes/org/jose4j/jwt/consumer/ErrorCodeValidator.members.trap.gz
+classes/java/util/List.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/org/jose4j/keys/resolvers/DecryptionKeyResolver.members.trap.gz
+classes/org/jose4j/keys/resolvers/VerificationKeyResolver.members.trap.gz
+classes/org/jose4j/jwa/AlgorithmConstraints.members.trap.gz

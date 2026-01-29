@@ -1,0 +1,17 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/jakarta/servlet/annotation/HttpConstraint.members/HttpConstraint.members#55.0-1652311150000-java.trap.gz
+
+TRAPS
+classes/jakarta/servlet/annotation/HttpConstraint.members.trap.gz
+classes/java/lang/annotation/Annotation.members.trap.gz
+classes/java/lang/annotation/Documented.members.trap.gz
+classes/java/lang/annotation/Retention.members.trap.gz
+classes/java/lang/annotation/RetentionPolicy.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/jakarta/servlet/annotation/ServletSecurity$TransportGuarantee.members.trap.gz
+classes/jakarta/servlet/annotation/ServletSecurity$EmptyRoleSemantic.members.trap.gz

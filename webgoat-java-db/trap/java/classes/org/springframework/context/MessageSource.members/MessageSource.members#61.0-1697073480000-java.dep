@@ -1,0 +1,15 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/context/MessageSource.members/MessageSource.members#61.0-1697073480000-java.trap.gz
+
+TRAPS
+classes/org/springframework/context/MessageSource.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/springframework/context/MessageSourceResolvable.members.trap.gz
+classes/java/util/Locale.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/springframework/context/NoSuchMessageException.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/org/springframework/lang/Nullable.members.trap.gz

@@ -1,0 +1,16 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/owasp/webgoat/lessons/challenges/Email$EmailBuilder.members/Email$EmailBuilder.members#0.0-1698980255059-java.trap.gz
+
+TRAPS
+classes/org/owasp/webgoat/lessons/challenges/Email$EmailBuilder.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/owasp/webgoat/lessons/challenges/Email.members.trap.gz
+classes/java/lang/SuppressWarnings.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/lombok/Generated.members.trap.gz
+classes/java/lang/Override.members.trap.gz
+classes/java/time/LocalDateTime.members.trap.gz

@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/jakarta/xml/bind/annotation/adapters/XmlAdapter.members/XmlAdapter.members#55.0-1694554612000-java.trap.gz
+
+TRAPS
+classes/jakarta/xml/bind/annotation/adapters/XmlAdapter.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Exception.members.trap.gz

@@ -1,0 +1,17 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/java/awt/GraphicsConfiguration.members/GraphicsConfiguration.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/java/awt/GraphicsConfiguration.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/awt/ImageCapabilities.members.trap.gz
+classes/java/awt/BufferCapabilities.members.trap.gz
+classes/java/awt/Rectangle.members.trap.gz
+classes/java/awt/geom/AffineTransform.members.trap.gz
+classes/java/awt/image/ColorModel.members.trap.gz
+classes/java/awt/image/VolatileImage.members.trap.gz
+classes/java/awt/AWTException.members.trap.gz
+classes/java/awt/image/BufferedImage.members.trap.gz
+classes/java/awt/GraphicsDevice.members.trap.gz

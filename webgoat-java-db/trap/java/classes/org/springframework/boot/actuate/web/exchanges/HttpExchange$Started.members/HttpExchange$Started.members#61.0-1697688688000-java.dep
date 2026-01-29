@@ -1,0 +1,21 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/boot/actuate/web/exchanges/HttpExchange$Started.members/HttpExchange$Started.members#61.0-1697688688000-java.trap.gz
+
+TRAPS
+classes/org/springframework/boot/actuate/web/exchanges/HttpExchange$Started.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/springframework/boot/actuate/web/exchanges/HttpExchange.members.trap.gz
+classes/java/time/Clock.members.trap.gz
+classes/org/springframework/boot/actuate/web/exchanges/RecordableHttpResponse.members.trap.gz
+classes/java/security/Principal.members.trap.gz
+classes/java/util/function/Supplier.members.trap.gz
+classes/java/lang/FunctionalInterface.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/springframework/boot/actuate/web/exchanges/Include.members.trap.gz
+classes/java/util/Set.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz

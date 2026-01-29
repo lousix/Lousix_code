@@ -1,0 +1,24 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/javax/xml/stream/XMLInputFactory.members/XMLInputFactory.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/javax/xml/stream/XMLInputFactory.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/javax/xml/stream/util/XMLEventAllocator.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/IllegalArgumentException.members.trap.gz
+classes/javax/xml/stream/XMLReporter.members.trap.gz
+classes/javax/xml/stream/XMLResolver.members.trap.gz
+classes/javax/xml/stream/XMLEventReader.members.trap.gz
+classes/javax/xml/stream/EventFilter.members.trap.gz
+classes/javax/xml/stream/XMLStreamException.members.trap.gz
+classes/javax/xml/stream/XMLStreamReader.members.trap.gz
+classes/javax/xml/stream/StreamFilter.members.trap.gz
+classes/java/io/InputStream.members.trap.gz
+classes/javax/xml/transform/Source.members.trap.gz
+classes/java/io/Reader.members.trap.gz
+classes/java/lang/ClassLoader.members.trap.gz
+classes/javax/xml/stream/FactoryConfigurationError.members.trap.gz
+classes/java/lang/Deprecated.members.trap.gz

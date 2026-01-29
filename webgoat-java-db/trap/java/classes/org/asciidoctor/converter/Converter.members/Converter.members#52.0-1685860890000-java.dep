@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/asciidoctor/converter/Converter.members/Converter.members#52.0-1685860890000-java.trap.gz
+
+TRAPS
+classes/org/asciidoctor/converter/Converter.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/util/Map.members.trap.gz
+classes/org/asciidoctor/ast/ContentNode.members.trap.gz

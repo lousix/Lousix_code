@@ -1,0 +1,20 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/owasp/webgoat/lessons/xxe/CommentsCache.members/CommentsCache.members#0.0-1698980255077-java.trap.gz
+
+TRAPS
+classes/org/owasp/webgoat/lessons/xxe/CommentsCache.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/springframework/context/annotation/Scope.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/springframework/context/annotation/ScopedProxyMode.members.trap.gz
+classes/org/springframework/stereotype/Component.members.trap.gz
+classes/org/owasp/webgoat/container/users/WebGoatUser.members.trap.gz
+classes/org/owasp/webgoat/lessons/xxe/Comment.members.trap.gz
+classes/java/util/Optional.members.trap.gz
+classes/jdk/internal/ValueBased.members.trap.gz
+classes/javax/xml/stream/XMLStreamException.members.trap.gz
+classes/jakarta/xml/bind/JAXBException.members.trap.gz
+classes/org/owasp/webgoat/lessons/xxe/CommentsCache$Comments.members.trap.gz
+classes/org/owasp/webgoat/container/session/WebSession.members.trap.gz

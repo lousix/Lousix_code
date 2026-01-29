@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/jsoup/parser/ParseError.members/ParseError.members#52.0-1682755074000-java.trap.gz
+
+TRAPS
+classes/org/jsoup/parser/ParseError.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/org/jsoup/parser/CharacterReader.members.trap.gz

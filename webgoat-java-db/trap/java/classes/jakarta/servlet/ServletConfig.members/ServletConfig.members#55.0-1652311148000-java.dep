@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/jakarta/servlet/ServletConfig.members/ServletConfig.members#55.0-1652311148000-java.trap.gz
+
+TRAPS
+classes/jakarta/servlet/ServletConfig.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/util/Enumeration.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/jakarta/servlet/ServletContext.members.trap.gz

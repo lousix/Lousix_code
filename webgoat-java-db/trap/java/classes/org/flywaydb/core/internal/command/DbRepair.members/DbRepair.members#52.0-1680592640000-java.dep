@@ -1,0 +1,15 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/flywaydb/core/internal/command/DbRepair.members/DbRepair.members#52.0-1680592640000-java.trap.gz
+
+TRAPS
+classes/org/flywaydb/core/internal/command/DbRepair.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/flywaydb/core/api/output/RepairResult.members.trap.gz
+classes/org/flywaydb/core/internal/database/base/Database.members.trap.gz
+classes/java/io/Closeable.members.trap.gz
+classes/org/flywaydb/core/internal/resolver/CompositeMigrationResolver.members.trap.gz
+classes/org/flywaydb/core/internal/schemahistory/SchemaHistory.members.trap.gz
+classes/org/flywaydb/core/internal/callback/CallbackExecutor.members.trap.gz
+classes/org/flywaydb/core/api/configuration/Configuration.members.trap.gz

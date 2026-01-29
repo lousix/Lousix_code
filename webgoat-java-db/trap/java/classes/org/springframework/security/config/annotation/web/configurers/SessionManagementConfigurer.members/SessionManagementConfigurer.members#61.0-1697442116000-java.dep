@@ -1,0 +1,27 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/security/config/annotation/web/configurers/SessionManagementConfigurer.members/SessionManagementConfigurer.members#61.0-1697442116000-java.trap.gz
+
+TRAPS
+classes/org/springframework/security/config/annotation/web/configurers/SessionManagementConfigurer.members.trap.gz
+classes/org/springframework/security/config/annotation/web/configurers/AbstractHttpConfigurer.members.trap.gz
+classes/org/springframework/security/web/DefaultSecurityFilterChain.members.trap.gz
+classes/org/springframework/security/config/annotation/SecurityConfigurerAdapter.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/springframework/security/config/annotation/SecurityConfigurer.members.trap.gz
+classes/java/lang/Exception.members.trap.gz
+classes/org/springframework/security/config/annotation/ObjectPostProcessor.members.trap.gz
+classes/org/springframework/security/config/annotation/SecurityBuilder.members.trap.gz
+classes/org/springframework/security/config/annotation/web/HttpSecurityBuilder.members.trap.gz
+classes/org/springframework/security/core/context/SecurityContextHolderStrategy.members.trap.gz
+classes/org/springframework/security/config/http/SessionCreationPolicy.members.trap.gz
+classes/org/springframework/security/web/authentication/AuthenticationFailureHandler.members.trap.gz
+classes/org/springframework/security/web/session/SessionInformationExpiredStrategy.members.trap.gz
+classes/org/springframework/security/web/session/InvalidSessionStrategy.members.trap.gz
+classes/org/springframework/security/config/annotation/web/configurers/SessionManagementConfigurer$ConcurrencyControlConfigurer.members.trap.gz
+classes/org/springframework/security/config/Customizer.members.trap.gz
+classes/java/lang/FunctionalInterface.members.trap.gz
+classes/org/springframework/security/config/annotation/web/configurers/SessionManagementConfigurer$SessionFixationConfigurer.members.trap.gz
+classes/org/springframework/security/web/authentication/session/SessionAuthenticationStrategy.members.trap.gz
+classes/java/lang/String.members.trap.gz

@@ -1,0 +1,13 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/jose4j/jwa/CryptoPrimitive.members/CryptoPrimitive.members#51.0-1675830734000-java.trap.gz
+
+TRAPS
+classes/org/jose4j/jwa/CryptoPrimitive.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/javax/crypto/KeyAgreement.members.trap.gz
+classes/java/security/Key.members.trap.gz
+classes/javax/crypto/Mac.members.trap.gz
+classes/javax/crypto/Cipher.members.trap.gz
+classes/java/security/Signature.members.trap.gz

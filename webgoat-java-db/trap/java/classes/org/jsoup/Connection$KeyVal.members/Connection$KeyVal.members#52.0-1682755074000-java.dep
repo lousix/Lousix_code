@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/jsoup/Connection$KeyVal.members/Connection$KeyVal.members#52.0-1682755074000-java.trap.gz
+
+TRAPS
+classes/org/jsoup/Connection$KeyVal.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/jsoup/Connection.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/javax/annotation/Nullable.members.trap.gz
+classes/java/io/InputStream.members.trap.gz

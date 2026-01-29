@@ -1,0 +1,14 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/jdbc/core/support/JdbcDaoSupport.members/JdbcDaoSupport.members#61.0-1697073494000-java.trap.gz
+
+TRAPS
+classes/org/springframework/jdbc/core/support/JdbcDaoSupport.members.trap.gz
+classes/org/springframework/dao/support/DaoSupport.members.trap.gz
+classes/java/sql/Connection.members.trap.gz
+classes/org/springframework/jdbc/CannotGetJdbcConnectionException.members.trap.gz
+classes/org/springframework/jdbc/support/SQLExceptionTranslator.members.trap.gz
+classes/org/springframework/jdbc/core/JdbcTemplate.members.trap.gz
+classes/org/springframework/lang/Nullable.members.trap.gz
+classes/javax/sql/DataSource.members.trap.gz

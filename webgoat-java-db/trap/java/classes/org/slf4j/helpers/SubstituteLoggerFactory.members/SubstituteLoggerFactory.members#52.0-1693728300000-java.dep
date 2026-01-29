@@ -1,0 +1,23 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/slf4j/helpers/SubstituteLoggerFactory.members/SubstituteLoggerFactory.members#52.0-1693728300000-java.trap.gz
+
+TRAPS
+classes/org/slf4j/helpers/SubstituteLoggerFactory.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/slf4j/ILoggerFactory.members.trap.gz
+classes/java/util/concurrent/LinkedBlockingQueue.members.trap.gz
+classes/java/util/AbstractQueue.members.trap.gz
+classes/java/util/AbstractCollection.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/java/util/Queue.members.trap.gz
+classes/java/util/concurrent/BlockingQueue.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/org/slf4j/event/SubstituteLoggingEvent.members.trap.gz
+classes/java/util/List.members.trap.gz
+classes/org/slf4j/helpers/SubstituteLogger.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/slf4j/Logger.members.trap.gz
+classes/java/util/Map.members.trap.gz

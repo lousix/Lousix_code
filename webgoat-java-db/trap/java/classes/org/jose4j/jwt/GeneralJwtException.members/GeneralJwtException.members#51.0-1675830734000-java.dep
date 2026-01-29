@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/jose4j/jwt/GeneralJwtException.members/GeneralJwtException.members#51.0-1675830734000-java.trap.gz
+
+TRAPS
+classes/org/jose4j/jwt/GeneralJwtException.members.trap.gz
+classes/java/lang/Exception.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Throwable.members.trap.gz

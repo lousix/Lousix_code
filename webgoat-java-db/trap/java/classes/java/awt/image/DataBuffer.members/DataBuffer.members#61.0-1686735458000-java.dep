@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/java/awt/image/DataBuffer.members/DataBuffer.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/java/awt/image/DataBuffer.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/sun/java2d/StateTrackable$State.members.trap.gz
+classes/sun/java2d/StateTrackableDelegate.members.trap.gz

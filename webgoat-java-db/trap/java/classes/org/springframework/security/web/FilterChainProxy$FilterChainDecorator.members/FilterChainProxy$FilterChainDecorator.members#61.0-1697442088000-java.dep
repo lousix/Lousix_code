@@ -1,0 +1,14 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/security/web/FilterChainProxy$FilterChainDecorator.members/FilterChainProxy$FilterChainDecorator.members#61.0-1697442088000-java.trap.gz
+
+TRAPS
+classes/org/springframework/security/web/FilterChainProxy$FilterChainDecorator.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/springframework/security/web/FilterChainProxy.members.trap.gz
+classes/jakarta/servlet/FilterChain.members.trap.gz
+classes/jakarta/servlet/Filter.members.trap.gz
+classes/java/util/List.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz

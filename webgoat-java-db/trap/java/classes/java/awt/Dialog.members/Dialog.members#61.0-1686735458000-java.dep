@@ -1,0 +1,24 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/java/awt/Dialog.members/Dialog.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/java/awt/Dialog.members.trap.gz
+classes/java/awt/Window.members.trap.gz
+classes/javax/accessibility/AccessibleContext.members.trap.gz
+classes/java/util/List.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/awt/Color.members.trap.gz
+classes/java/awt/Shape.members.trap.gz
+classes/java/lang/Deprecated.members.trap.gz
+classes/java/awt/Dialog$ModalityType.members.trap.gz
+classes/java/awt/GraphicsConfiguration.members.trap.gz
+classes/java/awt/Frame.members.trap.gz
+classes/sun/awt/util/IdentityArrayList.members.trap.gz
+classes/java/util/AbstractList.members.trap.gz
+classes/java/util/AbstractCollection.members.trap.gz
+classes/java/util/RandomAccess.members.trap.gz

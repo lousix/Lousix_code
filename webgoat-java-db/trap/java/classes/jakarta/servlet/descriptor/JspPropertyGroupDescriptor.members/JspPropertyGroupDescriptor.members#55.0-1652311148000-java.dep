@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/jakarta/servlet/descriptor/JspPropertyGroupDescriptor.members/JspPropertyGroupDescriptor.members#55.0-1652311148000-java.trap.gz
+
+TRAPS
+classes/jakarta/servlet/descriptor/JspPropertyGroupDescriptor.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz

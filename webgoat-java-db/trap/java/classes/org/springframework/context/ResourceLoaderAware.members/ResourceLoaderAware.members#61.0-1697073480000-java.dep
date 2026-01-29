@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/context/ResourceLoaderAware.members/ResourceLoaderAware.members#61.0-1697073480000-java.trap.gz
+
+TRAPS
+classes/org/springframework/context/ResourceLoaderAware.members.trap.gz
+classes/org/springframework/beans/factory/Aware.members.trap.gz
+classes/org/springframework/core/io/ResourceLoader.members.trap.gz

@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/javax/tools/JavaFileObject.members/JavaFileObject.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/javax/tools/JavaFileObject.members.trap.gz
+classes/javax/tools/FileObject.members.trap.gz
+classes/javax/lang/model/element/Modifier.members.trap.gz
+classes/javax/lang/model/element/NestingKind.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/javax/tools/JavaFileObject$Kind.members.trap.gz

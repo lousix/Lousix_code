@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/flywaydb/core/api/ErrorDetails.members/ErrorDetails.members#52.0-1680592640000-java.trap.gz
+
+TRAPS
+classes/org/flywaydb/core/api/ErrorDetails.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/flywaydb/core/api/ErrorCode.members.trap.gz
+classes/java/lang/String.members.trap.gz

@@ -1,0 +1,16 @@
+TRAP dependencies 1.2
+
+SOURCES
+
+INCLUDES
+
+OBJECTS
+
+INPUT_OBJECTS
+
+TRAPS
+Users/lousix/sec/CodeQL/JavaProject/WebGoat/src/main/java/org/owasp/webgoat/container/service/LabelService.java.trap.gz
+classes/org/owasp/webgoat/container/service/LabelService.members/LabelService.members#0.0-1698980255056-java.trap.gz
+modules/java.base.trap.gz
+jars/usr/local/apache-maven-3.5.4/repository/org/springframework/spring-web/6.0.13/spring-web-6.0.13.jar.trap.gz
+jars/usr/local/apache-maven-3.5.4/repository/org/springframework/spring-core/6.0.13/spring-core-6.0.13.jar.trap.gz

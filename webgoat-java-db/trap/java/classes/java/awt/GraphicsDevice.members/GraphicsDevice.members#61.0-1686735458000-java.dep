@@ -1,0 +1,16 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/java/awt/GraphicsDevice.members/GraphicsDevice.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/java/awt/GraphicsDevice.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/awt/GraphicsConfiguration.members.trap.gz
+classes/java/awt/GraphicsDevice$WindowTranslucency.members.trap.gz
+classes/java/awt/DisplayMode.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/java/awt/Window.members.trap.gz
+classes/java/awt/GraphicsConfigTemplate.members.trap.gz
+classes/java/lang/String.members.trap.gz

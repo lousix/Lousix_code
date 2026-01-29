@@ -1,0 +1,21 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/thymeleaf/engine/ThrottledTemplateProcessor.members/ThrottledTemplateProcessor.members#52.0-1670321336000-java.trap.gz
+
+TRAPS
+classes/org/thymeleaf/engine/ThrottledTemplateProcessor.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/thymeleaf/IThrottledTemplateProcessor.members.trap.gz
+classes/java/io/OutputStream.members.trap.gz
+classes/java/nio/charset/Charset.members.trap.gz
+classes/java/io/Writer.members.trap.gz
+classes/org/thymeleaf/TemplateSpec.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/thymeleaf/engine/IThrottledTemplateWriterControl.members.trap.gz
+classes/org/thymeleaf/context/IEngineContext.members.trap.gz
+classes/org/thymeleaf/engine/TemplateModel.members.trap.gz
+classes/org/thymeleaf/engine/ITemplateHandler.members.trap.gz
+classes/org/thymeleaf/engine/ProcessorTemplateHandler.members.trap.gz
+classes/org/thymeleaf/engine/TemplateFlowController.members.trap.gz
+classes/org/thymeleaf/engine/ThrottledTemplateWriter.members.trap.gz

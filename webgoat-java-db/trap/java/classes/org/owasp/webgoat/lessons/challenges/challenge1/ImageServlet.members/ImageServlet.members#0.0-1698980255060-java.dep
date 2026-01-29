@@ -1,0 +1,16 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/owasp/webgoat/lessons/challenges/challenge1/ImageServlet.members/ImageServlet.members#0.0-1698980255060-java.trap.gz
+
+TRAPS
+classes/org/owasp/webgoat/lessons/challenges/challenge1/ImageServlet.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/springframework/web/bind/annotation/RestController.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/org/springframework/web/bind/annotation/RequestMapping.members.trap.gz
+classes/org/springframework/web/bind/annotation/RequestMethod.members.trap.gz
+classes/org/springframework/web/bind/annotation/ResponseBody.members.trap.gz
+classes/java/io/IOException.members.trap.gz

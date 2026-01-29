@@ -1,0 +1,17 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/owasp/webgoat/lessons/xxe/Ping.members/Ping.members#0.0-1698980255078-java.trap.gz
+
+TRAPS
+classes/org/owasp/webgoat/lessons/xxe/Ping.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/lombok/extern/slf4j/Slf4j.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/springframework/web/bind/annotation/RequestMapping.members.trap.gz
+classes/org/springframework/web/bind/annotation/RequestMethod.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/org/springframework/web/bind/annotation/ResponseBody.members.trap.gz
+classes/org/springframework/web/bind/annotation/RequestHeader.members.trap.gz
+classes/org/springframework/web/bind/annotation/RequestParam.members.trap.gz

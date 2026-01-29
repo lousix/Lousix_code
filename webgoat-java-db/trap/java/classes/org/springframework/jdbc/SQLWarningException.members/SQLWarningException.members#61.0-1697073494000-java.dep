@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/jdbc/SQLWarningException.members/SQLWarningException.members#61.0-1697073494000-java.trap.gz
+
+TRAPS
+classes/org/springframework/jdbc/SQLWarningException.members.trap.gz
+classes/org/springframework/dao/UncategorizedDataAccessException.members.trap.gz
+classes/java/sql/SQLWarning.members.trap.gz
+classes/java/lang/Deprecated.members.trap.gz
+classes/java/lang/String.members.trap.gz

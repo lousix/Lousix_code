@@ -1,0 +1,15 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/owasp/webgoat/lessons/authbypass/AccountVerificationHelper.members/AccountVerificationHelper.members#0.0-1698980255058-java.trap.gz
+
+TRAPS
+classes/org/owasp/webgoat/lessons/authbypass/AccountVerificationHelper.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Integer.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/util/HashMap.members.trap.gz
+classes/java/util/AbstractMap.members.trap.gz
+classes/java/util/Map.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz

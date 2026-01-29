@@ -1,0 +1,16 @@
+TRAP dependencies 1.2
+
+SOURCES
+
+INCLUDES
+
+OBJECTS
+
+INPUT_OBJECTS
+
+TRAPS
+Users/lousix/sec/CodeQL/JavaProject/WebGoat/src/main/java/org/owasp/webgoat/lessons/hijacksession/HijackSessionAssignment.java.trap.gz
+classes/org/springframework/web/bind/annotation/CookieValue.members/CookieValue.members#61.0-1697073496000-java.trap.gz
+classes/org/owasp/webgoat/lessons/hijacksession/HijackSessionAssignment.members/HijackSessionAssignment.members#0.0-1698980255063-java.trap.gz
+modules/java.base.trap.gz
+jars/usr/local/apache-maven-3.5.4/repository/org/springframework/spring-web/6.0.13/spring-web-6.0.13.jar.trap.gz

@@ -1,0 +1,15 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/java/awt/image/VolatileImage.members/VolatileImage.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/java/awt/image/VolatileImage.members.trap.gz
+classes/java/awt/Image.members.trap.gz
+classes/java/awt/Transparency.members.trap.gz
+classes/java/awt/ImageCapabilities.members.trap.gz
+classes/java/awt/GraphicsConfiguration.members.trap.gz
+classes/java/awt/Graphics2D.members.trap.gz
+classes/java/awt/Graphics.members.trap.gz
+classes/java/awt/image/ImageProducer.members.trap.gz
+classes/java/awt/image/BufferedImage.members.trap.gz

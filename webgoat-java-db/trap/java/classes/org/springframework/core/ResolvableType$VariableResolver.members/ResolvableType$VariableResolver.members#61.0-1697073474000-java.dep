@@ -1,0 +1,14 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/core/ResolvableType$VariableResolver.members/ResolvableType$VariableResolver.members#61.0-1697073474000-java.trap.gz
+
+TRAPS
+classes/org/springframework/core/ResolvableType$VariableResolver.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/org/springframework/core/ResolvableType.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/reflect/TypeVariable.members.trap.gz
+classes/java/lang/reflect/Type.members.trap.gz
+classes/java/lang/reflect/AnnotatedElement.members.trap.gz
+classes/org/springframework/lang/Nullable.members.trap.gz

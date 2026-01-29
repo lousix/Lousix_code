@@ -1,0 +1,15 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/jose4j/keys/resolvers/DecryptionKeyResolver.members/DecryptionKeyResolver.members#51.0-1675830734000-java.trap.gz
+
+TRAPS
+classes/org/jose4j/keys/resolvers/DecryptionKeyResolver.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/jose4j/jwe/JsonWebEncryption.members.trap.gz
+classes/org/jose4j/jwx/JsonWebStructure.members.trap.gz
+classes/java/util/List.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/java/security/Key.members.trap.gz
+classes/org/jose4j/lang/UnresolvableKeyException.members.trap.gz

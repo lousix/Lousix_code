@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/com/nulabinc/zxcvbn/AttackTimes.members/AttackTimes.members#51.0-1688467018000-java.trap.gz
+
+TRAPS
+classes/com/nulabinc/zxcvbn/AttackTimes.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/com/nulabinc/zxcvbn/AttackTimes$CrackTimesDisplay.members.trap.gz
+classes/com/nulabinc/zxcvbn/AttackTimes$CrackTimeSeconds.members.trap.gz

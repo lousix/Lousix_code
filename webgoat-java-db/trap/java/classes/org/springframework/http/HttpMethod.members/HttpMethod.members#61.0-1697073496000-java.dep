@@ -1,0 +1,14 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/http/HttpMethod.members/HttpMethod.members#61.0-1697073496000-java.trap.gz
+
+TRAPS
+classes/org/springframework/http/HttpMethod.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Comparable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/springframework/lang/Nullable.members.trap.gz
+classes/java/lang/Deprecated.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz

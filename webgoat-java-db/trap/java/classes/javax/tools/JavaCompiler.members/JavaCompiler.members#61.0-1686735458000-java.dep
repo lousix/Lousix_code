@@ -1,0 +1,20 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/javax/tools/JavaCompiler.members/JavaCompiler.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/javax/tools/JavaCompiler.members.trap.gz
+classes/javax/tools/Tool.members.trap.gz
+classes/javax/tools/OptionChecker.members.trap.gz
+classes/javax/tools/JavaFileObject.members.trap.gz
+classes/javax/tools/DiagnosticListener.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/util/Locale.members.trap.gz
+classes/java/nio/charset/Charset.members.trap.gz
+classes/javax/tools/StandardJavaFileManager.members.trap.gz
+classes/java/io/Writer.members.trap.gz
+classes/javax/tools/JavaFileManager.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/javax/tools/JavaCompiler$CompilationTask.members.trap.gz

@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/flywaydb/core/internal/jdbc/RowMapper.members/RowMapper.members#52.0-1680592640000-java.trap.gz
+
+TRAPS
+classes/org/flywaydb/core/internal/jdbc/RowMapper.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/sql/ResultSet.members.trap.gz
+classes/java/sql/SQLException.members.trap.gz

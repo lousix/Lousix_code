@@ -1,0 +1,16 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/java/awt/Cursor.members/Cursor.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/java/awt/Cursor.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/beans/ConstructorProperties.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/awt/AWTException.members.trap.gz
+classes/java/awt/HeadlessException.members.trap.gz
+classes/java/awt/Cursor$CursorDisposer.members.trap.gz
+classes/java/lang/Deprecated.members.trap.gz

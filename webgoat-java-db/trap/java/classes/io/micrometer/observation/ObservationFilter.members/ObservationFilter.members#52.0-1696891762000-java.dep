@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/io/micrometer/observation/ObservationFilter.members/ObservationFilter.members#52.0-1696891762000-java.trap.gz
+
+TRAPS
+classes/io/micrometer/observation/ObservationFilter.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/io/micrometer/observation/Observation$Context.members.trap.gz

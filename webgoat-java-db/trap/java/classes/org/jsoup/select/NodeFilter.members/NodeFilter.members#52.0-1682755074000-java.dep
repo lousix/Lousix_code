@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/jsoup/select/NodeFilter.members/NodeFilter.members#52.0-1682755074000-java.trap.gz
+
+TRAPS
+classes/org/jsoup/select/NodeFilter.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/jsoup/nodes/Node.members.trap.gz
+classes/org/jsoup/select/NodeFilter$FilterResult.members.trap.gz

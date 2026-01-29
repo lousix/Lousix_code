@@ -1,0 +1,6 @@
+TRAP dependencies 1.2
+
+TRAP
+jars/usr/local/apache-maven-3.5.4/repository/io/jsonwebtoken/jjwt/0.9.1/jjwt-0.9.1.jar.trap.gz
+
+TRAPS

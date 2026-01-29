@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/io/micrometer/observation/Observation$Event.members/Observation$Event.members#52.0-1696891762000-java.trap.gz
+
+TRAPS
+classes/io/micrometer/observation/Observation$Event.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/io/micrometer/observation/Observation.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/java/lang/String.members.trap.gz

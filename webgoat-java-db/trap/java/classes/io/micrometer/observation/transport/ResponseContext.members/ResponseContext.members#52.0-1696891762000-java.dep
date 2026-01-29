@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/io/micrometer/observation/transport/ResponseContext.members/ResponseContext.members#52.0-1696891762000-java.trap.gz
+
+TRAPS
+classes/io/micrometer/observation/transport/ResponseContext.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/io/micrometer/common/lang/Nullable.members.trap.gz

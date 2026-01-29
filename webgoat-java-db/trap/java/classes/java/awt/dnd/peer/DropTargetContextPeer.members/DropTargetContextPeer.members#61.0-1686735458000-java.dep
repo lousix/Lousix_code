@@ -1,0 +1,14 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/java/awt/dnd/peer/DropTargetContextPeer.members/DropTargetContextPeer.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/java/awt/dnd/peer/DropTargetContextPeer.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/awt/datatransfer/Transferable.members.trap.gz
+classes/java/awt/dnd/InvalidDnDOperationException.members.trap.gz
+classes/java/awt/datatransfer/DataFlavor.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/java/awt/dnd/DropTarget.members.trap.gz

@@ -1,0 +1,19 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/com/nulabinc/zxcvbn/matchers/Match.members/Match.members#51.0-1688467018000-java.trap.gz
+
+TRAPS
+classes/com/nulabinc/zxcvbn/matchers/Match.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Double.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Integer.members.trap.gz
+classes/java/util/List.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/java/lang/CharSequence.members.trap.gz
+classes/java/util/regex/Matcher.members.trap.gz
+classes/java/lang/Character.members.trap.gz
+classes/java/util/Map.members.trap.gz
+classes/com/nulabinc/zxcvbn/Pattern.members.trap.gz

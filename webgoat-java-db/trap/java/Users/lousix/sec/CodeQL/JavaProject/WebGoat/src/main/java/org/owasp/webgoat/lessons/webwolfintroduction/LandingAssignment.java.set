@@ -1,0 +1,21 @@
+TRAP dependencies 1.2
+
+SOURCES
+
+INCLUDES
+
+OBJECTS
+
+INPUT_OBJECTS
+
+TRAPS
+Users/lousix/sec/CodeQL/JavaProject/WebGoat/src/main/java/org/owasp/webgoat/lessons/webwolfintroduction/LandingAssignment.java.trap.gz
+classes/org/springframework/web/bind/annotation/GetMapping.members/GetMapping.members#61.0-1697073496000-java.trap.gz
+classes/org/springframework/web/servlet/ModelAndView.members/ModelAndView.members#61.0-1697073510000-java.trap.gz
+classes/org/owasp/webgoat/lessons/webwolfintroduction/LandingAssignment.members/LandingAssignment.members#0.0-1698980255075-java.trap.gz
+classes/org/springframework/ui/ModelMap.members/ModelMap.members#61.0-1697073480000-java.trap.gz
+classes/org/springframework/web/servlet/View.members/View.members#61.0-1697073510000-java.trap.gz
+modules/java.base.trap.gz
+jars/usr/local/apache-maven-3.5.4/repository/org/springframework/spring-web/6.0.13/spring-web-6.0.13.jar.trap.gz
+jars/usr/local/apache-maven-3.5.4/repository/org/springframework/spring-webmvc/6.0.13/spring-webmvc-6.0.13.jar.trap.gz
+jars/usr/local/apache-maven-3.5.4/repository/org/springframework/spring-context/6.0.13/spring-context-6.0.13.jar.trap.gz

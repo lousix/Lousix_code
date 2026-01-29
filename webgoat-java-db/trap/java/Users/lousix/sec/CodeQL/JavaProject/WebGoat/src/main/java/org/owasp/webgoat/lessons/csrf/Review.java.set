@@ -1,0 +1,15 @@
+TRAP dependencies 1.2
+
+SOURCES
+
+INCLUDES
+
+OBJECTS
+
+INPUT_OBJECTS
+
+TRAPS
+Users/lousix/sec/CodeQL/JavaProject/WebGoat/src/main/java/org/owasp/webgoat/lessons/csrf/Review.java.trap.gz
+classes/javax/xml/bind/annotation/XmlRootElement.members/XmlRootElement.members#52.0-1536704924000-java.trap.gz
+classes/org/owasp/webgoat/lessons/csrf/Review.members/Review.members#0.0-1698980255063-java.trap.gz
+jars/usr/local/apache-maven-3.5.4/repository/javax/xml/bind/jaxb-api/2.3.1/jaxb-api-2.3.1.jar.trap.gz

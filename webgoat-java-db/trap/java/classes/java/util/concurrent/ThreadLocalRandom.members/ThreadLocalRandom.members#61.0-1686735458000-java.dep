@@ -1,0 +1,15 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/java/util/concurrent/ThreadLocalRandom.members/ThreadLocalRandom.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/java/util/concurrent/ThreadLocalRandom.members.trap.gz
+classes/java/util/Random.members.trap.gz
+classes/jdk/internal/util/random/RandomSupport$RandomGeneratorProperties.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/util/stream/DoubleStream.members.trap.gz
+classes/java/util/stream/LongStream.members.trap.gz
+classes/java/util/stream/IntStream.members.trap.gz
+classes/java/lang/Thread.members.trap.gz
+classes/java/security/AccessControlContext.members.trap.gz

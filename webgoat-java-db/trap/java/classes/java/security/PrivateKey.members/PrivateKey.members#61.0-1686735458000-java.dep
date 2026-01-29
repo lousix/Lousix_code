@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/java/security/PrivateKey.members/PrivateKey.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/java/security/PrivateKey.members.trap.gz
+classes/java/security/Key.members.trap.gz
+classes/javax/security/auth/Destroyable.members.trap.gz
+classes/java/lang/Deprecated.members.trap.gz
+classes/java/lang/String.members.trap.gz

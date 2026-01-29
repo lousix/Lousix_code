@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/jdbc/datasource/init/ScriptException.members/ScriptException.members#61.0-1697073494000-java.trap.gz
+
+TRAPS
+classes/org/springframework/jdbc/datasource/init/ScriptException.members.trap.gz
+classes/org/springframework/dao/DataAccessException.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Throwable.members.trap.gz
+classes/org/springframework/lang/Nullable.members.trap.gz

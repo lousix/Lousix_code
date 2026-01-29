@@ -1,0 +1,15 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/jdbc/core/namedparam/MapSqlParameterSource.members/MapSqlParameterSource.members#61.0-1697073494000-java.trap.gz
+
+TRAPS
+classes/org/springframework/jdbc/core/namedparam/MapSqlParameterSource.members.trap.gz
+classes/org/springframework/jdbc/core/namedparam/AbstractSqlParameterSource.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/org/springframework/lang/NonNull.members.trap.gz
+classes/org/springframework/lang/Nullable.members.trap.gz
+classes/java/util/Map.members.trap.gz

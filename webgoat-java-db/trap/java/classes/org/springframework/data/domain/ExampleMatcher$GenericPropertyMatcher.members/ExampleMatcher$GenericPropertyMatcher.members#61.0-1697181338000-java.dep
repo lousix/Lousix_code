@@ -1,0 +1,13 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/data/domain/ExampleMatcher$GenericPropertyMatcher.members/ExampleMatcher$GenericPropertyMatcher.members#61.0-1697181338000-java.trap.gz
+
+TRAPS
+classes/org/springframework/data/domain/ExampleMatcher$GenericPropertyMatcher.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/springframework/data/domain/ExampleMatcher.members.trap.gz
+classes/org/springframework/data/domain/ExampleMatcher$PropertyValueTransformer.members.trap.gz
+classes/org/springframework/data/domain/ExampleMatcher$StringMatcher.members.trap.gz
+classes/java/lang/Boolean.members.trap.gz
+classes/org/springframework/lang/Nullable.members.trap.gz

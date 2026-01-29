@@ -1,0 +1,15 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/core/env/ConfigurableEnvironment.members/ConfigurableEnvironment.members#61.0-1697073474000-java.trap.gz
+
+TRAPS
+classes/org/springframework/core/env/ConfigurableEnvironment.members.trap.gz
+classes/org/springframework/core/env/Environment.members.trap.gz
+classes/org/springframework/core/env/ConfigurablePropertyResolver.members.trap.gz
+classes/java/util/Map.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/springframework/core/env/MutablePropertySources.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz

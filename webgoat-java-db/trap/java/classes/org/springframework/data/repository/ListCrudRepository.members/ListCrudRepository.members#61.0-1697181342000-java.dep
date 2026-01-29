@@ -1,0 +1,17 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/data/repository/ListCrudRepository.members/ListCrudRepository.members#61.0-1697181342000-java.trap.gz
+
+TRAPS
+classes/org/springframework/data/repository/ListCrudRepository.members.trap.gz
+classes/org/springframework/data/repository/CrudRepository.members.trap.gz
+classes/org/springframework/data/repository/Repository.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/springframework/stereotype/Indexed.members.trap.gz
+classes/org/springframework/data/repository/NoRepositoryBean.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/java/util/Optional.members.trap.gz
+classes/jdk/internal/ValueBased.members.trap.gz
+classes/java/util/List.members.trap.gz
+classes/java/util/Collection.members.trap.gz

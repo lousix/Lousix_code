@@ -1,0 +1,14 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/apache/commons/text/translate/CharSequenceTranslator.members/CharSequenceTranslator.members#52.0-1663480180000-java.trap.gz
+
+TRAPS
+classes/org/apache/commons/text/translate/CharSequenceTranslator.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/java/lang/CharSequence.members.trap.gz
+classes/java/io/Writer.members.trap.gz
+classes/java/io/IOException.members.trap.gz
+classes/java/lang/String.members.trap.gz

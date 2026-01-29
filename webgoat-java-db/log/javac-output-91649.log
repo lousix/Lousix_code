@@ -1,0 +1,35 @@
+[2026-01-29 15:52:02] [javac-output-91649] /Users/lousix/sec/CodeQL/JavaProject/WebGoat/src/main/java/org/owasp/webgoat/webwolf/jwt/JWTToken.java:4: warning: [removal] Base64Utils in org.springframework.util has been deprecated and marked for removal
+[2026-01-29 15:52:02] [javac-output-91649] import static org.springframework.util.Base64Utils.decodeFromUrlSafeString;
+[2026-01-29 15:52:02] [javac-output-91649]                                       ^
+[2026-01-29 15:52:02] [javac-output-91649] /Users/lousix/sec/CodeQL/JavaProject/WebGoat/src/main/java/org/owasp/webgoat/webwolf/jwt/JWTToken.java:4: warning: [removal] Base64Utils in org.springframework.util has been deprecated and marked for removal
+[2026-01-29 15:52:02] [javac-output-91649] import static org.springframework.util.Base64Utils.decodeFromUrlSafeString;
+[2026-01-29 15:52:02] [javac-output-91649]                                       ^
+[2026-01-29 15:52:03] [javac-output-91649] /Users/lousix/sec/CodeQL/JavaProject/WebGoat/src/main/java/org/owasp/webgoat/webwolf/jwt/JWTToken.java:4: warning: [removal] Base64Utils in org.springframework.util has been deprecated and marked for removal
+[2026-01-29 15:52:03] [javac-output-91649] import static org.springframework.util.Base64Utils.decodeFromUrlSafeString;
+[2026-01-29 15:52:03] [javac-output-91649]                                       ^
+[2026-01-29 15:52:03] [javac-output-91649] /Users/lousix/sec/CodeQL/JavaProject/WebGoat/src/main/java/org/owasp/webgoat/webwolf/jwt/JWTToken.java:4: warning: [removal] Base64Utils in org.springframework.util has been deprecated and marked for removal
+[2026-01-29 15:52:03] [javac-output-91649] import static org.springframework.util.Base64Utils.decodeFromUrlSafeString;
+[2026-01-29 15:52:03] [javac-output-91649]                                       ^
+[2026-01-29 15:52:03] [javac-output-91649] /Users/lousix/sec/CodeQL/JavaProject/WebGoat/src/main/java/org/owasp/webgoat/webwolf/jwt/JWTToken.java:4: warning: [removal] Base64Utils in org.springframework.util has been deprecated and marked for removal
+[2026-01-29 15:52:03] [javac-output-91649] import static org.springframework.util.Base64Utils.decodeFromUrlSafeString;
+[2026-01-29 15:52:03] [javac-output-91649]                                       ^
+[2026-01-29 15:52:08] [javac-output-91649] /Users/lousix/sec/CodeQL/JavaProject/WebGoat/src/main/java/org/owasp/webgoat/container/WebSecurityConfig.java:71: warning: [removal] formLogin() in HttpSecurity has been deprecated and marked for removal
+[2026-01-29 15:52:08] [javac-output-91649]     http.formLogin()
+[2026-01-29 15:52:08] [javac-output-91649]         ^
+[2026-01-29 15:52:08] [javac-output-91649] /Users/lousix/sec/CodeQL/JavaProject/WebGoat/src/main/java/org/owasp/webgoat/container/WebSecurityConfig.java:77: warning: [removal] logout() in HttpSecurity has been deprecated and marked for removal
+[2026-01-29 15:52:08] [javac-output-91649]     http.logout().deleteCookies("JSESSIONID").invalidateHttpSession(true);
+[2026-01-29 15:52:08] [javac-output-91649]         ^
+[2026-01-29 15:52:08] [javac-output-91649] /Users/lousix/sec/CodeQL/JavaProject/WebGoat/src/main/java/org/owasp/webgoat/container/WebSecurityConfig.java:78: warning: [removal] csrf() in HttpSecurity has been deprecated and marked for removal
+[2026-01-29 15:52:08] [javac-output-91649]     http.csrf().disable();
+[2026-01-29 15:52:08] [javac-output-91649]         ^
+[2026-01-29 15:52:08] [javac-output-91649] /Users/lousix/sec/CodeQL/JavaProject/WebGoat/src/main/java/org/owasp/webgoat/container/WebSecurityConfig.java:80: warning: [removal] headers() in HttpSecurity has been deprecated and marked for removal
+[2026-01-29 15:52:08] [javac-output-91649]     http.headers().cacheControl().disable();
+[2026-01-29 15:52:08] [javac-output-91649]         ^
+[2026-01-29 15:52:08] [javac-output-91649] /Users/lousix/sec/CodeQL/JavaProject/WebGoat/src/main/java/org/owasp/webgoat/container/WebSecurityConfig.java:80: warning: [removal] cacheControl() in HeadersConfigurer has been deprecated and marked for removal
+[2026-01-29 15:52:08] [javac-output-91649]     http.headers().cacheControl().disable();
+[2026-01-29 15:52:08] [javac-output-91649]                   ^
+[2026-01-29 15:52:08] [javac-output-91649]   where H is a type-variable:
+[2026-01-29 15:52:08] [javac-output-91649]     H extends HttpSecurityBuilder<H> declared in class HeadersConfigurer
+[2026-01-29 15:52:08] [javac-output-91649] /Users/lousix/sec/CodeQL/JavaProject/WebGoat/src/main/java/org/owasp/webgoat/container/WebSecurityConfig.java:81: warning: [removal] exceptionHandling() in HttpSecurity has been deprecated and marked for removal
+[2026-01-29 15:52:08] [javac-output-91649]     http.exceptionHandling().authenticationEntryPoint(new AjaxAuthenticationEntryPoint("/login"));
+[2026-01-29 15:52:08] [javac-output-91649]         ^

@@ -1,0 +1,24 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/web/filter/GenericFilterBean.members/GenericFilterBean.members#61.0-1697073496000-java.trap.gz
+
+TRAPS
+classes/org/springframework/web/filter/GenericFilterBean.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/jakarta/servlet/Filter.members.trap.gz
+classes/org/springframework/beans/factory/BeanNameAware.members.trap.gz
+classes/org/springframework/context/EnvironmentAware.members.trap.gz
+classes/org/springframework/core/env/EnvironmentCapable.members.trap.gz
+classes/org/springframework/web/context/ServletContextAware.members.trap.gz
+classes/org/springframework/beans/factory/InitializingBean.members.trap.gz
+classes/org/springframework/beans/factory/DisposableBean.members.trap.gz
+classes/jakarta/servlet/ServletContext.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/springframework/lang/Nullable.members.trap.gz
+classes/jakarta/servlet/FilterConfig.members.trap.gz
+classes/jakarta/servlet/ServletException.members.trap.gz
+classes/org/springframework/beans/BeanWrapper.members.trap.gz
+classes/org/springframework/beans/BeansException.members.trap.gz
+classes/org/springframework/core/env/Environment.members.trap.gz
+classes/org/apache/commons/logging/Log.members.trap.gz

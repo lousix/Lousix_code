@@ -1,0 +1,22 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/security/config/annotation/authentication/configurers/provisioning/UserDetailsManagerConfigurer$UserDetailsBuilder.members/UserDetailsManagerConfigurer$UserDetailsBuilder.members#61.0-1697442116000-java.trap.gz
+
+TRAPS
+classes/org/springframework/security/config/annotation/authentication/configurers/provisioning/UserDetailsManagerConfigurer$UserDetailsBuilder.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/springframework/security/config/annotation/authentication/configurers/provisioning/UserDetailsManagerConfigurer.members.trap.gz
+classes/org/springframework/security/core/userdetails/UserDetails.members.trap.gz
+classes/org/springframework/security/config/annotation/authentication/configurers/userdetails/UserDetailsServiceConfigurer.members.trap.gz
+classes/org/springframework/security/config/annotation/authentication/configurers/userdetails/AbstractDaoAuthenticationConfigurer.members.trap.gz
+classes/org/springframework/security/config/annotation/authentication/configurers/userdetails/UserDetailsAwareConfigurer.members.trap.gz
+classes/org/springframework/security/config/annotation/SecurityConfigurerAdapter.members.trap.gz
+classes/org/springframework/security/config/annotation/SecurityConfigurer.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/org/springframework/security/core/GrantedAuthority.members.trap.gz
+classes/java/util/List.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz

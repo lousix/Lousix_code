@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/core/SerializableTypeWrapper$TypeProvider.members/SerializableTypeWrapper$TypeProvider.members#61.0-1697073474000-java.trap.gz
+
+TRAPS
+classes/org/springframework/core/SerializableTypeWrapper$TypeProvider.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/org/springframework/core/SerializableTypeWrapper.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/springframework/lang/Nullable.members.trap.gz
+classes/java/lang/reflect/Type.members.trap.gz

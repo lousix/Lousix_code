@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/jsoup/parser/ParseSettings.members/ParseSettings.members#52.0-1682755074000-java.trap.gz
+
+TRAPS
+classes/org/jsoup/parser/ParseSettings.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/jsoup/nodes/Attributes.members.trap.gz
+classes/javax/annotation/Nullable.members.trap.gz

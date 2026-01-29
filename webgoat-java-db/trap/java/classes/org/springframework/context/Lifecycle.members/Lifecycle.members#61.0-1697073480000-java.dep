@@ -1,0 +1,8 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/context/Lifecycle.members/Lifecycle.members#61.0-1697073480000-java.trap.gz
+
+TRAPS
+classes/org/springframework/context/Lifecycle.members.trap.gz
+classes/java/lang/Object.members.trap.gz

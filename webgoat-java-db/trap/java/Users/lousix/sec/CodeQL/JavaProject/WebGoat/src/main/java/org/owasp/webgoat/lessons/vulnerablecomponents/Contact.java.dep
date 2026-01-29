@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+Users/lousix/sec/CodeQL/JavaProject/WebGoat/src/main/java/org/owasp/webgoat/lessons/vulnerablecomponents/Contact.java.trap.gz
+
+TRAPS
+classes/org/owasp/webgoat/lessons/vulnerablecomponents/Contact.members.trap.gz
+classes/java/lang/Integer.members.trap.gz
+classes/java/lang/String.members.trap.gz

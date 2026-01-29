@@ -1,0 +1,14 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/http/client/support/InterceptingHttpAccessor.members/InterceptingHttpAccessor.members#61.0-1697073496000-java.trap.gz
+
+TRAPS
+classes/org/springframework/http/client/support/InterceptingHttpAccessor.members.trap.gz
+classes/org/springframework/http/client/support/HttpAccessor.members.trap.gz
+classes/org/springframework/http/client/ClientHttpRequestFactory.members.trap.gz
+classes/java/util/List.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/springframework/http/client/ClientHttpRequestInterceptor.members.trap.gz

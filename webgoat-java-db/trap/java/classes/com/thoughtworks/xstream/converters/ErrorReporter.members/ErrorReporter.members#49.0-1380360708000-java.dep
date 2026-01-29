@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/com/thoughtworks/xstream/converters/ErrorReporter.members/ErrorReporter.members#49.0-1380360708000-java.trap.gz
+
+TRAPS
+classes/com/thoughtworks/xstream/converters/ErrorReporter.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/com/thoughtworks/xstream/converters/ErrorWriter.members.trap.gz

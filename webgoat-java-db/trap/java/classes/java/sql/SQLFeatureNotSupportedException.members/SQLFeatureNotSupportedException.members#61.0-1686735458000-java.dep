@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/java/sql/SQLFeatureNotSupportedException.members/SQLFeatureNotSupportedException.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/java/sql/SQLFeatureNotSupportedException.members.trap.gz
+classes/java/sql/SQLNonTransientException.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Throwable.members.trap.gz

@@ -4,6 +4,7 @@ mode: subagent
 permission:
   read: allow
   grep: allow
+  write: allow
   glob: allow
   list: allow
   lsp: allow
@@ -21,7 +22,8 @@ permission:
 3. **上下文记录**: 记录每个sink点的上下文信息（文件、行号、函数等）
 4. **优先级标记**: 根据漏洞类型和严重性标记优先级
 
-## 支持的语言和对应的sink点
+## 支持的语言和对应的sink点示意表
+如下列表只是罗列部分漏洞种类的部分sink特征
 
 ### Python Sink Points
 

@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/jakarta/validation/ConstraintValidator.members/ConstraintValidator.members#52.0-1653559272000-java.trap.gz
+
+TRAPS
+classes/jakarta/validation/ConstraintValidator.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/annotation/Annotation.members.trap.gz
+classes/jakarta/validation/ConstraintValidatorContext.members.trap.gz

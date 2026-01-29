@@ -1,0 +1,14 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/xml/sax/ContentHandler.members/ContentHandler.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/org/xml/sax/ContentHandler.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/xml/sax/SAXException.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/org/xml/sax/Attributes.members.trap.gz
+classes/org/xml/sax/Locator.members.trap.gz

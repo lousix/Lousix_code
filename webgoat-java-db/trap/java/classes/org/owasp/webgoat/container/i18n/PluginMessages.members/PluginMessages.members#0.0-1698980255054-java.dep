@@ -1,0 +1,18 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/owasp/webgoat/container/i18n/PluginMessages.members/PluginMessages.members#0.0-1698980255054-java.trap.gz
+
+TRAPS
+classes/org/owasp/webgoat/container/i18n/PluginMessages.members.trap.gz
+classes/org/springframework/context/support/ReloadableResourceBundleMessageSource.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/java/util/Properties.members.trap.gz
+classes/org/springframework/context/support/ReloadableResourceBundleMessageSource$PropertiesHolder.members.trap.gz
+classes/java/lang/Override.members.trap.gz
+classes/org/owasp/webgoat/container/i18n/Messages.members.trap.gz
+classes/org/owasp/webgoat/container/i18n/Language.members.trap.gz
+classes/org/springframework/core/io/support/ResourcePatternResolver.members.trap.gz

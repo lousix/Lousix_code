@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/jose4j/jwt/consumer/ErrorCodeValidator$Error.members/ErrorCodeValidator$Error.members#51.0-1675830734000-java.trap.gz
+
+TRAPS
+classes/org/jose4j/jwt/consumer/ErrorCodeValidator$Error.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/jose4j/jwt/consumer/ErrorCodeValidator.members.trap.gz
+classes/java/lang/String.members.trap.gz

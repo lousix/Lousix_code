@@ -1,0 +1,20 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/http/MediaType.members/MediaType.members#61.0-1697073496000-java.trap.gz
+
+TRAPS
+classes/org/springframework/http/MediaType.members.trap.gz
+classes/org/springframework/util/MimeType.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/java/util/List.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Deprecated.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/springframework/lang/Nullable.members.trap.gz
+classes/java/util/Map.members.trap.gz
+classes/java/nio/charset/Charset.members.trap.gz
+classes/java/util/Comparator.members.trap.gz
+classes/java/lang/FunctionalInterface.members.trap.gz

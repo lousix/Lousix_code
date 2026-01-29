@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/jose4j/jca/ProviderContext.members/ProviderContext.members#51.0-1675830734000-java.trap.gz
+
+TRAPS
+classes/org/jose4j/jca/ProviderContext.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/security/SecureRandom.members.trap.gz
+classes/org/jose4j/jca/ProviderContext$Context.members.trap.gz

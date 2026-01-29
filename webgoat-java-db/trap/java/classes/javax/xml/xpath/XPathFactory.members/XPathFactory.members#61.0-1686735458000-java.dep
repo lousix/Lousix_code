@@ -1,0 +1,14 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/javax/xml/xpath/XPathFactory.members/XPathFactory.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/javax/xml/xpath/XPathFactory.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/javax/xml/xpath/XPath.members.trap.gz
+classes/javax/xml/xpath/XPathFunctionResolver.members.trap.gz
+classes/javax/xml/xpath/XPathVariableResolver.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/javax/xml/xpath/XPathFactoryConfigurationException.members.trap.gz
+classes/java/lang/ClassLoader.members.trap.gz

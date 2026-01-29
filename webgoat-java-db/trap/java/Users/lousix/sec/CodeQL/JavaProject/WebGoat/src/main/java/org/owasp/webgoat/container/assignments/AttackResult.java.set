@@ -1,0 +1,17 @@
+TRAP dependencies 1.2
+
+SOURCES
+
+INCLUDES
+
+OBJECTS
+
+INPUT_OBJECTS
+
+TRAPS
+Users/lousix/sec/CodeQL/JavaProject/WebGoat/src/main/java/org/owasp/webgoat/container/assignments/AttackResult.java.trap.gz
+classes/org/apache/commons/text/StringEscapeUtils.members/StringEscapeUtils.members#52.0-1663480180000-java.trap.gz
+classes/org/apache/commons/text/translate/CharSequenceTranslator.members/CharSequenceTranslator.members#52.0-1663480180000-java.trap.gz
+classes/org/apache/commons/text/StringEscapeUtils$Builder.members/StringEscapeUtils$Builder.members#52.0-1663480180000-java.trap.gz
+modules/java.base.trap.gz
+jars/usr/local/apache-maven-3.5.4/repository/org/apache/commons/commons-text/1.10.0/commons-text-1.10.0.jar.trap.gz

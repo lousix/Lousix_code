@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/thymeleaf/linkbuilder/ILinkBuilder.members/ILinkBuilder.members#52.0-1670321336000-java.trap.gz
+
+TRAPS
+classes/org/thymeleaf/linkbuilder/ILinkBuilder.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/thymeleaf/context/IExpressionContext.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/util/Map.members.trap.gz
+classes/java/lang/Integer.members.trap.gz

@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/http/CacheControl.members/CacheControl.members#61.0-1697073496000-java.trap.gz
+
+TRAPS
+classes/org/springframework/http/CacheControl.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/springframework/lang/Nullable.members.trap.gz
+classes/java/time/Duration.members.trap.gz
+classes/java/util/concurrent/TimeUnit.members.trap.gz

@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/javax/lang/model/element/RecordComponentElement.members/RecordComponentElement.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/javax/lang/model/element/RecordComponentElement.members.trap.gz
+classes/javax/lang/model/element/Element.members.trap.gz
+classes/javax/lang/model/element/ExecutableElement.members.trap.gz
+classes/javax/lang/model/element/Name.members.trap.gz

@@ -1,0 +1,25 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/security/web/FilterChainProxy.members/FilterChainProxy.members#61.0-1697442088000-java.trap.gz
+
+TRAPS
+classes/org/springframework/security/web/FilterChainProxy.members.trap.gz
+classes/org/springframework/web/filter/GenericFilterBean.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/springframework/security/web/firewall/RequestRejectedHandler.members.trap.gz
+classes/org/springframework/security/web/firewall/HttpFirewall.members.trap.gz
+classes/org/springframework/security/web/FilterChainProxy$FilterChainDecorator.members.trap.gz
+classes/org/springframework/security/web/FilterChainProxy$FilterChainValidator.members.trap.gz
+classes/org/springframework/security/core/context/SecurityContextHolderStrategy.members.trap.gz
+classes/java/util/List.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/springframework/security/web/SecurityFilterChain.members.trap.gz
+classes/jakarta/servlet/Filter.members.trap.gz
+classes/jakarta/servlet/ServletRequest.members.trap.gz
+classes/jakarta/servlet/ServletResponse.members.trap.gz
+classes/jakarta/servlet/FilterChain.members.trap.gz
+classes/java/io/IOException.members.trap.gz
+classes/jakarta/servlet/ServletException.members.trap.gz

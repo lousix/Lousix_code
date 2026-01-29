@@ -1,0 +1,8 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/io/micrometer/observation/transport/Propagator.members/Propagator.members#52.0-1696891762000-java.trap.gz
+
+TRAPS
+classes/io/micrometer/observation/transport/Propagator.members.trap.gz
+classes/java/lang/Object.members.trap.gz

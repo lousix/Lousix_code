@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/thymeleaf/cache/ExpressionCacheKey.members/ExpressionCacheKey.members#52.0-1670321336000-java.trap.gz
+
+TRAPS
+classes/org/thymeleaf/cache/ExpressionCacheKey.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/java/lang/String.members.trap.gz

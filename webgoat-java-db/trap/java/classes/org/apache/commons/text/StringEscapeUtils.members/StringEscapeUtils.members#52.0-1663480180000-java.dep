@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/apache/commons/text/StringEscapeUtils.members/StringEscapeUtils.members#52.0-1663480180000-java.trap.gz
+
+TRAPS
+classes/org/apache/commons/text/StringEscapeUtils.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/apache/commons/text/translate/CharSequenceTranslator.members.trap.gz
+classes/org/apache/commons/text/StringEscapeUtils$Builder.members.trap.gz

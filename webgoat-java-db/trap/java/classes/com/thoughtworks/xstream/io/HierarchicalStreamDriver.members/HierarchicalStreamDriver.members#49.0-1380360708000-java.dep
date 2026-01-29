@@ -1,0 +1,16 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/com/thoughtworks/xstream/io/HierarchicalStreamDriver.members/HierarchicalStreamDriver.members#49.0-1380360708000-java.trap.gz
+
+TRAPS
+classes/com/thoughtworks/xstream/io/HierarchicalStreamDriver.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/io/OutputStream.members.trap.gz
+classes/com/thoughtworks/xstream/io/HierarchicalStreamWriter.members.trap.gz
+classes/java/io/Writer.members.trap.gz
+classes/java/io/File.members.trap.gz
+classes/com/thoughtworks/xstream/io/HierarchicalStreamReader.members.trap.gz
+classes/java/net/URL.members.trap.gz
+classes/java/io/InputStream.members.trap.gz
+classes/java/io/Reader.members.trap.gz

@@ -1,0 +1,15 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/flywaydb/core/internal/database/base/Type.members/Type.members#52.0-1680592640000-java.trap.gz
+
+TRAPS
+classes/org/flywaydb/core/internal/database/base/Type.members.trap.gz
+classes/org/flywaydb/core/internal/database/base/SchemaObject.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/sql/SQLException.members.trap.gz
+classes/org/flywaydb/core/internal/database/base/Database.members.trap.gz
+classes/java/io/Closeable.members.trap.gz
+classes/org/flywaydb/core/internal/database/base/Schema.members.trap.gz
+classes/org/flywaydb/core/internal/jdbc/JdbcTemplate.members.trap.gz

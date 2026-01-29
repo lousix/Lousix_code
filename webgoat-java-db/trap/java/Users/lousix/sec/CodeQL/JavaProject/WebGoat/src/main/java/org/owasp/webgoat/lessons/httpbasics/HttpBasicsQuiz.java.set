@@ -1,0 +1,14 @@
+TRAP dependencies 1.2
+
+SOURCES
+
+INCLUDES
+
+OBJECTS
+
+INPUT_OBJECTS
+
+TRAPS
+Users/lousix/sec/CodeQL/JavaProject/WebGoat/src/main/java/org/owasp/webgoat/lessons/httpbasics/HttpBasicsQuiz.java.trap.gz
+classes/org/owasp/webgoat/container/assignments/AssignmentPath.members/AssignmentPath.members#0.0-1698980255053-java.trap.gz
+classes/org/owasp/webgoat/lessons/httpbasics/HttpBasicsQuiz.members/HttpBasicsQuiz.members#0.0-1698980255064-java.trap.gz

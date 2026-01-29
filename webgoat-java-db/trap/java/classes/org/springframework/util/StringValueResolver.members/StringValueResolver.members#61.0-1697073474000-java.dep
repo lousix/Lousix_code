@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/util/StringValueResolver.members/StringValueResolver.members#61.0-1697073474000-java.trap.gz
+
+TRAPS
+classes/org/springframework/util/StringValueResolver.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/FunctionalInterface.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/springframework/lang/Nullable.members.trap.gz

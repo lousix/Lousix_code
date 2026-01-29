@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/jakarta/servlet/SessionCookieConfig.members/SessionCookieConfig.members#55.0-1652311148000-java.trap.gz
+
+TRAPS
+classes/jakarta/servlet/SessionCookieConfig.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/util/Map.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Deprecated.members.trap.gz

@@ -1,0 +1,17 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/util/ConcurrentReferenceHashMap$Segment.members/ConcurrentReferenceHashMap$Segment.members#61.0-1697073474000-java.trap.gz
+
+TRAPS
+classes/org/springframework/util/ConcurrentReferenceHashMap$Segment.members.trap.gz
+classes/java/util/concurrent/locks/ReentrantLock.members.trap.gz
+classes/org/springframework/util/ConcurrentReferenceHashMap.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/springframework/util/ConcurrentReferenceHashMap$Task.members.trap.gz
+classes/java/util/AbstractMap.members.trap.gz
+classes/java/util/Map.members.trap.gz
+classes/java/util/concurrent/ConcurrentMap.members.trap.gz
+classes/org/springframework/lang/Nullable.members.trap.gz
+classes/org/springframework/util/ConcurrentReferenceHashMap$Restructure.members.trap.gz
+classes/org/springframework/util/ConcurrentReferenceHashMap$Reference.members.trap.gz

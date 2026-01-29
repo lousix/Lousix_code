@@ -1,0 +1,20 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/owasp/webgoat/container/WebWolfRedirect.members/WebWolfRedirect.members#0.0-1698980255052-java.trap.gz
+
+TRAPS
+classes/org/owasp/webgoat/container/WebWolfRedirect.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/lombok/RequiredArgsConstructor.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/lombok/RequiredArgsConstructor$AnyAnnotation.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/lombok/AccessLevel.members.trap.gz
+classes/org/springframework/stereotype/Controller.members.trap.gz
+classes/org/springframework/context/ApplicationContext.members.trap.gz
+classes/java/lang/SuppressWarnings.members.trap.gz
+classes/lombok/Generated.members.trap.gz
+classes/org/springframework/web/servlet/ModelAndView.members.trap.gz
+classes/org/springframework/web/bind/annotation/GetMapping.members.trap.gz

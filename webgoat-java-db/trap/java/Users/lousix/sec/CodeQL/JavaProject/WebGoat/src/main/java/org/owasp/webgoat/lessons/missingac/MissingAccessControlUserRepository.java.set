@@ -1,0 +1,25 @@
+TRAP dependencies 1.2
+
+SOURCES
+
+INCLUDES
+
+OBJECTS
+
+INPUT_OBJECTS
+
+TRAPS
+Users/lousix/sec/CodeQL/JavaProject/WebGoat/src/main/java/org/owasp/webgoat/lessons/missingac/MissingAccessControlUserRepository.java.trap.gz
+classes/org/springframework/jdbc/core/namedparam/MapSqlParameterSource.members/MapSqlParameterSource.members#61.0-1697073494000-java.trap.gz
+classes/org/springframework/jdbc/core/namedparam/NamedParameterJdbcTemplate.members/NamedParameterJdbcTemplate.members#61.0-1697073494000-java.trap.gz
+classes/org/springframework/util/CollectionUtils.members/CollectionUtils.members#61.0-1697073474000-java.trap.gz
+classes/org/owasp/webgoat/lessons/missingac/User.members/User.members#0.0-1698980255068-java.trap.gz
+classes/org/owasp/webgoat/lessons/missingac/MissingAccessControlUserRepository.members/MissingAccessControlUserRepository.members#0.0-1698980255068-java.trap.gz
+classes/org/springframework/jdbc/core/namedparam/SqlParameterSource.members/SqlParameterSource.members#61.0-1697073494000-java.trap.gz
+classes/org/springframework/jdbc/core/namedparam/AbstractSqlParameterSource.members/AbstractSqlParameterSource.members#61.0-1697073494000-java.trap.gz
+classes/org/springframework/jdbc/core/namedparam/NamedParameterJdbcOperations.members/NamedParameterJdbcOperations.members#61.0-1697073494000-java.trap.gz
+classes/org/springframework/jdbc/core/namedparam/ParsedSql.members/ParsedSql.members#61.0-1697073494000-java.trap.gz
+classes/org/springframework/jdbc/core/PreparedStatementCreatorFactory.members/PreparedStatementCreatorFactory.members#61.0-1697073494000-java.trap.gz
+modules/java.base.trap.gz
+jars/usr/local/apache-maven-3.5.4/repository/org/springframework/spring-jdbc/6.0.13/spring-jdbc-6.0.13.jar.trap.gz
+jars/usr/local/apache-maven-3.5.4/repository/org/springframework/spring-core/6.0.13/spring-core-6.0.13.jar.trap.gz

@@ -1,0 +1,274 @@
+{
+  "analysis_metadata": {
+    "analysis_time": "2026-01-29T10:30:00Z",
+    "analyzer": "Context Analysis Agent",
+    "total_candidates": 4,
+    "analysis_method": "Context-based vulnerability verification"
+  },
+  "verified_vulnerabilities": [
+    {
+      "vulnerability_id": "VULN-001",
+      "original_path_id": "PATH-001",
+      "type": "sql_injection",
+      "cwe": "CWE-89",
+      "confidence": 0.95,
+      "severity": "Critical",
+      "is_real_vulnerability": true,
+      "source": {
+        "file": "com.jsh.erp.controller.ResourceController",
+        "line": 47,
+        "code": "public String getList(@PathVariable(\"apiName\") String apiName, ...)",
+        "source_type": "http_request_parameter",
+        "parameter": "filter parameter from request"
+      },
+      "sink": {
+        "file": "com.jsh.erp.utils.QueryUtils",
+        "line": 93,
+        "code": "builder.append(value.getString(vidx));",
+        "sink_type": "dynamic_sql_build"
+      },
+      "data_flow_summary": [
+        "ResourceController.getList() → CommonQueryManager.select()",
+        "→ UserComponent.select() → QueryUtils.filter()",
+        "→ Direct SQL string concatenation in IN clause"
+      ],
+      "validation": {
+        "has_validation": false,
+        "checks": [],
+        "effective": false
+      },
+      "sanitization": {
+        "has_sanitization": false,
+        "calls": [],
+        "effective": false
+      },
+      "context": {
+        "needs_auth": true,
+        "needs_privilege": false,
+        "is_reachable": true,
+        "data_source": "external_http_parameter"
+      },
+      "exploit_difficulty": "Low",
+      "impact": "Complete database compromise - data exfiltration, modification, and potential RCE",
+      "exploitability": {
+        "authentication_required": true,
+        "parameter": "filter",
+        "payload_example": "[{\"name\":\"id\",\"value\":[\"1','1' OR '1'='1\"]}]",
+        "resulting_sql": "WHERE (`id` IN (1','1' OR '1'='1))"
+      },
+      "recommendation": "Implement parameterized queries or use whitelisting for allowed values. Never concatenate user input directly into SQL queries."
+    },
+    {
+      "vulnerability_id": "VULN-002",
+      "original_path_id": "PATH-002",
+      "type": "sql_injection",
+      "cwe": "CWE-89",
+      "confidence": 0.90,
+      "severity": "High",
+      "is_real_vulnerability": true,
+      "source": {
+        "file": "com.jsh.erp.controller.ResourceController",
+        "line": 47,
+        "code": "public String getList(@PathVariable(\"apiName\") String apiName, ...)",
+        "source_type": "http_request_parameter",
+        "parameter": "order parameter from request"
+      },
+      "sink": {
+        "file": "com.jsh.erp.utils.OrderUtils",
+        "line": 24,
+        "code": "return column + \" \" + splits[1];",
+        "sink_type": "string_concatenation"
+      },
+      "data_flow_summary": [
+        "ResourceController.getList() → CommonQueryManager.select()",
+        "→ UserComponent.select() → QueryUtils.order()",
+        "→ OrderUtils.getOrderString() → Direct concatenation in ORDER BY"
+      ],
+      "validation": {
+        "has_validation": false,
+        "checks": [],
+        "effective": false
+      },
+      "sanitization": {
+        "has_sanitization": false,
+        "calls": [],
+        "effective": false
+      },
+      "context": {
+        "needs_auth": true,
+        "needs_privilege": false,
+        "is_reachable": true,
+        "data_source": "external_http_parameter"
+      },
+      "exploit_difficulty": "Medium",
+      "impact": "Data exfiltration through blind SQL injection, potential for UNION-based attacks",
+      "exploitability": {
+        "authentication_required": true,
+        "parameter": "order",
+        "payload_example": "id; DROP TABLE jsh_user; --",
+        "resulting_sql": "ORDER BY id; DROP TABLE jsh_user; --"
+      },
+      "recommendation": "Implement strict whitelisting for ORDER BY columns and directions. Use parameterized queries or prepared statements."
+    },
+    {
+      "vulnerability_id": "VULN-003",
+      "original_path_id": "PATH-003",
+      "type": "sql_injection",
+      "cwe": "CWE-89",
+      "confidence": 0.90,
+      "severity": "High",
+      "is_real_vulnerability": true,
+      "source": {
+        "file": "com.jsh.erp.controller.ResourceController",
+        "line": 47,
+        "code": "public String getList(@PathVariable(\"apiName\") String apiName, ...)",
+        "source_type": "http_request_parameter",
+        "parameter": "order parameter from request"
+      },
+      "sink": {
+        "file": "com.jsh.erp.utils.OrderUtils",
+        "line": 37,
+        "code": "return \"convert(\" + tableName + \".\" + ColumnPropertyUtil.propertyToColumn(splits[0]) + \" using gbk) \" + splits[1];",
+        "sink_type": "string_concatenation"
+      },
+      "data_flow_summary": [
+        "ResourceController.getList() → CommonQueryManager.select()",
+        "→ MsgComponent.select() → QueryUtils.order()",
+        "→ OrderUtils.getJoinTablesOrderString() → Direct concatenation"
+      ],
+      "validation": {
+        "has_validation": false,
+        "checks": [],
+        "effective": false
+      },
+      "sanitization": {
+        "has_sanitization": false,
+        "calls": [],
+        "effective": false
+      },
+      "context": {
+        "needs_auth": true,
+        "needs_privilege": false,
+        "is_reachable": true,
+        "data_source": "external_http_parameter"
+      },
+      "exploit_difficulty": "Medium",
+      "impact": "Data exfiltration through blind SQL injection, potential for time-based attacks",
+      "exploitability": {
+        "authentication_required": true,
+        "parameter": "order",
+        "payload_example": "id; DROP TABLE jsh_msg; --",
+        "resulting_sql": "ORDER BY convert(jsh_msg.id using gbk) id; DROP TABLE jsh_msg; --"
+      },
+      "recommendation": "Implement strict whitelisting for ORDER BY parameters and use parameterized queries."
+    },
+    {
+      "vulnerability_id": "VULN-004",
+      "original_path_id": "PATH-004",
+      "type": "sql_injection",
+      "cwe": "CWE-89",
+      "confidence": 0.30,
+      "severity": "Medium",
+      "is_real_vulnerability": false,
+      "source": {
+        "file": "com.jsh.erp.controller.ResourceController",
+        "line": 47,
+        "code": "public String getList(@PathVariable(\"apiName\") String apiName, ...)",
+        "source_type": "http_request_parameter",
+        "parameter": "filter parameter from request"
+      },
+      "sink": {
+        "file": "com.jsh.erp.service.user.UserComponent",
+        "line": 36,
+        "code": "String filter = QueryUtils.filter(map);",
+        "sink_type": "parameter_passing"
+      },
+      "data_flow_summary": [
+        "ResourceController.getList() → CommonQueryManager.select()",
+        "→ UserComponent.getUserList() → UserService.selectByConditionUser()",
+        "→ MyBatis XML with parameterized queries and bind tags"
+      ],
+      "validation": {
+        "has_validation": false,
+        "checks": [],
+        "effective": false
+      },
+      "sanitization": {
+        "has_sanitization": true,
+        "calls": [
+          {
+            "method": "MyBatis bind tag",
+            "line": "UserMapperEx.xml",
+            "effective": true,
+            "description": "Uses parameterized queries with bind tags for LIKE operations"
+          }
+        ],
+        "effective": true
+      },
+      "context": {
+        "needs_auth": true,
+        "needs_privilege": true,
+        "is_reachable": true,
+        "data_source": "external_http_parameter"
+      },
+      "exploit_difficulty": "High",
+      "impact": "Limited - MyBatis parameterization provides protection",
+      "exploitability": {
+        "authentication_required": true,
+        "privilege_required": true,
+        "mitigation": "MyBatis parameterized queries with bind tags prevent injection",
+        "risk": "Secondary injection potential if QueryUtils.filter output is used elsewhere"
+      },
+      "recommendation": "Although MyBatis provides protection, remove the call to vulnerable QueryUtils.filter() to eliminate any potential secondary injection risks."
+    }
+  ],
+  "summary": {
+    "total_candidates": 4,
+    "verified_vulnerabilities": 3,
+    "false_positives": 1,
+    "by_severity": {
+      "Critical": 1,
+      "High": 2,
+      "Medium": 1
+    },
+    "by_confidence": {
+      "high": 2,
+      "medium": 2,
+      "low": 0
+    },
+    "key_findings": {
+      "most_critical": "VULN-001 - Direct SQL injection in QueryUtils.filter()",
+      "exploitability": "All vulnerabilities require authentication",
+      "common_pattern": "Lack of input validation and direct string concatenation",
+      "protection_mechanisms": "Only PATH-004 has partial protection via MyBatis"
+    },
+    "overall_assessment": {
+      "risk_level": "Critical",
+      "immediate_action_required": true,
+      "primary_concern": "Multiple SQL injection vulnerabilities allowing complete database compromise",
+      "business_impact": "High - potential for data breach, regulatory violations, and reputational damage"
+    },
+    "remediation_priority": [
+      {
+        "rank": 1,
+        "vulnerability": "VULN-001",
+        "reason": "Critical SQL injection allowing direct database access"
+      },
+      {
+        "rank": 2,
+        "vulnerability": "VULN-002",
+        "reason": "SQL injection in ORDER BY clause"
+      },
+      {
+        "rank": 3,
+        "vulnerability": "VULN-003",
+        "reason": "SQL injection in ORDER BY with JOIN tables"
+      },
+      {
+        "rank": 4,
+        "vulnerability": "VULN-004",
+        "reason": "Low risk due to MyBatis protection, but should be fixed"
+      }
+    ]
+  }
+}

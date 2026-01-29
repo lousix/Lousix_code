@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/jakarta/xml/bind/JAXBException.members/JAXBException.members#55.0-1694554612000-java.trap.gz
+
+TRAPS
+classes/jakarta/xml/bind/JAXBException.members.trap.gz
+classes/java/lang/Exception.members.trap.gz
+classes/java/lang/Throwable.members.trap.gz
+classes/java/io/PrintWriter.members.trap.gz
+classes/java/io/PrintStream.members.trap.gz
+classes/java/lang/String.members.trap.gz

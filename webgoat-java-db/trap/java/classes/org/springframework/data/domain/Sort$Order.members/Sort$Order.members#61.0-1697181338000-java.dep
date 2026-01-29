@@ -1,0 +1,15 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/data/domain/Sort$Order.members/Sort$Order.members#61.0-1697181338000-java.trap.gz
+
+TRAPS
+classes/org/springframework/data/domain/Sort$Order.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/org/springframework/data/domain/Sort.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/springframework/lang/Nullable.members.trap.gz
+classes/org/springframework/data/domain/Sort$NullHandling.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/org/springframework/data/domain/Sort$Direction.members.trap.gz

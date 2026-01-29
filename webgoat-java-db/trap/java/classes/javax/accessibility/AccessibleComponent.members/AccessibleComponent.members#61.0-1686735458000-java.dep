@@ -1,0 +1,17 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/javax/accessibility/AccessibleComponent.members/AccessibleComponent.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/javax/accessibility/AccessibleComponent.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/awt/event/FocusListener.members.trap.gz
+classes/java/awt/Point.members.trap.gz
+classes/javax/accessibility/Accessible.members.trap.gz
+classes/java/awt/Dimension.members.trap.gz
+classes/java/awt/Rectangle.members.trap.gz
+classes/java/awt/Font.members.trap.gz
+classes/java/awt/FontMetrics.members.trap.gz
+classes/java/awt/Cursor.members.trap.gz
+classes/java/awt/Color.members.trap.gz

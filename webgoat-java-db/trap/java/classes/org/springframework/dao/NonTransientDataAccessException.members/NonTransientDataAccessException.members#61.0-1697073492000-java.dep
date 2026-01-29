@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/dao/NonTransientDataAccessException.members/NonTransientDataAccessException.members#61.0-1697073492000-java.trap.gz
+
+TRAPS
+classes/org/springframework/dao/NonTransientDataAccessException.members.trap.gz
+classes/org/springframework/dao/DataAccessException.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Throwable.members.trap.gz
+classes/org/springframework/lang/Nullable.members.trap.gz

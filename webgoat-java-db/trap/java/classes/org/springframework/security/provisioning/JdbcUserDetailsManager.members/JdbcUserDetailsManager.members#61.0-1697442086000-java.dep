@@ -1,0 +1,25 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/security/provisioning/JdbcUserDetailsManager.members/JdbcUserDetailsManager.members#61.0-1697442086000-java.trap.gz
+
+TRAPS
+classes/org/springframework/security/provisioning/JdbcUserDetailsManager.members.trap.gz
+classes/org/springframework/security/core/userdetails/jdbc/JdbcDaoImpl.members.trap.gz
+classes/org/springframework/security/provisioning/UserDetailsManager.members.trap.gz
+classes/org/springframework/security/provisioning/GroupManager.members.trap.gz
+classes/org/springframework/security/core/userdetails/UserCache.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/springframework/security/authentication/AuthenticationManager.members.trap.gz
+classes/org/springframework/security/core/context/SecurityContextHolderStrategy.members.trap.gz
+classes/org/springframework/security/core/GrantedAuthority.members.trap.gz
+classes/java/util/List.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/springframework/security/core/Authentication.members.trap.gz
+classes/org/springframework/security/core/AuthenticationException.members.trap.gz
+classes/org/springframework/security/core/userdetails/UserDetails.members.trap.gz
+classes/org/springframework/context/ApplicationContextException.members.trap.gz
+classes/javax/sql/DataSource.members.trap.gz
+classes/org/apache/commons/logging/Log.members.trap.gz

@@ -1,0 +1,17 @@
+TRAP dependencies 1.2
+
+TRAP
+Users/lousix/sec/CodeQL/JavaProject/WebGoat/src/main/java/org/owasp/webgoat/lessons/vulnerablecomponents/ContactImpl.java.trap.gz
+
+TRAPS
+classes/lombok/Data.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/owasp/webgoat/lessons/vulnerablecomponents/ContactImpl.members.trap.gz
+classes/java/lang/Integer.members.trap.gz
+classes/org/owasp/webgoat/lessons/vulnerablecomponents/Contact.members.trap.gz
+classes/java/lang/SuppressWarnings.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/lombok/Generated.members.trap.gz
+classes/java/lang/Override.members.trap.gz

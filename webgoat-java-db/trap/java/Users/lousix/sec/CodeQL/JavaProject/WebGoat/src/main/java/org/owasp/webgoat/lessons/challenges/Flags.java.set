@@ -1,0 +1,14 @@
+TRAP dependencies 1.2
+
+SOURCES
+
+INCLUDES
+
+OBJECTS
+
+INPUT_OBJECTS
+
+TRAPS
+Users/lousix/sec/CodeQL/JavaProject/WebGoat/src/main/java/org/owasp/webgoat/lessons/challenges/Flags.java.trap.gz
+classes/java/util/UUID.members/UUID.members#61.0-1686735458000-java.trap.gz
+modules/java.base.trap.gz

@@ -1,0 +1,14 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/asciidoctor/converter/OutputFormatWriter.members/OutputFormatWriter.members#52.0-1685860890000-java.trap.gz
+
+TRAPS
+classes/org/asciidoctor/converter/OutputFormatWriter.members.trap.gz
+classes/org/asciidoctor/converter/Converter.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/util/Map.members.trap.gz
+classes/org/asciidoctor/ast/ContentNode.members.trap.gz
+classes/java/io/OutputStream.members.trap.gz
+classes/java/io/IOException.members.trap.gz

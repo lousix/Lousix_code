@@ -1,0 +1,14 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/thymeleaf/inline/IInliner.members/IInliner.members#52.0-1670321336000-java.trap.gz
+
+TRAPS
+classes/org/thymeleaf/inline/IInliner.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/thymeleaf/context/ITemplateContext.members.trap.gz
+classes/org/thymeleaf/model/IComment.members.trap.gz
+classes/java/lang/CharSequence.members.trap.gz
+classes/org/thymeleaf/model/ICDATASection.members.trap.gz
+classes/org/thymeleaf/model/IText.members.trap.gz
+classes/java/lang/String.members.trap.gz

@@ -1,0 +1,25 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/data/repository/ListPagingAndSortingRepository.members/ListPagingAndSortingRepository.members#61.0-1697181342000-java.trap.gz
+
+TRAPS
+classes/org/springframework/data/repository/ListPagingAndSortingRepository.members.trap.gz
+classes/org/springframework/data/repository/PagingAndSortingRepository.members.trap.gz
+classes/org/springframework/data/repository/Repository.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/springframework/stereotype/Indexed.members.trap.gz
+classes/org/springframework/data/repository/NoRepositoryBean.members.trap.gz
+classes/org/springframework/data/domain/Pageable.members.trap.gz
+classes/org/springframework/data/domain/Page.members.trap.gz
+classes/org/springframework/data/domain/Slice.members.trap.gz
+classes/org/springframework/data/util/Streamable.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/java/util/function/Supplier.members.trap.gz
+classes/java/lang/FunctionalInterface.members.trap.gz
+classes/java/util/stream/Stream.members.trap.gz
+classes/java/util/stream/BaseStream.members.trap.gz
+classes/java/lang/AutoCloseable.members.trap.gz
+classes/org/springframework/data/domain/Sort.members.trap.gz
+classes/java/util/List.members.trap.gz
+classes/java/util/Collection.members.trap.gz

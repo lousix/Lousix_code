@@ -1,0 +1,15 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/owasp/webgoat/container/AjaxAuthenticationEntryPoint.members/AjaxAuthenticationEntryPoint.members#0.0-1698980255051-java.trap.gz
+
+TRAPS
+classes/org/owasp/webgoat/container/AjaxAuthenticationEntryPoint.members.trap.gz
+classes/org/springframework/security/web/authentication/LoginUrlAuthenticationEntryPoint.members.trap.gz
+classes/jakarta/servlet/http/HttpServletRequest.members.trap.gz
+classes/jakarta/servlet/http/HttpServletResponse.members.trap.gz
+classes/org/springframework/security/core/AuthenticationException.members.trap.gz
+classes/java/lang/Override.members.trap.gz
+classes/java/io/IOException.members.trap.gz
+classes/jakarta/servlet/ServletException.members.trap.gz
+classes/java/lang/String.members.trap.gz

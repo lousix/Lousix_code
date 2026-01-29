@@ -1,0 +1,15 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/owasp/webgoat/lessons/missingac/MissingAccessControlUserRepository.members/MissingAccessControlUserRepository.members#0.0-1698980255068-java.trap.gz
+
+TRAPS
+classes/org/owasp/webgoat/lessons/missingac/MissingAccessControlUserRepository.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/springframework/stereotype/Component.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/owasp/webgoat/lessons/missingac/User.members.trap.gz
+classes/java/util/List.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/org/owasp/webgoat/container/LessonDataSource.members.trap.gz

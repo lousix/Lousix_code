@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/javax/xml/xpath/XPathException.members/XPathException.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/javax/xml/xpath/XPathException.members.trap.gz
+classes/java/lang/Exception.members.trap.gz
+classes/java/io/PrintWriter.members.trap.gz
+classes/java/io/PrintStream.members.trap.gz
+classes/java/lang/Throwable.members.trap.gz
+classes/java/lang/String.members.trap.gz

@@ -1,0 +1,13 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/web/servlet/HandlerInterceptor.members/HandlerInterceptor.members#61.0-1697073510000-java.trap.gz
+
+TRAPS
+classes/org/springframework/web/servlet/HandlerInterceptor.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/jakarta/servlet/http/HttpServletRequest.members.trap.gz
+classes/jakarta/servlet/http/HttpServletResponse.members.trap.gz
+classes/java/lang/Exception.members.trap.gz
+classes/org/springframework/lang/Nullable.members.trap.gz
+classes/org/springframework/web/servlet/ModelAndView.members.trap.gz

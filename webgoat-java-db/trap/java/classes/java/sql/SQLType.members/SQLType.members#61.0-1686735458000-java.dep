@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/java/sql/SQLType.members/SQLType.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/java/sql/SQLType.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Integer.members.trap.gz
+classes/java/lang/String.members.trap.gz

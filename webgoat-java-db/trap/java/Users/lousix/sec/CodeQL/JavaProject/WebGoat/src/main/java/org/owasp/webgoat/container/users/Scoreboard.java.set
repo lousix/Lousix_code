@@ -1,0 +1,15 @@
+TRAP dependencies 1.2
+
+SOURCES
+
+INCLUDES
+
+OBJECTS
+
+INPUT_OBJECTS
+
+TRAPS
+Users/lousix/sec/CodeQL/JavaProject/WebGoat/src/main/java/org/owasp/webgoat/container/users/Scoreboard.java.trap.gz
+classes/org/owasp/webgoat/container/users/Scoreboard.members/Scoreboard.members#0.0-1698980255057-java.trap.gz
+classes/org/owasp/webgoat/container/users/Scoreboard$Ranking.members/Scoreboard$Ranking.members#0.0-1698980255057-java.trap.gz
+modules/java.base.trap.gz

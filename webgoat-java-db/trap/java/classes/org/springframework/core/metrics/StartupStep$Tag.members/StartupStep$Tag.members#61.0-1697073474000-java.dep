@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/core/metrics/StartupStep$Tag.members/StartupStep$Tag.members#61.0-1697073474000-java.trap.gz
+
+TRAPS
+classes/org/springframework/core/metrics/StartupStep$Tag.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/springframework/core/metrics/StartupStep.members.trap.gz
+classes/java/lang/String.members.trap.gz

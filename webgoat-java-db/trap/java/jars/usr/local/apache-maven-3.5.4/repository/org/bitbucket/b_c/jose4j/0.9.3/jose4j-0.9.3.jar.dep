@@ -1,0 +1,6 @@
+TRAP dependencies 1.2
+
+TRAP
+jars/usr/local/apache-maven-3.5.4/repository/org/bitbucket/b_c/jose4j/0.9.3/jose4j-0.9.3.jar.trap.gz
+
+TRAPS

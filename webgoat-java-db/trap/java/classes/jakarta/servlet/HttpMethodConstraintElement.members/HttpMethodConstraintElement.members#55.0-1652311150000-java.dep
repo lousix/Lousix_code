@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/jakarta/servlet/HttpMethodConstraintElement.members/HttpMethodConstraintElement.members#55.0-1652311150000-java.trap.gz
+
+TRAPS
+classes/jakarta/servlet/HttpMethodConstraintElement.members.trap.gz
+classes/jakarta/servlet/HttpConstraintElement.members.trap.gz
+classes/java/lang/String.members.trap.gz

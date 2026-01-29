@@ -1,0 +1,20 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/owasp/webgoat/lessons/xxe/ContentTypeAssignment.members/ContentTypeAssignment.members#0.0-1698980255078-java.trap.gz
+
+TRAPS
+classes/org/owasp/webgoat/lessons/xxe/ContentTypeAssignment.members.trap.gz
+classes/org/owasp/webgoat/container/assignments/AssignmentEndpoint.members.trap.gz
+classes/org/owasp/webgoat/container/assignments/AssignmentHints.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/org/springframework/web/bind/annotation/RestController.members.trap.gz
+classes/jakarta/servlet/http/HttpServletRequest.members.trap.gz
+classes/org/owasp/webgoat/container/assignments/AttackResult.members.trap.gz
+classes/org/springframework/web/bind/annotation/PostMapping.members.trap.gz
+classes/org/springframework/web/bind/annotation/ResponseBody.members.trap.gz
+classes/org/springframework/web/bind/annotation/RequestBody.members.trap.gz
+classes/org/springframework/web/bind/annotation/RequestHeader.members.trap.gz

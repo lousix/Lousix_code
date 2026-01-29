@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/flywaydb/core/internal/sqlscript/SqlScriptExecutorFactory.members/SqlScriptExecutorFactory.members#52.0-1680592640000-java.trap.gz
+
+TRAPS
+classes/org/flywaydb/core/internal/sqlscript/SqlScriptExecutorFactory.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/sql/Connection.members.trap.gz
+classes/org/flywaydb/core/internal/sqlscript/SqlScriptExecutor.members.trap.gz

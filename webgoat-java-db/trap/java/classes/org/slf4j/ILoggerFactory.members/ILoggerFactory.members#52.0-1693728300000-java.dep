@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/slf4j/ILoggerFactory.members/ILoggerFactory.members#52.0-1693728300000-java.trap.gz
+
+TRAPS
+classes/org/slf4j/ILoggerFactory.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/slf4j/Logger.members.trap.gz

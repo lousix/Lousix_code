@@ -1,0 +1,8 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/thymeleaf/cache/ICacheEntryValidity.members/ICacheEntryValidity.members#52.0-1670321336000-java.trap.gz
+
+TRAPS
+classes/org/thymeleaf/cache/ICacheEntryValidity.members.trap.gz
+classes/java/lang/Object.members.trap.gz

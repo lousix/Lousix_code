@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/java/awt/BufferCapabilities.members/BufferCapabilities.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/java/awt/BufferCapabilities.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/awt/BufferCapabilities$FlipContents.members.trap.gz
+classes/java/awt/ImageCapabilities.members.trap.gz

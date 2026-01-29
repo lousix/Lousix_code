@@ -1,0 +1,16 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/security/web/authentication/preauth/PreAuthenticatedGrantedAuthoritiesWebAuthenticationDetails.members/PreAuthenticatedGrantedAuthoritiesWebAuthenticationDetails.members#61.0-1697442088000-java.trap.gz
+
+TRAPS
+classes/org/springframework/security/web/authentication/preauth/PreAuthenticatedGrantedAuthoritiesWebAuthenticationDetails.members.trap.gz
+classes/org/springframework/security/web/authentication/WebAuthenticationDetails.members.trap.gz
+classes/org/springframework/security/core/authority/GrantedAuthoritiesContainer.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/util/List.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/springframework/security/core/GrantedAuthority.members.trap.gz
+classes/jakarta/servlet/http/HttpServletRequest.members.trap.gz

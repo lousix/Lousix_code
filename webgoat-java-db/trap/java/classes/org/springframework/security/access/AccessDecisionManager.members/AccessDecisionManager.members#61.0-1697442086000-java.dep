@@ -1,0 +1,24 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/security/access/AccessDecisionManager.members/AccessDecisionManager.members#61.0-1697442086000-java.trap.gz
+
+TRAPS
+classes/org/springframework/security/access/AccessDecisionManager.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Deprecated.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Class.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/java/lang/reflect/GenericDeclaration.members.trap.gz
+classes/java/lang/reflect/Type.members.trap.gz
+classes/java/lang/reflect/AnnotatedElement.members.trap.gz
+classes/java/lang/invoke/TypeDescriptor$OfField.members.trap.gz
+classes/java/lang/invoke/TypeDescriptor.members.trap.gz
+classes/java/lang/constant/Constable.members.trap.gz
+classes/org/springframework/security/access/ConfigAttribute.members.trap.gz
+classes/org/springframework/security/core/Authentication.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/org/springframework/security/access/AccessDeniedException.members.trap.gz
+classes/org/springframework/security/authentication/InsufficientAuthenticationException.members.trap.gz

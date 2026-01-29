@@ -1,0 +1,13 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/security/config/annotation/web/configuration/SpringWebMvcImportSelector.members/SpringWebMvcImportSelector.members#61.0-1697442116000-java.trap.gz
+
+TRAPS
+classes/org/springframework/security/config/annotation/web/configuration/SpringWebMvcImportSelector.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/springframework/context/annotation/ImportSelector.members.trap.gz
+classes/org/springframework/core/type/AnnotationMetadata.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz

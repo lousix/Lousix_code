@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/context/PayloadApplicationEvent.members/PayloadApplicationEvent.members#61.0-1697073480000-java.trap.gz
+
+TRAPS
+classes/org/springframework/context/PayloadApplicationEvent.members.trap.gz
+classes/org/springframework/context/ApplicationEvent.members.trap.gz
+classes/org/springframework/core/ResolvableTypeProvider.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/springframework/core/ResolvableType.members.trap.gz
+classes/org/springframework/lang/Nullable.members.trap.gz

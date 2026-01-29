@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/javax/xml/stream/StreamFilter.members/StreamFilter.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/javax/xml/stream/StreamFilter.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/javax/xml/stream/XMLStreamReader.members.trap.gz

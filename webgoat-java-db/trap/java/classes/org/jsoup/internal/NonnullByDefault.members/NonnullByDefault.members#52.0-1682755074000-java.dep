@@ -1,0 +1,18 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/jsoup/internal/NonnullByDefault.members/NonnullByDefault.members#52.0-1682755074000-java.trap.gz
+
+TRAPS
+classes/org/jsoup/internal/NonnullByDefault.members.trap.gz
+classes/java/lang/annotation/Annotation.members.trap.gz
+classes/java/lang/annotation/Documented.members.trap.gz
+classes/java/lang/annotation/Retention.members.trap.gz
+classes/java/lang/annotation/RetentionPolicy.members.trap.gz
+classes/javax/annotation/Nonnull.members.trap.gz
+classes/javax/annotation/meta/When.members.trap.gz
+classes/javax/annotation/meta/TypeQualifierDefault.members.trap.gz
+classes/java/lang/annotation/ElementType.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz

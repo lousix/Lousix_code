@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/util/FileSystemUtils.members/FileSystemUtils.members#61.0-1697073474000-java.trap.gz
+
+TRAPS
+classes/org/springframework/util/FileSystemUtils.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/nio/file/Path.members.trap.gz
+classes/java/io/IOException.members.trap.gz
+classes/java/io/File.members.trap.gz
+classes/org/springframework/lang/Nullable.members.trap.gz

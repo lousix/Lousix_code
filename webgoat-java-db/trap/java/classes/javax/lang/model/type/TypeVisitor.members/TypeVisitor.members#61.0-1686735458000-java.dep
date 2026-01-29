@@ -1,0 +1,20 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/javax/lang/model/type/TypeVisitor.members/TypeVisitor.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/javax/lang/model/type/TypeVisitor.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/javax/lang/model/type/IntersectionType.members.trap.gz
+classes/javax/lang/model/type/UnionType.members.trap.gz
+classes/javax/lang/model/type/TypeMirror.members.trap.gz
+classes/javax/lang/model/type/NoType.members.trap.gz
+classes/javax/lang/model/type/ExecutableType.members.trap.gz
+classes/javax/lang/model/type/WildcardType.members.trap.gz
+classes/javax/lang/model/type/TypeVariable.members.trap.gz
+classes/javax/lang/model/type/ErrorType.members.trap.gz
+classes/javax/lang/model/type/DeclaredType.members.trap.gz
+classes/javax/lang/model/type/ArrayType.members.trap.gz
+classes/javax/lang/model/type/NullType.members.trap.gz
+classes/javax/lang/model/type/PrimitiveType.members.trap.gz

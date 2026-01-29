@@ -1,0 +1,8 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/flywaydb/core/internal/parser/PositionTracker.members/PositionTracker.members#52.0-1680592640000-java.trap.gz
+
+TRAPS
+classes/org/flywaydb/core/internal/parser/PositionTracker.members.trap.gz
+classes/java/lang/Object.members.trap.gz

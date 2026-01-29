@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/jakarta/servlet/AsyncListener.members/AsyncListener.members#55.0-1652311148000-java.trap.gz
+
+TRAPS
+classes/jakarta/servlet/AsyncListener.members.trap.gz
+classes/java/util/EventListener.members.trap.gz
+classes/jakarta/servlet/AsyncEvent.members.trap.gz
+classes/java/io/IOException.members.trap.gz

@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/asciidoctor/ast/ListItem.members/ListItem.members#52.0-1685860890000-java.trap.gz
+
+TRAPS
+classes/org/asciidoctor/ast/ListItem.members.trap.gz
+classes/org/asciidoctor/ast/StructuralNode.members.trap.gz
+classes/java/lang/String.members.trap.gz

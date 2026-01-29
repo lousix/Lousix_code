@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/com/google/common/collect/RangeGwtSerializationDependencies.members/RangeGwtSerializationDependencies.members#52.0-318182400000-java.trap.gz
+
+TRAPS
+classes/com/google/common/collect/RangeGwtSerializationDependencies.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/java/lang/Comparable.members.trap.gz
+classes/com/google/common/annotations/GwtCompatible.members.trap.gz

@@ -1,0 +1,13 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/jose4j/jwa/AlgorithmConstraints.members/AlgorithmConstraints.members#51.0-1675830734000-java.trap.gz
+
+TRAPS
+classes/org/jose4j/jwa/AlgorithmConstraints.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/jose4j/lang/InvalidAlgorithmException.members.trap.gz
+classes/org/jose4j/jwa/AlgorithmConstraints$ConstraintType.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz

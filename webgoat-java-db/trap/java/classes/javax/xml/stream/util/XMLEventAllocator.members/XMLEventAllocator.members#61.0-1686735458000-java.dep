@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/javax/xml/stream/util/XMLEventAllocator.members/XMLEventAllocator.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/javax/xml/stream/util/XMLEventAllocator.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/javax/xml/stream/XMLStreamReader.members.trap.gz
+classes/javax/xml/stream/util/XMLEventConsumer.members.trap.gz
+classes/javax/xml/stream/XMLStreamException.members.trap.gz
+classes/javax/xml/stream/events/XMLEvent.members.trap.gz

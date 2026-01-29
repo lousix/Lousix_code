@@ -1,0 +1,21 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/thymeleaf/engine/TemplateManager.members/TemplateManager.members#52.0-1670321336000-java.trap.gz
+
+TRAPS
+classes/org/thymeleaf/engine/TemplateManager.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/thymeleaf/TemplateSpec.members.trap.gz
+classes/org/thymeleaf/context/IContext.members.trap.gz
+classes/org/thymeleaf/engine/ThrottledTemplateProcessor.members.trap.gz
+classes/java/io/Writer.members.trap.gz
+classes/org/thymeleaf/engine/TemplateModel.members.trap.gz
+classes/org/thymeleaf/context/ITemplateContext.members.trap.gz
+classes/org/thymeleaf/engine/TemplateData.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/thymeleaf/templatemode/TemplateMode.members.trap.gz
+classes/java/util/Set.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/org/thymeleaf/IEngineConfiguration.members.trap.gz

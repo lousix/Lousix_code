@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/thymeleaf/templateresolver/TemplateResolution.members/TemplateResolution.members#52.0-1670321336000-java.trap.gz
+
+TRAPS
+classes/org/thymeleaf/templateresolver/TemplateResolution.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/thymeleaf/cache/ICacheEntryValidity.members.trap.gz
+classes/org/thymeleaf/templatemode/TemplateMode.members.trap.gz
+classes/org/thymeleaf/templateresource/ITemplateResource.members.trap.gz

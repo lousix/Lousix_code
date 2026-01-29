@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/thymeleaf/model/ICDATASection.members/ICDATASection.members#52.0-1670321336000-java.trap.gz
+
+TRAPS
+classes/org/thymeleaf/model/ICDATASection.members.trap.gz
+classes/org/thymeleaf/model/ITemplateEvent.members.trap.gz
+classes/java/lang/CharSequence.members.trap.gz
+classes/java/lang/String.members.trap.gz

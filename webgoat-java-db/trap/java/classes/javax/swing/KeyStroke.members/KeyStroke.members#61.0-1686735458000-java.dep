@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/javax/swing/KeyStroke.members/KeyStroke.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/javax/swing/KeyStroke.members.trap.gz
+classes/java/awt/AWTKeyStroke.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/awt/event/KeyEvent.members.trap.gz
+classes/java/lang/Character.members.trap.gz
+classes/java/lang/Deprecated.members.trap.gz

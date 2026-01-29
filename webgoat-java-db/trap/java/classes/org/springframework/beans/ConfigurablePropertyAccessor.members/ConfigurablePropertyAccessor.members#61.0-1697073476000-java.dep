@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/beans/ConfigurablePropertyAccessor.members/ConfigurablePropertyAccessor.members#61.0-1697073476000-java.trap.gz
+
+TRAPS
+classes/org/springframework/beans/ConfigurablePropertyAccessor.members.trap.gz
+classes/org/springframework/beans/PropertyAccessor.members.trap.gz
+classes/org/springframework/beans/PropertyEditorRegistry.members.trap.gz
+classes/org/springframework/beans/TypeConverter.members.trap.gz
+classes/org/springframework/core/convert/ConversionService.members.trap.gz
+classes/org/springframework/lang/Nullable.members.trap.gz

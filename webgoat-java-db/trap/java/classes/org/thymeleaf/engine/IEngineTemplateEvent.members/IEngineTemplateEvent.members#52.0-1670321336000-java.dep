@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/thymeleaf/engine/IEngineTemplateEvent.members/IEngineTemplateEvent.members#52.0-1670321336000-java.trap.gz
+
+TRAPS
+classes/org/thymeleaf/engine/IEngineTemplateEvent.members.trap.gz
+classes/org/thymeleaf/model/ITemplateEvent.members.trap.gz
+classes/org/thymeleaf/engine/ITemplateHandler.members.trap.gz

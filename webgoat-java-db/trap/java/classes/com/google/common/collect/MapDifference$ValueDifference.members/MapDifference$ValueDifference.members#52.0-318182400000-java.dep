@@ -1,0 +1,13 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/com/google/common/collect/MapDifference$ValueDifference.members/MapDifference$ValueDifference.members#52.0-318182400000-java.trap.gz
+
+TRAPS
+classes/com/google/common/collect/MapDifference$ValueDifference.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/com/google/common/collect/MapDifference.members.trap.gz
+classes/com/google/errorprone/annotations/DoNotMock.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/javax/annotation/CheckForNull.members.trap.gz
+classes/com/google/common/collect/ParametricNullness.members.trap.gz

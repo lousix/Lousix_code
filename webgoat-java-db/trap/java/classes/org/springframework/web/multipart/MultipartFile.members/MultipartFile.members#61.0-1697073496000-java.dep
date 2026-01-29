@@ -1,0 +1,19 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/web/multipart/MultipartFile.members/MultipartFile.members#61.0-1697073496000-java.trap.gz
+
+TRAPS
+classes/org/springframework/web/multipart/MultipartFile.members.trap.gz
+classes/org/springframework/core/io/InputStreamSource.members.trap.gz
+classes/java/nio/file/Path.members.trap.gz
+classes/java/io/IOException.members.trap.gz
+classes/java/lang/IllegalStateException.members.trap.gz
+classes/java/io/File.members.trap.gz
+classes/org/springframework/core/io/Resource.members.trap.gz
+classes/java/io/InputStream.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/springframework/lang/Nullable.members.trap.gz

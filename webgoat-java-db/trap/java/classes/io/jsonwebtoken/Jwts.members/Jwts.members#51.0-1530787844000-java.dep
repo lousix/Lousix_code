@@ -1,0 +1,15 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/io/jsonwebtoken/Jwts.members/Jwts.members#51.0-1530787844000-java.trap.gz
+
+TRAPS
+classes/io/jsonwebtoken/Jwts.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/io/jsonwebtoken/JwtBuilder.members.trap.gz
+classes/io/jsonwebtoken/JwtParser.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/util/Map.members.trap.gz
+classes/io/jsonwebtoken/Claims.members.trap.gz
+classes/io/jsonwebtoken/JwsHeader.members.trap.gz
+classes/io/jsonwebtoken/Header.members.trap.gz

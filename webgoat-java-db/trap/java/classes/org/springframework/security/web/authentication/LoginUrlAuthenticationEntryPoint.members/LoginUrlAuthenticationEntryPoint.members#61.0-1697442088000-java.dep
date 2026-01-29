@@ -1,0 +1,18 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/security/web/authentication/LoginUrlAuthenticationEntryPoint.members/LoginUrlAuthenticationEntryPoint.members#61.0-1697442088000-java.trap.gz
+
+TRAPS
+classes/org/springframework/security/web/authentication/LoginUrlAuthenticationEntryPoint.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/springframework/security/web/AuthenticationEntryPoint.members.trap.gz
+classes/org/springframework/beans/factory/InitializingBean.members.trap.gz
+classes/org/springframework/security/web/PortResolver.members.trap.gz
+classes/org/springframework/security/web/PortMapper.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/jakarta/servlet/http/HttpServletRequest.members.trap.gz
+classes/java/io/IOException.members.trap.gz
+classes/jakarta/servlet/ServletException.members.trap.gz
+classes/jakarta/servlet/http/HttpServletResponse.members.trap.gz
+classes/org/springframework/security/core/AuthenticationException.members.trap.gz

@@ -1,0 +1,14 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/jsoup/nodes/LeafNode.members/LeafNode.members#52.0-1682755074000-java.trap.gz
+
+TRAPS
+classes/org/jsoup/nodes/LeafNode.members.trap.gz
+classes/org/jsoup/nodes/Node.members.trap.gz
+classes/java/util/List.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/jsoup/nodes/Attributes.members.trap.gz

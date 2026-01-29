@@ -1,0 +1,13 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/jakarta/servlet/http/Part.members/Part.members#55.0-1652311150000-java.trap.gz
+
+TRAPS
+classes/jakarta/servlet/http/Part.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/io/IOException.members.trap.gz
+classes/java/io/InputStream.members.trap.gz

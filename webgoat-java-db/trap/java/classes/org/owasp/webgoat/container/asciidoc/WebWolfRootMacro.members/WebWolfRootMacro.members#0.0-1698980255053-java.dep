@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/owasp/webgoat/container/asciidoc/WebWolfRootMacro.members/WebWolfRootMacro.members#0.0-1698980255053-java.trap.gz
+
+TRAPS
+classes/org/owasp/webgoat/container/asciidoc/WebWolfRootMacro.members.trap.gz
+classes/org/owasp/webgoat/container/asciidoc/WebWolfMacro.members.trap.gz
+classes/java/lang/Override.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/util/Map.members.trap.gz

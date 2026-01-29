@@ -1,0 +1,14 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/jsoup/nodes/Entities.members/Entities.members#52.0-1682755074000-java.trap.gz
+
+TRAPS
+classes/org/jsoup/nodes/Entities.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Appendable.members.trap.gz
+classes/org/jsoup/nodes/Document$OutputSettings.members.trap.gz
+classes/java/io/IOException.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz

@@ -1,0 +1,16 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/java/awt/Canvas.members/Canvas.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/java/awt/Canvas.members.trap.gz
+classes/java/awt/Component.members.trap.gz
+classes/javax/accessibility/Accessible.members.trap.gz
+classes/javax/accessibility/AccessibleContext.members.trap.gz
+classes/java/awt/image/BufferStrategy.members.trap.gz
+classes/java/awt/BufferCapabilities.members.trap.gz
+classes/java/awt/AWTException.members.trap.gz
+classes/java/awt/Graphics.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/awt/GraphicsConfiguration.members.trap.gz

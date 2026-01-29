@@ -1,0 +1,8 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/sun/java2d/cmm/Profile.members/Profile.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/sun/java2d/cmm/Profile.members.trap.gz
+classes/java/lang/Object.members.trap.gz

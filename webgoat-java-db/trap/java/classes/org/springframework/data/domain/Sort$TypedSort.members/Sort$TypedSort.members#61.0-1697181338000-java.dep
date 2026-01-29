@@ -1,0 +1,20 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/data/domain/Sort$TypedSort.members/Sort$TypedSort.members#61.0-1697181338000-java.trap.gz
+
+TRAPS
+classes/org/springframework/data/domain/Sort$TypedSort.members.trap.gz
+classes/org/springframework/data/domain/Sort.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/util/Iterator.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/springframework/data/domain/Sort$Order.members.trap.gz
+classes/org/springframework/data/util/MethodInvocationRecorder$Recorded$ToMapConverter.members.trap.gz
+classes/java/util/function/Function.members.trap.gz
+classes/java/lang/FunctionalInterface.members.trap.gz
+classes/org/springframework/data/util/MethodInvocationRecorder$Recorded.members.trap.gz
+classes/java/util/Map.members.trap.gz
+classes/org/springframework/data/util/MethodInvocationRecorder$Recorded$ToCollectionConverter.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz

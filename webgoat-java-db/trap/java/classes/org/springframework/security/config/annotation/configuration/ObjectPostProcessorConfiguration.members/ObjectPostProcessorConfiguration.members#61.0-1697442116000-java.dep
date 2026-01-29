@@ -1,0 +1,16 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/security/config/annotation/configuration/ObjectPostProcessorConfiguration.members/ObjectPostProcessorConfiguration.members#61.0-1697442116000-java.trap.gz
+
+TRAPS
+classes/org/springframework/security/config/annotation/configuration/ObjectPostProcessorConfiguration.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/springframework/context/annotation/Configuration.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/springframework/context/annotation/Role.members.trap.gz
+classes/org/springframework/beans/factory/config/AutowireCapableBeanFactory.members.trap.gz
+classes/org/springframework/security/config/annotation/ObjectPostProcessor.members.trap.gz
+classes/org/springframework/context/annotation/Bean.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz

@@ -1,0 +1,26 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/security/config/annotation/web/configurers/X509Configurer.members/X509Configurer.members#61.0-1697442116000-java.trap.gz
+
+TRAPS
+classes/org/springframework/security/config/annotation/web/configurers/X509Configurer.members.trap.gz
+classes/org/springframework/security/config/annotation/web/configurers/AbstractHttpConfigurer.members.trap.gz
+classes/org/springframework/security/web/DefaultSecurityFilterChain.members.trap.gz
+classes/org/springframework/security/config/annotation/SecurityConfigurerAdapter.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/springframework/security/config/annotation/SecurityConfigurer.members.trap.gz
+classes/java/lang/Exception.members.trap.gz
+classes/org/springframework/security/config/annotation/ObjectPostProcessor.members.trap.gz
+classes/org/springframework/security/config/annotation/SecurityBuilder.members.trap.gz
+classes/org/springframework/security/config/annotation/web/HttpSecurityBuilder.members.trap.gz
+classes/org/springframework/security/core/context/SecurityContextHolderStrategy.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/springframework/security/web/authentication/preauth/PreAuthenticatedAuthenticationToken.members.trap.gz
+classes/org/springframework/security/core/userdetails/AuthenticationUserDetailsService.members.trap.gz
+classes/org/springframework/security/core/userdetails/UserDetailsService.members.trap.gz
+classes/jakarta/servlet/http/HttpServletRequest.members.trap.gz
+classes/org/springframework/security/web/authentication/preauth/PreAuthenticatedGrantedAuthoritiesWebAuthenticationDetails.members.trap.gz
+classes/org/springframework/security/authentication/AuthenticationDetailsSource.members.trap.gz
+classes/org/springframework/security/web/authentication/preauth/x509/X509PrincipalExtractor.members.trap.gz
+classes/org/springframework/security/web/authentication/preauth/x509/X509AuthenticationFilter.members.trap.gz

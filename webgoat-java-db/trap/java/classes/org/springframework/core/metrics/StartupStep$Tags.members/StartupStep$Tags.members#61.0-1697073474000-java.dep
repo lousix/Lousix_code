@@ -1,0 +1,15 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/core/metrics/StartupStep$Tags.members/StartupStep$Tags.members#61.0-1697073474000-java.trap.gz
+
+TRAPS
+classes/org/springframework/core/metrics/StartupStep$Tags.members.trap.gz
+classes/org/springframework/core/metrics/StartupStep$Tag.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/util/Spliterator.members.trap.gz
+classes/java/util/function/Consumer.members.trap.gz
+classes/java/lang/FunctionalInterface.members.trap.gz
+classes/java/util/Iterator.members.trap.gz
+classes/org/springframework/core/metrics/StartupStep.members.trap.gz

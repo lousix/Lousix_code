@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/jdk/internal/access/foreign/MemorySegmentProxy.members/MemorySegmentProxy.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/jdk/internal/access/foreign/MemorySegmentProxy.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/jdk/internal/misc/ScopedMemoryAccess$Scope.members.trap.gz

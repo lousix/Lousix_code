@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/jakarta/validation/ConstraintValidatorContext$ConstraintViolationBuilder$LeafNodeBuilderDefinedContext.members/ConstraintValidatorContext$ConstraintViolationBuilder$LeafNodeBuilderDefinedContext.members#52.0-1653559272000-java.trap.gz
+
+TRAPS
+classes/jakarta/validation/ConstraintValidatorContext$ConstraintViolationBuilder$LeafNodeBuilderDefinedContext.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/jakarta/validation/ConstraintValidatorContext$ConstraintViolationBuilder.members.trap.gz
+classes/jakarta/validation/ConstraintValidatorContext.members.trap.gz

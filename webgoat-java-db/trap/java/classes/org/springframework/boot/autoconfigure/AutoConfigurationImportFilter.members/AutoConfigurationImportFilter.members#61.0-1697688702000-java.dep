@@ -1,0 +1,13 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/boot/autoconfigure/AutoConfigurationImportFilter.members/AutoConfigurationImportFilter.members#61.0-1697688702000-java.trap.gz
+
+TRAPS
+classes/org/springframework/boot/autoconfigure/AutoConfigurationImportFilter.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/FunctionalInterface.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/org/springframework/boot/autoconfigure/AutoConfigurationMetadata.members.trap.gz

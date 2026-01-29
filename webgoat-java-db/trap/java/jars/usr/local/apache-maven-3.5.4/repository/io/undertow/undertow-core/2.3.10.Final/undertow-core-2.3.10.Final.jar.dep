@@ -1,0 +1,6 @@
+TRAP dependencies 1.2
+
+TRAP
+jars/usr/local/apache-maven-3.5.4/repository/io/undertow/undertow-core/2.3.10.Final/undertow-core-2.3.10.Final.jar.trap.gz
+
+TRAPS

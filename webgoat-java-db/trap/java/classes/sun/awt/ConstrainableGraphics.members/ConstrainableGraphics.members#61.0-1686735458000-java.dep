@@ -1,0 +1,8 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/sun/awt/ConstrainableGraphics.members/ConstrainableGraphics.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/sun/awt/ConstrainableGraphics.members.trap.gz
+classes/java/lang/Object.members.trap.gz

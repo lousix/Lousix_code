@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/owasp/webgoat/container/session/UserSessionData.members/UserSessionData.members#0.0-1698980255057-java.trap.gz
+
+TRAPS
+classes/org/owasp/webgoat/container/session/UserSessionData.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz

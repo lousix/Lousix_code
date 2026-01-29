@@ -1,0 +1,17 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/io/micrometer/observation/transport/RequestReplySenderContext.members/RequestReplySenderContext.members#52.0-1696891762000-java.trap.gz
+
+TRAPS
+classes/io/micrometer/observation/transport/RequestReplySenderContext.members.trap.gz
+classes/io/micrometer/observation/transport/SenderContext.members.trap.gz
+classes/io/micrometer/observation/Observation$Context.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/io/micrometer/observation/transport/Kind.members.trap.gz
+classes/io/micrometer/observation/transport/Propagator$Setter.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/io/micrometer/observation/transport/Propagator.members.trap.gz
+classes/io/micrometer/observation/transport/ResponseContext.members.trap.gz
+classes/io/micrometer/common/lang/Nullable.members.trap.gz
+classes/io/micrometer/common/lang/NonNull.members.trap.gz

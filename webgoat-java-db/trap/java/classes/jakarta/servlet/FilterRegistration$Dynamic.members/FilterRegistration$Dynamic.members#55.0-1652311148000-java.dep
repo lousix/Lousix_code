@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/jakarta/servlet/FilterRegistration$Dynamic.members/FilterRegistration$Dynamic.members#55.0-1652311148000-java.trap.gz
+
+TRAPS
+classes/jakarta/servlet/FilterRegistration$Dynamic.members.trap.gz
+classes/jakarta/servlet/FilterRegistration.members.trap.gz
+classes/jakarta/servlet/Registration$Dynamic.members.trap.gz

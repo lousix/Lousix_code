@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/jdbc/core/namedparam/AbstractSqlParameterSource.members/AbstractSqlParameterSource.members#61.0-1697073494000-java.trap.gz
+
+TRAPS
+classes/org/springframework/jdbc/core/namedparam/AbstractSqlParameterSource.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/springframework/jdbc/core/namedparam/SqlParameterSource.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/springframework/lang/Nullable.members.trap.gz

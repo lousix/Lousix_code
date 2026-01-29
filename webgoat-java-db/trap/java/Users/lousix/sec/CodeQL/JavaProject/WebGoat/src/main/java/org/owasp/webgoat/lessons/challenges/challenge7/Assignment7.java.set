@@ -1,0 +1,18 @@
+TRAP dependencies 1.2
+
+SOURCES
+
+INCLUDES
+
+OBJECTS
+
+INPUT_OBJECTS
+
+TRAPS
+Users/lousix/sec/CodeQL/JavaProject/WebGoat/src/main/java/org/owasp/webgoat/lessons/challenges/challenge7/Assignment7.java.trap.gz
+classes/org/owasp/webgoat/lessons/challenges/Email.members/Email.members#0.0-1698980255059-java.trap.gz
+classes/org/owasp/webgoat/lessons/challenges/challenge7/Assignment7.members/Assignment7.members#0.0-1698980255060-java.trap.gz
+classes/org/owasp/webgoat/lessons/challenges/Email$EmailBuilder.members/Email$EmailBuilder.members#0.0-1698980255059-java.trap.gz
+classes/org/owasp/webgoat/lessons/challenges/challenge7/PasswordResetLink.members/PasswordResetLink.members#0.0-1698980255060-java.trap.gz
+modules/java.base.trap.gz
+jars/usr/local/apache-maven-3.5.4/repository/org/springframework/spring-web/6.0.13/spring-web-6.0.13.jar.trap.gz

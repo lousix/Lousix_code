@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/boot/SpringApplicationShutdownHandlers.members/SpringApplicationShutdownHandlers.members#61.0-1697688670000-java.trap.gz
+
+TRAPS
+classes/org/springframework/boot/SpringApplicationShutdownHandlers.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Runnable.members.trap.gz

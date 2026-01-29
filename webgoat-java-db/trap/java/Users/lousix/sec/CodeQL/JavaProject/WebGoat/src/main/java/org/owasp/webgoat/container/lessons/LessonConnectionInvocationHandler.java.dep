@@ -1,0 +1,22 @@
+TRAP dependencies 1.2
+
+TRAP
+Users/lousix/sec/CodeQL/JavaProject/WebGoat/src/main/java/org/owasp/webgoat/container/lessons/LessonConnectionInvocationHandler.java.trap.gz
+
+TRAPS
+classes/java/lang/reflect/InvocationHandler.members.trap.gz
+classes/java/lang/reflect/InvocationTargetException.members.trap.gz
+classes/java/lang/reflect/Method.members.trap.gz
+classes/java/sql/Connection.members.trap.gz
+classes/org/owasp/webgoat/container/users/WebGoatUser.members.trap.gz
+classes/org/springframework/security/core/context/SecurityContextHolder.members.trap.gz
+classes/org/owasp/webgoat/container/lessons/LessonConnectionInvocationHandler.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/java/lang/Override.members.trap.gz
+classes/java/lang/Throwable.members.trap.gz
+classes/org/springframework/security/core/Authentication.members.trap.gz
+classes/org/springframework/security/core/context/SecurityContext.members.trap.gz
+classes/java/sql/Statement.members.trap.gz
+classes/java/lang/String.members.trap.gz

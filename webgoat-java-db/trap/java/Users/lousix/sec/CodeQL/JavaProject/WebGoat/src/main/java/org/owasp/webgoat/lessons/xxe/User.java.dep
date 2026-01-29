@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+Users/lousix/sec/CodeQL/JavaProject/WebGoat/src/main/java/org/owasp/webgoat/lessons/xxe/User.java.trap.gz
+
+TRAPS
+classes/javax/xml/bind/annotation/XmlRootElement.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/owasp/webgoat/lessons/xxe/User.members.trap.gz
+classes/java/lang/Object.members.trap.gz

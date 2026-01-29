@@ -98,8 +98,8 @@ Task: 追踪数据流
 输入:
   - sink_points.json（来自sink分析）
   - project_info.json
-  - 使用CodeQL进行数据流分析
   - 使用LSP进行符号追踪
+  - 使用CodeQL进行数据流分析
 
 期望输出:
   - dataflow_paths.json（包含source→sink的数据流路径）

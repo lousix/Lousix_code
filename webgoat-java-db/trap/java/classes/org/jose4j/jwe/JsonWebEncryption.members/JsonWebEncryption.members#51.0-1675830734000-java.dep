@@ -1,0 +1,19 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/jose4j/jwe/JsonWebEncryption.members/JsonWebEncryption.members#51.0-1675830734000-java.trap.gz
+
+TRAPS
+classes/org/jose4j/jwe/JsonWebEncryption.members.trap.gz
+classes/org/jose4j/jwx/JsonWebStructure.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/org/jose4j/lang/JoseException.members.trap.gz
+classes/org/jose4j/jwx/Headers.members.trap.gz
+classes/org/jose4j/lang/InvalidAlgorithmException.members.trap.gz
+classes/org/jose4j/jwa/CryptoPrimitive.members.trap.gz
+classes/org/jose4j/jwe/KeyManagementAlgorithm.members.trap.gz
+classes/org/jose4j/jwe/ContentEncryptionAlgorithm.members.trap.gz
+classes/org/jose4j/jwa/AlgorithmConstraints.members.trap.gz

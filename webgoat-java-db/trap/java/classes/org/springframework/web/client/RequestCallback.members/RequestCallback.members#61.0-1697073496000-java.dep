@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/web/client/RequestCallback.members/RequestCallback.members#61.0-1697073496000-java.trap.gz
+
+TRAPS
+classes/org/springframework/web/client/RequestCallback.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/FunctionalInterface.members.trap.gz
+classes/org/springframework/http/client/ClientHttpRequest.members.trap.gz
+classes/java/io/IOException.members.trap.gz

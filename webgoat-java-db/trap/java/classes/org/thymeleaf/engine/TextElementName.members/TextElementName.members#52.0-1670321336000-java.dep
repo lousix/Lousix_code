@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/thymeleaf/engine/TextElementName.members/TextElementName.members#52.0-1670321336000-java.trap.gz
+
+TRAPS
+classes/org/thymeleaf/engine/TextElementName.members.trap.gz
+classes/org/thymeleaf/engine/ElementName.members.trap.gz
+classes/java/lang/String.members.trap.gz

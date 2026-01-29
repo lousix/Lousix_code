@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/sun/java2d/Disposer.members/Disposer.members#61.0-1686735458000-java.trap.gz
+
+TRAPS
+classes/sun/java2d/Disposer.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Runnable.members.trap.gz
+classes/java/lang/ref/ReferenceQueue.members.trap.gz
+classes/sun/java2d/DisposerRecord.members.trap.gz
+classes/java/lang/ref/Reference.members.trap.gz

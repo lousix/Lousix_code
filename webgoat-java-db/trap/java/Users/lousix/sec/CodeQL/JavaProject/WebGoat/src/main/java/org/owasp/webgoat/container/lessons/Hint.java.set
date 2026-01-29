@@ -1,0 +1,15 @@
+TRAP dependencies 1.2
+
+SOURCES
+
+INCLUDES
+
+OBJECTS
+
+INPUT_OBJECTS
+
+TRAPS
+Users/lousix/sec/CodeQL/JavaProject/WebGoat/src/main/java/org/owasp/webgoat/container/lessons/Hint.java.trap.gz
+classes/lombok/Value.members/Value.members#50.0-1695153928000-java.trap.gz
+classes/org/owasp/webgoat/container/lessons/Hint.members/Hint.members#0.0-1698980255055-java.trap.gz
+jars/usr/local/apache-maven-3.5.4/repository/org/projectlombok/lombok/1.18.30/lombok-1.18.30.jar.trap.gz

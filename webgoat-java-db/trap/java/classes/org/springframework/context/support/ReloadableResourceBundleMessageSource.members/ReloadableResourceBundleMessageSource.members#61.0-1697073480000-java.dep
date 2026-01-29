@@ -1,0 +1,23 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/context/support/ReloadableResourceBundleMessageSource.members/ReloadableResourceBundleMessageSource.members#61.0-1697073480000-java.trap.gz
+
+TRAPS
+classes/org/springframework/context/support/ReloadableResourceBundleMessageSource.members.trap.gz
+classes/org/springframework/context/support/AbstractResourceBasedMessageSource.members.trap.gz
+classes/org/springframework/context/ResourceLoaderAware.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/util/Properties.members.trap.gz
+classes/org/springframework/core/io/Resource.members.trap.gz
+classes/java/io/IOException.members.trap.gz
+classes/org/springframework/context/support/ReloadableResourceBundleMessageSource$PropertiesHolder.members.trap.gz
+classes/org/springframework/lang/Nullable.members.trap.gz
+classes/java/util/Locale.members.trap.gz
+classes/java/util/List.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/text/MessageFormat.members.trap.gz
+classes/org/springframework/core/io/ResourceLoader.members.trap.gz
+classes/org/springframework/util/PropertiesPersister.members.trap.gz

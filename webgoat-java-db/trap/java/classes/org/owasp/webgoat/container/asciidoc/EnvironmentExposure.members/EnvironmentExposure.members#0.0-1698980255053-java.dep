@@ -1,0 +1,15 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/owasp/webgoat/container/asciidoc/EnvironmentExposure.members/EnvironmentExposure.members#0.0-1698980255053-java.trap.gz
+
+TRAPS
+classes/org/owasp/webgoat/container/asciidoc/EnvironmentExposure.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/springframework/context/ApplicationContextAware.members.trap.gz
+classes/org/springframework/stereotype/Component.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/springframework/context/ApplicationContext.members.trap.gz
+classes/java/lang/Override.members.trap.gz
+classes/org/springframework/beans/BeansException.members.trap.gz
+classes/org/springframework/core/env/Environment.members.trap.gz

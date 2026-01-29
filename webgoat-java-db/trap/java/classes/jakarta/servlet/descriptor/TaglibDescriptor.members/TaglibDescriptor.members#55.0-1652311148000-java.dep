@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/jakarta/servlet/descriptor/TaglibDescriptor.members/TaglibDescriptor.members#55.0-1652311148000-java.trap.gz
+
+TRAPS
+classes/jakarta/servlet/descriptor/TaglibDescriptor.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz

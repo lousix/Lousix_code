@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/flywaydb/core/internal/jdbc/JdbcConnectionFactory$ConnectionInitializer.members/JdbcConnectionFactory$ConnectionInitializer.members#52.0-1680592640000-java.trap.gz
+
+TRAPS
+classes/org/flywaydb/core/internal/jdbc/JdbcConnectionFactory$ConnectionInitializer.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/flywaydb/core/internal/jdbc/JdbcConnectionFactory.members.trap.gz
+classes/java/sql/Connection.members.trap.gz

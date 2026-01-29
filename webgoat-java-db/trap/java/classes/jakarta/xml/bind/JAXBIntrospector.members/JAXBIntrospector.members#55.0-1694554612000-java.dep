@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/jakarta/xml/bind/JAXBIntrospector.members/JAXBIntrospector.members#55.0-1694554612000-java.trap.gz
+
+TRAPS
+classes/jakarta/xml/bind/JAXBIntrospector.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/javax/xml/namespace/QName.members.trap.gz

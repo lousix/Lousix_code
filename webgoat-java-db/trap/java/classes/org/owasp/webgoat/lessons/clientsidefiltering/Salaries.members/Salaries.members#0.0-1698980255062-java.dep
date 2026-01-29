@@ -1,0 +1,20 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/owasp/webgoat/lessons/clientsidefiltering/Salaries.members/Salaries.members#0.0-1698980255062-java.trap.gz
+
+TRAPS
+classes/org/owasp/webgoat/lessons/clientsidefiltering/Salaries.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/lombok/extern/slf4j/Slf4j.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/springframework/web/bind/annotation/RestController.members.trap.gz
+classes/java/util/List.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/java/util/Map.members.trap.gz
+classes/org/springframework/web/bind/annotation/GetMapping.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/org/springframework/web/bind/annotation/ResponseBody.members.trap.gz
+classes/jakarta/annotation/PostConstruct.members.trap.gz

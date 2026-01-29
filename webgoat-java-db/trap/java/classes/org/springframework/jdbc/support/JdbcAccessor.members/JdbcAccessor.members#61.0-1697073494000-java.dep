@@ -1,0 +1,14 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/springframework/jdbc/support/JdbcAccessor.members/JdbcAccessor.members#61.0-1697073494000-java.trap.gz
+
+TRAPS
+classes/org/springframework/jdbc/support/JdbcAccessor.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/springframework/beans/factory/InitializingBean.members.trap.gz
+classes/org/springframework/jdbc/support/SQLExceptionTranslator.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/javax/sql/DataSource.members.trap.gz
+classes/org/springframework/lang/Nullable.members.trap.gz
+classes/org/apache/commons/logging/Log.members.trap.gz

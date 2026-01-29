@@ -1,0 +1,20 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/org/thymeleaf/engine/Attributes.members/Attributes.members#52.0-1670321336000-java.trap.gz
+
+TRAPS
+classes/org/thymeleaf/engine/Attributes.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/io/Writer.members.trap.gz
+classes/java/io/IOException.members.trap.gz
+classes/org/thymeleaf/engine/AttributeName.members.trap.gz
+classes/org/thymeleaf/templatemode/TemplateMode.members.trap.gz
+classes/org/thymeleaf/engine/AttributeDefinitions.members.trap.gz
+classes/org/thymeleaf/engine/AttributeDefinition.members.trap.gz
+classes/org/thymeleaf/model/AttributeValueQuotes.members.trap.gz
+classes/java/util/Map.members.trap.gz
+classes/org/thymeleaf/engine/Attribute.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz

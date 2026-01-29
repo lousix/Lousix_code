@@ -1,0 +1,45 @@
+# OpenCode Vulnerability Discovery Workflow
+# Python依赖包
+
+# 代码分析
+ast==3.9.0
+astroid==3.0.0
+
+# 静态分析
+bandit==1.7.5
+pylint==3.0.0
+flake8==6.0.0
+mypy==1.5.0
+
+# LSP支持
+python-lsp-server==1.9.0
+python-lsp-jsonrpc==1.1.0
+
+# 代码解析
+tree-sitter==0.21.0
+pygments==2.16.0
+
+# 数据处理
+pandas==2.1.0
+numpy==1.25.0
+
+# 配置和日志
+pyyaml==6.0.1
+python-dotenv==1.0.0
+loguru==0.7.0
+
+# 网络请求
+requests==2.31.0
+
+# 并发处理
+concurrent-futures==3.1.1
+
+# 进度显示
+tqdm==4.66.0
+rich==13.5.0
+
+# JSON处理
+jsonschema==4.19.0
+
+# 工具库
+click==8.1.7

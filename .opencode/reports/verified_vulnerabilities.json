@@ -1,0 +1,12 @@
+{
+  "total_candidates": 0,
+  "verified_vulnerabilities": 0,
+  "false_positives": 0,
+  "by_severity": {
+    "Critical": 0,
+    "High": 0,
+    "Medium": 0,
+    "Low": 0
+  },
+  "vulnerabilities": []
+}

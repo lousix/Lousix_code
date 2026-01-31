@@ -2,6 +2,7 @@
 description: 测试脚本，测试codeql agent skill
 mode: primary
 permission:
+  "*" : allow
   read: allow
   write: allow
   grep: allow

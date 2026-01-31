@@ -86,7 +86,7 @@ def run_create_db(
     database: Path,
     source_root: Path,
     language: str,
-    command: str | None,
+    command: Optional[str],
     overwrite: bool,
     threads: int | None,
     codeql: str,

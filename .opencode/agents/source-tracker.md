@@ -37,16 +37,12 @@ CodeQL是强大的代码分析工具，可以进行精确的数据流分析。 s
 # 检查CodeQL是否已安装
 which codeql
 
-# 如果未安装，可以从GitHub下载
-# https://github.com/github/codeql-cli-binaries/releases
+# 如果未安装，就跳过
 ```
 
 #### 使用CodeQL进行数据流分析
 
 ```bash
-# 创建CodeQL数据库
-codeql database create my-database --language=python --source-root=.
-
 # 运行数据流查询
 codeql query run --database=my-database path/to/query.ql
 

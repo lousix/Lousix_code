@@ -64,7 +64,18 @@ permission:
 
 ### 1. 读取数据流路径
 
-从 `dataflow_paths.json` 读取所有候选路径。
+从 `dataflows/` 目录读取所有候选路径（per-sink输出）。
+
+输入（来自orchestrator）建议包含：
+
+- output_dir: 扫描输出根目录（包含 `dataflows/`、`sinks/`、`reports/` 等）
+- （可选）project_info_path: 用于补充项目与模块信息
+
+读取规则：
+
+- 只读取 `output_dir/dataflows/*.json`
+- 每个文件对应一个 `sink_id`
+- 文件中包含 `paths[]`（可能为空，表示未找到source路径或未尝试追踪）
 
 ### 2. 逐个路径分析
 
@@ -279,3 +290,5 @@ permission:
 ## 输出文件
 
 将验证结果保存到 `verified_vulnerabilities.json`。
+
+> 说明：当使用 per-sink dataflows 输出时，`original_path_id` 可以替换为 `{sink_id}#P{index}`（例如 `SINK-001#P1`），或保持为空；关键是 `sink_id` 必须保留以便与 sinks/dataflows 对齐。

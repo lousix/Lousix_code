@@ -30,6 +30,7 @@ permission:
 - 扫描时间
 - 漏洞统计概览
 - 风险评估
+- 模块概览（含每个模块的content_description）
 
 ### 2. 漏洞详情
 
@@ -87,6 +88,14 @@ permission:
 
 ---
 
+## 模块概览
+
+> 模块信息来自 `project_info.json.modules[]`。本节会把每个模块的 `content_description` 原样输出，便于快速理解项目结构与风险面。
+
+| 模块 | 路径 | 风险等级 | 描述 |
+|------|------|----------|------|
+| {module_name} | `{module_path}` | {module_risk_level} | {module_content_description} |
+
 ## 漏洞详情
 
 ### 🔴 Critical 漏洞 ({critical_count}个)
@@ -110,6 +119,12 @@ permission:
 | 3. | {mid2_file} | {mid2_line} | `{mid2_code}` | {mid2_desc} |
 | ... | ... | ... | ... | ... |
 | N. [SINK] | {sink_file} | {sink_line} | `{sink_code}` | {sink_desc} |
+
+**触发点 (Trigger Point)**:
+{trigger_point_summary}
+
+**数据流文件**:
+`{dataflow_file}`
 
 **漏洞代码**:
 
@@ -245,6 +260,16 @@ permission:
       "scanner": "OpenCode Vulnerability Scanner",
       "version": "1.0.0"
     },
+    "project": {
+      "modules": [
+        {
+          "name": "auth",
+          "path": "app/auth",
+          "risk_level": "High",
+          "content_description": "..."
+        }
+      ]
+    },
     "summary": {
       "total_files": 100,
       "total_vulnerabilities": 25,
@@ -308,6 +333,7 @@ permission:
 
 - `verified_vulnerabilities.json`: 验证后的漏洞信息
 - `project_info.json`: 项目信息
+- `dataflows/`（可选）：如需要在报告中展示更多触发点/函数体信息，可从 per-sink 文件补充
 
 ### 2. 生成报告
 

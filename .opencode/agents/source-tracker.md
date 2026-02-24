@@ -22,6 +22,8 @@ permission:
 2. **数据流分析**: 构建从source到sink的完整数据流路径
 3. **跨文件追踪**: 跟踪数据在不同文件之间的传递
 4. **工具集成**: 使用CodeQL和LSP进行深度分析(优先使用lsp)
+5. **函数体抽取**: 提取source→sink路径中涉及到的所有函数/方法完整内容
+6. **触发点定位**: 从sink向上追踪到最终入口（route/handler/main/command），输出触发链
 
 ## 工具使用
 
@@ -89,13 +91,28 @@ def get_symbol_definition(file_path, line, column):
 
 ## 数据流追踪步骤
 
-### 1. 读取sink点信息
+### 1. 接收单个sink点信息（同步触发）
 
-从 `sink_points.json` 读取所有待分析的sink点。
+**重要：本Agent以“单个sink”为输入，被 `file-sink-analyzer` 在发现sink后同步调用。**
 
-### 2. 逐个sink点分析
+接收输入（来自调用方）：
 
-对于每个sink点：
+- project_path: 项目根目录（绝对路径）
+- language: 项目主要语言
+- output_dir: dataflows输出目录（绝对路径，调用方会确保存在）
+- sink: 单个sink对象，至少包含：
+  - sink_id
+  - file（相对于project_path的路径）
+  - line（1-based行号）
+  - column_start/column_end（可选）
+  - sink_function
+  - call_pattern
+  - vulnerability_type
+  - key_parameters（可选）
+
+### 2. 单sink分析流程
+
+对于该sink：
 
 ```
 步骤1: 确定sink点位置
@@ -126,24 +143,40 @@ def get_symbol_definition(file_path, line, column):
   - 用户输入: input(), sys.argv
   - 环境变量: os.getenv()
   - 数据库: cursor.fetchall()
+
+步骤7: 判断source是否用户可控（必须输出）
+  - HTTP请求参数/body/header/cookie 等：是
+  - CLI参数：是
+  - 环境变量：通常是（视部署而定，默认按可控处理并在说明中标注）
+  - 文件读取：如果是用户上传/外部文件/请求内容：是；如果是应用内常量文件：否
+  - 数据库结果：默认否（除非能证明由用户输入写入且未净化）
+
+步骤8: 抽取路径中所有函数/方法完整内容
+  - 对 data_flow 中每个节点，用LSP定位其所在函数/方法范围并提取 full_function
+  - 对函数去重，形成 functions_in_path[]
+
+步骤9: 定位sink最终触发点（入口）
+  - 从sink所在函数开始，使用LSP find references 反向找调用者
+  - 递归向上直到入口模式或达到深度上限
+  - 入口模式：路由/控制器/handler/main/command等
+  - 输出 trigger_point + trigger_chain[]
 ```
 
 ### 3. 数据流路径记录
 
-对于每个source-sink对，记录：
+对于每个source-sink路径，记录（写入 per-sink 输出文件）：
 
 ```json
 {
-  "path_id": "PATH-001",
   "sink_id": "SINK-001",
   "vulnerability_type": "command_injection",
-  "confidence": 0.85,
   "source": {
     "file": "app/views.py",
     "line": 45,
     "function": "handle_request",
     "code": "user_input = request.form.get('cmd')",
-    "source_type": "user_input"
+    "source_type": "http_request",
+    "is_user_controlled": true
   },
   "sink": {
     "file": "app/utils.py",
@@ -156,24 +189,65 @@ def get_symbol_definition(file_path, line, column):
       "file": "app/views.py",
       "line": 45,
       "description": "接收用户输入",
-      "code": "user_input = request.form.get('cmd')"
+      "code": "user_input = request.form.get('cmd')",
+      "full_function": "def handle_request():\n    user_input = request.form.get('cmd')\n    ...\n"
     },
     {
       "file": "app/views.py",
       "line": 48,
       "description": "传递给utils模块",
-      "code": "result = execute_command(user_input)"
+      "code": "result = execute_command(user_input)",
+      "full_function": "def handle_request():\n    ...\n    result = execute_command(user_input)\n"
     },
     {
       "file": "app/utils.py",
       "line": 85,
       "description": "函数接收参数",
-      "code": "def execute_command(cmd):"
+      "code": "def execute_command(cmd):",
+      "full_function": "def execute_command(cmd):\n    ...\n"
     },
     {
       "file": "app/utils.py",
       "line": 89,
       "description": "危险函数调用",
+      "code": "os.system(user_input)",
+      "full_function": "def execute_command(cmd):\n    os.system(cmd)\n"
+    }
+  ],
+  "functions_in_path": [
+    {
+      "file": "app/views.py",
+      "function": "handle_request",
+      "start_line": 40,
+      "end_line": 60,
+      "full_function": "def handle_request():\n  ...\n"
+    },
+    {
+      "file": "app/utils.py",
+      "function": "execute_command",
+      "start_line": 80,
+      "end_line": 95,
+      "full_function": "def execute_command(cmd):\n  ...\n"
+    }
+  ],
+  "trigger_point": {
+    "type": "http_route",
+    "file": "app/routes.py",
+    "line": 12,
+    "symbol": "handle_request",
+    "route": "POST /run"
+  },
+  "trigger_chain": [
+    {
+      "file": "app/routes.py",
+      "line": 12,
+      "function": "handle_request",
+      "code": "@app.post('/run')"
+    },
+    {
+      "file": "app/utils.py",
+      "line": 89,
+      "function": "execute_command",
       "code": "os.system(user_input)"
     }
   ],
@@ -296,22 +370,66 @@ def find_references(symbol):
 
 ## 输出格式
 
-将数据流路径保存到 `dataflow_paths.json`：
+### 1) per-sink 全量输出（必须）
+
+将该sink的数据流追踪结果保存到：
+
+- `{output_dir}/{sink_id}.json`
+
+文件内容建议为：
 
 ```json
 {
-  "total_paths": 25,
-  "by_vulnerability": {
-    "command_injection": 8,
-    "sql_injection": 5,
-    "path_traversal": 7,
-    "xss": 5
+  "metadata": {
+    "project_path": "/abs/path/to/project",
+    "language": "python",
+    "generated_at": "2026-01-31T00:00:00Z"
+  },
+  "sink": {
+    "sink_id": "SINK-001",
+    "file": "app/utils.py",
+    "line": 89,
+    "sink_function": "os.system",
+    "call_pattern": "os.system(user_input)",
+    "vulnerability_type": "command_injection"
   },
   "paths": [
-    // 数据流路径数组
-  ]
+    // 上面“数据流路径记录”的对象数组（可多条路径）
+  ],
+  "statistics": {
+    "path_count": 1,
+    "source_found": true,
+    "source_types": ["http_request"]
+  }
 }
 ```
+
+### 2) 返回给调用方的摘要（必须）
+
+本Agent执行完后，必须返回给调用方一段摘要（用于回填 `sinks/*.json`），至少包含：
+
+- sink_id
+- source_found (true/false)
+- source_types (数组)
+- path_count (数字)
+- trigger_point_summary（字符串，便于人读）
+- dataflow_file（相对路径或文件名，例如 `{sink_id}.json`）
+
+示例返回：
+
+```
+✓ Source追踪完成
+- sink_id: SINK-001
+- source_found: true
+- source_types: http_request
+- path_count: 1
+- trigger_point: POST /run -> handle_request
+- dataflow_file: SINK-001.json
+```
+
+### （可选）全量聚合输出
+
+如果需要跨sink统计，可在扫描末尾再聚合生成 `dataflow_paths.json`，但本次链路以 per-sink 输出为主。
 
 ## 性能优化
 

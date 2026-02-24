@@ -139,6 +139,29 @@ done
    - 加密解密：密码处理、token管理
    - ......
 
+#### 输出要求（必须）
+
+**重要：每一个被识别为模块的目录，都必须在 `project_info.json.modules[]` 中产出完整描述，并且必须包含 `content_description` 字段。**
+
+模块筛选建议（避免把所有目录都当模块）：
+
+- 目录下包含源文件（`.py/.js/.ts/.java/.go/.c/.cpp`）
+- 且源文件数量 ≥ 2（可按项目规模调整）
+- 或目录名命中典型模块命名：`api/auth/security/user/admin/db/database/model/service/utils/common/core/router/controller` 等
+
+每个模块对象字段（强制）：
+
+- `name`: 模块名（目录名或语义名）
+- `path`: 相对路径（相对于project_path）
+- `file_count`
+- `main_files`: 关键文件（优先入口/路由/控制器/服务层文件）
+- `function`: 模块功能一句话概括
+- `risk_points`: 风险点列表
+- `content_description`: **模块内容描述（2-6句）**，用于最终报告输出
+- `risk_level`: High/Medium/Low
+
+> 注意：`content_description` 必须可直接用于最终报告，不要写成“包含若干文件”这种空泛表述；应具体描述该模块处理的数据/入口/关键依赖/潜在攻击面。
+
 ### 步骤 7: 识别高风险文件
 
 基于文件内容分析，识别高风险代码模式和潜在漏洞点：

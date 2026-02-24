@@ -20,6 +20,7 @@ permission:
 **重要：根据文件名创建一个sink记录的JSON文件。**
 **重要：sink点数量没有上限，每发现一个sink点立即追加到本文件对应的JSON文件。**
 **文件命名规则：{父目录名}\_{文件名}.json，如 src/utils/db.py → utils_db.json**
+**重要：发现一个sink点后（如果需要追踪source），必须立刻同步追踪对应source，并把结果写入输出文件（双写：回填到该sink记录 + 输出dataflows/{sink_id}.json）。**
 
 ## 接收输入
 
@@ -189,6 +190,7 @@ pickle.loads(user_file.read())
 
 ```python
 sink_object = {
+  "sink_id": "SINK-<stable-id>",
   "vulnerability_type": "command_injection",
   "line_number": 23,
   "column_start": 8,
@@ -198,12 +200,23 @@ sink_object = {
   "severity": "Critical",
   "cwe": "CWE-78",
   "call_pattern": "os.system(user_command)",
-  "risk_reason": "危险函数接收可能不受控的参数"
+  "risk_reason": "危险函数接收可能不受控的参数",
+  "needs_source_tracking": true,
+  "source_tracking": {
+    "attempted": false,
+    "source_found": null,
+    "source_types": [],
+    "trigger_point_summary": null,
+    "dataflow_file": null,
+    "path_count": 0,
+    "error": null
+  }
 }
 ```
 
 **sink_object字段说明：**
 
+- `sink_id`: 稳定的sink标识（必须），用于把source追踪结果与该sink绑定。建议构造：`SINK-{hash(file_path)}-{line_number}-{column_start}` 或基于 `file_path+line+call_pattern` 的hash。
 - `vulnerability_type`: 漏洞类型（如：command_injection, sql_injection, path_traversal等）
 - `line_number`: 漏洞所在行号
 - `column_start`: 起始列号（可选）
@@ -214,6 +227,8 @@ sink_object = {
 - `cwe`: CWE编号
 - `call_pattern`: 完整的调用表达式
 - `risk_reason`: 为什么这个调用方式存在风险
+- `needs_source_tracking`: 是否需要追踪source（漏洞型sink通常为true；合规/配置类问题通常为false）
+- `source_tracking`: source追踪摘要（由本Agent在调用source-tracker后回填）
 
 追加到JSON文件的逻辑（首次创建或追加）：
 
@@ -244,7 +259,83 @@ def append_sink_to_json(output_file, sink_object, file_path, language):
         json.dump(data, f, indent=2, ensure_ascii=False)
 ```
 
-### 步骤 5: 返回结果
+### 步骤 5: 对sink点同步追踪source（按需）并双写结果
+
+**目标**：对每个 `needs_source_tracking=true` 的sink，立刻同步调用 `source-tracker`，输出 `dataflows/{sink_id}.json`，并回填 `sinks/*.json` 中该sink的 `source_tracking` 字段。
+
+#### 5.1 判断是否需要追踪source（合规类问题跳过）
+
+规则（可调整，但必须稳定且可解释）：
+
+- **默认需要追踪source**：
+  - `command_injection`, `sql_injection`, `xss`, `ssrf`, `path_traversal`, `deserialization`, `code_injection`, `template_injection`, `format_string` 等“外部输入→危险操作”的漏洞型sink
+- **默认不追踪source（合规/配置类）**：
+  - `hardcoded_secret`, `weak_crypto`, `insecure_tls`, `missing_security_header`, `info_leak` 等（这类问题一般不依赖用户可控输入）
+
+实现建议：基于 `vulnerability_type` 做白名单/黑名单判断，得到 `needs_source_tracking`。
+
+#### 5.2 创建dataflows输出目录
+
+```python
+from pathlib import Path
+
+dataflows_dir = Path(f"{output_dir}/../dataflows").resolve()
+dataflows_dir.mkdir(parents=True, exist_ok=True)
+```
+
+> 说明：这里的 `output_dir` 是 sinks 目录（例如 `{base_output}/sinks`），dataflows 建议放到同级目录 `{base_output}/dataflows`。
+
+#### 5.3 同步调用source-tracker（单sink输入）
+
+```python
+if sink_object["needs_source_tracking"]:
+    result = task(
+        subagent_type="source-tracker",
+        description="追踪单个sink的source与触发点",
+        prompt=f"""
+请对以下单个sink进行source追踪（同步执行，完成后返回摘要信息）：
+
+- project_path: {project_path}
+- language: {language}
+- output_dir: {str(dataflows_dir)}
+
+- sink:
+  sink_id: {sink_object["sink_id"]}
+  file: {file_path}
+  line: {sink_object["line_number"]}
+  column_start: {sink_object.get("column_start")}
+  column_end: {sink_object.get("column_end")}
+  sink_function: {sink_object["sink_function"]}
+  call_pattern: {sink_object["call_pattern"]}
+  vulnerability_type: {sink_object["vulnerability_type"]}
+  key_parameters: {sink_object.get("key_parameters", [])}
+"""
+    )
+```
+
+#### 5.4 回填source追踪摘要到sinks/*.json
+
+回填要求：
+- 必须把 `source_tracking.attempted` 置为 `true`
+- 必须设置 `dataflow_file` 指向生成的 `dataflows/{sink_id}.json`
+- `source_found` / `source_types` / `trigger_point_summary` / `path_count` 等信息从 `source-tracker` 的返回中提取
+- 如果 `source-tracker` 失败，写入 `source_tracking.error`
+
+实现建议（伪代码）：
+
+```python
+def update_sink_source_tracking(output_file, sink_id, source_tracking_update):
+    with open(output_file, "r") as f:
+        data = json.load(f)
+    for s in data.get("sinks", []):
+        if s.get("sink_id") == sink_id:
+            s["source_tracking"] = {**s.get("source_tracking", {}), **source_tracking_update}
+            break
+    with open(output_file, "w") as f:
+        json.dump(data, f, indent=2, ensure_ascii=False)
+```
+
+### 步骤 6: 返回结果
 
 完成分析后，返回结果：
 
@@ -316,13 +407,19 @@ def append_sink_to_json(output_file, sink_object, file_path, language):
    - 只关注调用方式本身是否危险
    - 如果调用模式是危险的，就记录为sink点
 
-4. **启发式识别**：
+4. **发现sink后立即追踪source（按需）**：
+
+   - 对 `needs_source_tracking=true` 的sink：必须同步调用 `source-tracker`
+   - 追踪结果必须双写：`dataflows/{sink_id}.json`（全量） + 回填 `sinks/*.json`（摘要）
+   - 对合规/配置类问题：`needs_source_tracking=false`，不追踪source
+
+5. **启发式识别**：
 
    - 不要仅限于示例中的函数名
    - 根据CWE原理、操作类别、代码模式进行识别
    - 利用模型的语义理解能力
 
-5. **保持JSON格式一致**：所有sink点的JSON记录格式必须一致
+6. **保持JSON格式一致**：所有sink点的JSON记录格式必须一致
 
 ## 附录：漏洞类型和CWE对照
 

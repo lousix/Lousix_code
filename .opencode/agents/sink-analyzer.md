@@ -47,6 +47,7 @@ cat {project_info_path}
 ```bash
 # 创建输出目录
 mkdir -p {output_dir}/sinks
+mkdir -p {output_dir}/dataflows
 ```
 
 ### 步骤 3: 遍历文件并调用子Agent
